@@ -1,4 +1,4 @@
-# eduardo-responde
+# Disneyland
 Is this a joke? Nope.
 
-Whant eduardo to address some issue? Just open it here. https://github.com/sysarmy/eduardo-responde/issues
+Do you want sysarmy to address some issue? Just open it here. https://github.com/sysarmy/disneyland/issues
