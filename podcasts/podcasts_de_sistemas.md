@@ -1,16 +1,16 @@
 La idea es compilar una lista de podcasts de sistemas y afines.
 
-### Español
+## Español
 
-#### Polémica en /var
+### Polémica en /var
 Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
 - [Spotify](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M?si=6CUV-BvyQg6M0HmcbxnIrg)
 
-#### Café con Java
+### Café con Java
 Café con Java es un podcast que no habla de café ni de Java, sino que intenta comprender los estereotipos establecidos en el inconsciente colectivo sobre les individuos de sistemas.
 - [Spotify](https://open.spotify.com/show/0TVlDun02hUMkQXEs33rRe?si=fGMZuUpdSn2z25-zLpx-1w)
 
-#### Con de Todo
+### Con de Todo
 Pintó y nos juntamos a charlar de temas relacionados con el mundo de IT.
 - [Spotify](https://open.spotify.com/show/31ssrlsri3sWWQQj3urG53?si=jpbEfqH3RSyCRIUCUpVjgw)
 
@@ -64,7 +64,7 @@ Podcast sobre la industria Tech en Argentina, en el que entrevistaremos a las pr
 
 ### Cadena de Datos
 Podcast con entrevistas a referentes de los datos abiertos de habla hispana.
-- [https://avdata99.github.io/cadena-de-datos/)
+- [Cadena de datos](https://avdata99.github.io/cadena-de-datos/)
 
 ### Pinecast
 Programa sobre distintas temáticas relacionadas al desarrollo de software, producido por 10Pines.
@@ -90,7 +90,7 @@ The Pipeline: All things CI/CD & DevOps is hosted by the CD Foundation's Directo
 
 ### Command line heros
 An original podcast about the people who transform technology from the command line up. Presented by Red Hat.
--[Command line heros](https://www.redhat.com/en/command-line-heroes)
+- [Command line heros](https://www.redhat.com/en/command-line-heroes)
 
 ### Dark net diaries
 True stories from the dark side of the Internet	 	
@@ -170,3 +170,6 @@ Ship Happens is a VictorOps podcast series featuring interviews with leaders in 
 ### Syntax.fm (Spotify)
 A Tasty Treats Podcast for Web Developers.
 - [Sintax.fm](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=bOe7-kl6RnOHapMsVnFWgw)
+
+Colaboraron con esta lista (ademas de los comentarios del hilo):
+- [Luis Chilo](https://github.com/gfxargentina)
