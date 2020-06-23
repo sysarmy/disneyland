@@ -175,5 +175,9 @@ Ship Happens is a VictorOps podcast series featuring interviews with leaders in 
 A Tasty Treats Podcast for Web Developers.
 - [Sintax.fm](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=bOe7-kl6RnOHapMsVnFWgw)
 
+### No Plans to Merge
+Real life code talk between two working developers
+- [No Plans to Merge](https://noplanstomerge.simplecast.com/)
+
 Colaboraron con esta lista (ademas de los comentarios del hilo):
 - [Luis Chilo](https://github.com/gfxargentina)
