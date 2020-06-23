@@ -74,6 +74,10 @@ Programa sobre distintas temáticas relacionadas al desarrollo de software, prod
 Cuatro colegas de la industria del diseño aplicado a la tecnología charlan sobre el día a día, sus desafíos y qué opciones hay desde un lugar más cercano. Somos Luis Esquivel, Gastón Lasarte, Nicolás Prieto y Facu Puig
 - [Café de Saign](https://open.spotify.com/show/6HzmiKNDCTpstzgaiF9g8U?si=AEmI3BJCRwOTEPCiBRe9cg)
 
+### Podcast de Eduardo Collado
+No sólo de hosting y redes vive el hombre.
+- [Podcast de Eduardo Collado](https://open.spotify.com/show/7IkjXOPXozVfUAShVLzmLq)
+
 ## Inglés
 
 ### Syscast Podcast
