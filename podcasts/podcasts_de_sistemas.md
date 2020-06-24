@@ -78,6 +78,11 @@ Cuatro colegas de la industria del diseño aplicado a la tecnología charlan sob
 No sólo de hosting y redes vive el hombre.
 - [Podcast de Eduardo Collado](https://open.spotify.com/show/7IkjXOPXozVfUAShVLzmLq)
 
+### RadioGeek
+Radiogeek Podcast es un programa diario de tecnología. realizamos un resumen de noticias con un análisis diferente de los que se realizan en los medios clásicos tradicionales. Los invitamos a que sigan nuestra pagina web www.infosertec.com.ar - Desde Buenos Aires – Argentina.
+
+- [RadioGeek](https://anchor.fm/radiogeek)
+
 ## Inglés
 
 ### Syscast Podcast
