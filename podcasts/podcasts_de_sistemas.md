@@ -263,5 +263,5 @@ A special education teacher turned sysadmin turned business owner, talking about
 Der Sysadmin Laberpodcast
 - [Kabelsalat](https://open.spotify.com/show/1Th4cUxcj538FBOlbeupix?si=TIApahUjR5Kh6T0j9yNp2Q)
 
-Colaboraron con esta lista (ademas de los comentarios del hilo):
+## Colaboradores
 - [Luis Chilo](https://github.com/gfxargentina)
