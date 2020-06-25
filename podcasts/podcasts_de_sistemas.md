@@ -80,8 +80,48 @@ No sólo de hosting y redes vive el hombre.
 
 ### RadioGeek
 Radiogeek Podcast es un programa diario de tecnología. realizamos un resumen de noticias con un análisis diferente de los que se realizan en los medios clásicos tradicionales. Los invitamos a que sigan nuestra pagina web www.infosertec.com.ar - Desde Buenos Aires – Argentina.
-
 - [RadioGeek](https://anchor.fm/radiogeek)
+
+### Sysadmin y otras cosas
+Un podcast para administradores de sistemas que, en este mundo cruel de la informática, deben conocer mucho más que los simples y mundanos sistemas operativos tristemente instalados por los ordenadores del mundo. Noticias, tips, software recomendado y un largo etcétera serán los ingredientes para este cóctel informático.
+- [Sysadmin y otras cosas](https://open.spotify.com/show/24XxiOe6315JUffdIq4uto?si=1q35K-JgT4mZuNDYmHrXlw)
+
+### La Resistencia .IO
+Un podcast de geeks, nerds, y techs. Discutiendo ciberseguridad, la industria y nuestras vidas.
+Hablamos de #infosec, #hackers, #exploits, #vulnerabilidades, #devops, #sysadmin y temas "random" de una forma jocosa e informativa.
+- [La Resistencia .IO](https://open.spotify.com/show/6OFU0REkMnPhfQIenRto9j?si=eAX2yRGKTEKlbot8H9eewg)
+
+### Deployando.me
+Podcast de tecnologia para sysadmins y devops
+- [Deployando.me](https://open.spotify.com/show/5aR6ZAEI9fiKRYUTbG47qx?si=hz6aw7orREO1GI1PxeV4bA)
+
+### Testimonios del Squad
+Podcast creado por Gabriel Arocha donde conversamos diversos temas, técnicos, informativos, metodológicos, experiencias, pero lo mejor, TESTIMONIOS directos por las propias voces de: Developers, QAs, Sysadmins, BAs, Scrum Masters, Project Managers, en fin cualquier rol que exista en un squad, aquí podrás escuchar sus confesiones.
+- [Testimonios del Squad](https://open.spotify.com/show/663UMxDzILhBjhrnaYlK5D?si=AIZsLR_1Tk-WlikGlEOdTg)
+
+
+
+## Portugués
+
+### Hipsters Ponto Tech
+Discussões sobre tecnologia, programação, design, startups e as últimas tendências.
+- [Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=GOnS_cHASw2iosf9XbINrg)
+
+### Podcast Canaltech
+O Canaltech Podcast é o seu diário de tecnologia. Em poucos minutos, fique por dentro das principais notícias desse universo: mercado de TI, jogos, curiosidades, dicas e comentários sobre tudo aquilo que as pessoas conectadas precisam saber.
+- [Canaltech](https://open.spotify.com/show/0LS0nKZRq1Ot94PLqw1CXE?si=LotPoUeiR1uvidBaFcoSsA)
+
+### Devnaestrada
+O podcast mais tradicional sobre desenvolvimento! Toda sexta-feira um novo episódio sobre tecnologias, entrevistas com profissionais na área, tudo com muito humor e alegria
+- [Devnaestrada](https://open.spotify.com/show/1yQ2qrscxoTmdUvZgMoY4a?si=Qac_Eda5SBikhM7hT46GFA)
+
+### CocaTech
+Bem-vindos ao CocaTech. Um bate-papo diário e rápido sobre o que acontece no mundo da tecnologia, desde o ponto de vista Apple.
+- [CocaTech](https://open.spotify.com/show/4KIK1AEMmcNIgHGs4nDKlZ?si=omD__nnDT5ChsD5tzicGBw)
+
+### Mixórdia SRE, sysadmin e afins
+Podcast sobre SRE, sysadmin, Linux, open source, carreira e uma mistura confusa de coisas variadas.
+- [Mixórdia SRE, sysadmin e afins](https://open.spotify.com/show/0uLgKHZDMiq3t2qltmCKGj?si=gInalpF5TfSEMAEAdKu--A)
 
 ## Inglés
 
@@ -170,7 +210,7 @@ The best startup advice from Silicon Valley & beyond. Iconic CEOs — from Nike 
 
 ### Ambassador
 Everything you need to know about building a Kubernetes platform, getting traffic into your cluster, and using the Ambassador Edge Stack
-- [Ambassador](https://www.getambassador.io/resources?types=Podcast)
+- [Ambassador](https://open.spotify.com/show/4A8w8qB4ogp9JAk6tEqQn9?si=gH6w1u6pSxa98kQFfmDm_w)
 
 ### Ship Happens by VictorOps
 Ship Happens is a VictorOps podcast series featuring interviews with leaders in the engineering and DevOps communities
@@ -183,6 +223,45 @@ A Tasty Treats Podcast for Web Developers.
 ### No Plans to Merge
 Real life code talk between two working developers
 - [No Plans to Merge](https://noplanstomerge.simplecast.com/)
+
+### Sysadmin Today Podcast
+Discussing and sharing ideas, solutions and strategies related to building and maintaining an IT infrastructure. Will also be sharing stories from the trenches, product and tool reviews, virtualization, Office 365 and much more. Please check us out every week for new episodes.
+- [Sysadmin Today](https://open.spotify.com/show/3TIjm6mQBiib9KrXNhMWl4?si=6968yIDkROSwUiBAbftdEg)
+
+### Sysadmin Show
+A podcast focused on the Information Technology workplace.
+We discuss career opportunities, education/training and the technologies used today.
+- [Sysadmin Show](https://open.spotify.com/show/3WQKZcqnFLhb8e9hSAZeqy?si=Waqxet7OQRWvGzkHChOsxg)
+
+### Sysadmininstrivia
+We podcast all things system administration/engineering/infosec, with a strong focus on GNU/Linux. We use F/OSS software whenever possible in the production of these podcasts. Please be sure to view our show notes on the site!
+- [Sysadministrivia](https://open.spotify.com/show/2ywuyjtSwXE0oCdXstVI2H?si=6FjbhPQYRIye8P-wy1PHUw)
+
+### The Sysadmin School
+Mike Walton reveals his knowledge and experience being a Systems Administrator. I want to help others get into the SysAdmin field and improve their knowledge and career. Advance your career as a Systems Administrator and enjoy a better life. 
+- [The Sysadmin School](https://open.spotify.com/show/4vx1ISPtXpIYCSFv2j6wCJ?si=1bdzTiblSSOenF1eDTdm6Q)
+
+### Iron Sysadmin Podcast
+Some real world sysadmins give you the news, and chat about sysadminning in the industry.
+-[Iron Sysadmin](https://open.spotify.com/show/2YPaaFdZD8D9I945REcsKy?si=6SeO9-xySrKmCSJqAA__SA)
+
+### 2.5 Admins
+2.5 Admins is a podcast featuring two sysadmins called Allan Jude and Jim Salter, and a producer/editor who can just about configure a Samba share called Joe Ressington. Every two weeks we get together, talk about recent tech news, and answer some of your admin-related questions.
+- [2.5 Admins](https://open.spotify.com/show/5SnfOIrOCRtTbCaDifDgjO?si=DXF2BjfDRGqAnTUSrV21lA)
+
+### Hope This Helps
+The STiffs talk about IT industry topics (and maybe some other random things along the way), some of which may or may not make you a better sysadmin.
+- [Hope This Helps](https://open.spotify.com/show/1Yedsm23LoF35w6LyivMmh?si=W1eQWBacSEG2IR0YinZfaQ)
+
+### HIROBYTES
+A special education teacher turned sysadmin turned business owner, talking about entrepreneurship, transitioning into tech, disability, identity as a "Japanese American," and personal finance.
+- [HIROBYTES](https://open.spotify.com/show/4Ts0sfs7gxaAtNuqCJXBCQ?si=t3yJ7jK4SGGqcXVBooOMqQ)
+
+## Alemán
+
+### Kabelsalat
+Der Sysadmin Laberpodcast
+- [Kabelsalat](https://open.spotify.com/show/1Th4cUxcj538FBOlbeupix?si=TIApahUjR5Kh6T0j9yNp2Q)
 
 Colaboraron con esta lista (ademas de los comentarios del hilo):
 - [Luis Chilo](https://github.com/gfxargentina)
