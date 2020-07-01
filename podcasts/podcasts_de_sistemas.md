@@ -103,6 +103,10 @@ Podcast creado por Gabriel Arocha donde conversamos diversos temas, técnicos, i
 Saber de las nuevas tecnologías virtuales nos abre la posibilidad de usar y crear infinidad de herramientas para administrar cualquier proyecto, y a su vez, Internet nos permite escalarlo para hacerlo llegar a cualquier persona del mundo que esté conectada a ella. Pero para eso hay que "Romper Código" y nos proponemos a charlar sobre programación, tecnología, educación, entre otras cosas de forma random para que nunca pares de romper!
 - [Rompiendo Código](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4?si=Y-5lVhVdRfi_1LejY55v8g)
 
+## Entre Dev y Ops Podcast
+Tras el auge del movimiento DevOps, creemos que compartir información es el mejor camino para estrechar la distancia entre los equipos de desarrollo y de operaciones. Con este objetivo, nace Entre Dev y Ops, donde se compartirá información relativa a ambos mundos en castellano.
+- [Entre Dev y Ops Podcast](https://open.spotify.com/show/2DVB2I5o2KY6VyVxPRbrLX?si=YS5VrMvFSQGC5xLx2XtdxA)
+
 ## Portugués
 
 ### Hipsters Ponto Tech
