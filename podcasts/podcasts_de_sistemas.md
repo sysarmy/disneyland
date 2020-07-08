@@ -103,9 +103,15 @@ Podcast creado por Gabriel Arocha donde conversamos diversos temas, técnicos, i
 Saber de las nuevas tecnologías virtuales nos abre la posibilidad de usar y crear infinidad de herramientas para administrar cualquier proyecto, y a su vez, Internet nos permite escalarlo para hacerlo llegar a cualquier persona del mundo que esté conectada a ella. Pero para eso hay que "Romper Código" y nos proponemos a charlar sobre programación, tecnología, educación, entre otras cosas de forma random para que nunca pares de romper!
 - [Rompiendo Código](https://open.spotify.com/show/2FvVJJneKyZ3Thb0gfbVn4?si=Y-5lVhVdRfi_1LejY55v8g)
 
-## Entre Dev y Ops Podcast
+### Entre Dev y Ops Podcast
 Tras el auge del movimiento DevOps, creemos que compartir información es el mejor camino para estrechar la distancia entre los equipos de desarrollo y de operaciones. Con este objetivo, nace Entre Dev y Ops, donde se compartirá información relativa a ambos mundos en castellano.
 - [Entre Dev y Ops Podcast](https://open.spotify.com/show/2DVB2I5o2KY6VyVxPRbrLX?si=YS5VrMvFSQGC5xLx2XtdxA)
+
+### Programar es una Mierda
+Podcast sobre desarrollo de software. Programar es muy divertido, pero a veces se vuelve un infierno. Mejor tomárselo con humor. Presentan [@jjmerono](https://twitter.com/jjmerono) y [@sinmsinm](https://twitter.com/sinmsinm)
+
+- [Programar es una Mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=DZTvjvgCQN6iWkTv48go6Q)
+
 
 ## Portugués
 
@@ -262,6 +268,39 @@ The STiffs talk about IT industry topics (and maybe some other random things alo
 ### HIROBYTES
 A special education teacher turned sysadmin turned business owner, talking about entrepreneurship, transitioning into tech, disability, identity as a "Japanese American," and personal finance.
 - [HIROBYTES](https://open.spotify.com/show/4Ts0sfs7gxaAtNuqCJXBCQ?si=t3yJ7jK4SGGqcXVBooOMqQ)
+
+### Corecursive
+Hear experts explain computer science and programming concepts. CoRecursive is a high quality, concise, and beloved software engineering interview podcast. Learn about programming languages, coding career advice and interviews about open source community tech news. Host Adam Gordon Bell brings in experts to talk about type theory, web development, learning to code, dev ops and much more.Some episodes touch on the topics of cloud development, machine learning and big data.
+Adam, the host is a big fan of programming languages like Scala, Haskell, Rust, and Swift, but isn’t afraid to talk about more mainstream languages like Java, JavaScript and Python. Scala and Kotlin come up a lot.
+CoRecursive is similar to podcasts such as Stack Overflow Podcast, Programming Throwdown, Talk Python To Me, CodeNewbie, Full Stack Radio and Developer Tea.
+
+- [Corecursive](https://open.spotify.com/show/6XU1MRwzCfAXD07YHbpjNv?si=DG1VoW3nS5qIpIz1KMZ4zg)
+
+### Developer Tea
+Developer Tea exists to help driven developers connect to their ultimate purpose and excel at their work so that they can positively impact the people they influence. With over 13 million downloads to date, Developer Tea is a short podcast hosted by Jonathan Cutrell (@jcutrell), co-founder of Spec and developer at @Clearbit. 
+
+- [Developer Tea](https://open.spotify.com/show/02fM1JHpt9HmHGp482K71b?si=D7P-7kC5ScOCyAvya0CJcQ)
+
+### Full Stack Radio
+A podcast for developers interested in building great software products. Every episode, Adam Wathan is joined by a guest to talk about everything from product design and user experience to unit testing and system administration.
+
+- [Full Stack Radio](https://open.spotify.com/show/0Ddvex5OtYOvhyyK6ckG3A?si=betWk_XwTnm5xUUlOfBYWg)
+
+### CodeNewbie
+Stories and interviews from people on their coding journey.
+
+- [CodeNewbie](https://open.spotify.com/show/3rwr9GdoHxMWF8yZhsBzHn?si=5IjbMScJSMe_bJgtp2dQRA)
+
+### Talk Python To Me
+A podcast on Python and related technologies.
+
+- [Talk Python to me](https://talkpython.fm/)
+
+### Programming Throwdown
+Programming Throwdown with PAtrick Wheeler and Jason Gauci
+
+- [Programming Throwdown](https://www.programmingthrowdown.com/)
+
 
 ## Alemán
 
