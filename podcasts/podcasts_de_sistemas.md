@@ -40,7 +40,7 @@ Podcast comunitario sobre programación y desarrollo web, desde FrontEndCafe.
 - [Wildcast](https://www.twitch.tv/thewildcast)
 
 ### Chile, Mole & Tech
-Podcast #736,927,283 creado por amateurs. Hablamos de Tech, pero con un foco y cariño especial para TI y el tema de la programación. Desde México with Love y para todos lados con Love.
+Hablamos de Tech, pero con un foco y cariño especial para TI y el tema de la programación. Desde México with Love y para todos lados con Love.
 - [Chile, Mole & Tech](https://anchor.fm/chilemoleytech)
 
 ### F0dcast
@@ -146,7 +146,8 @@ Jono Bacon - Community Management Consultant, Author, and Speaker
 - [Conversations with bacon](https://open.spotify.com/show/3ctdqzv045voVNMstm2qMz?si=P6lT4wDlSuOCiI3tlxx67w)
 
 ### The Pipeline
-The Pipeline: All things CI/CD & DevOps is hosted by the CD Foundation's Director of Ecosystem & Community Development - Jacqueline Salinas. This is a series of interviews with industry experts, leaders, and innovators. The Pipeline will cover a range of topics that are centered around CI/CD & DevOps. The CDF’s goal is to educate, entertain, provide tips and insights to make the community better software engineers. The intent is to supply up-to-date industry news and innovations, as well as, expand your knowledge of the vast CI/CD & DevOps ecosystem. This podcast is all about learning from your peers as well as the thought leaders in the CDF community who have been there and done that.
+The Pipeline: All things CI/CD & DevOps is hosted by the CD Foundation's Director of Ecosystem & Community Development - Jacqueline Salinas. This is a series of interviews with industry experts, leaders, and innovators. The Pipeline will cover a range of topics that are centered around CI/CD & DevOps.
+
 - [The Pipeline](https://open.spotify.com/show/3tp2QIhyXffR2ydgt6sOUv?si=stU_VDp3TA2i-78a52mG9g)
 
 ### Command line heros
@@ -168,11 +169,12 @@ Tune in weekly for the latest interviews with leading experts.
 - [Data Skeptic](https://dataskeptic.com/)
 
 ### Software Engineering Radio
-Software Engineering Radio is a podcast targeted at the professional software developer. The goal is to be a lasting educational resource, not a newscast. Three to four times per month, we publish a new episode talking to experts from the software engineering world about the full range of topics that matter to professional developers.
+A podcast all about package management. Your hosts are Alex Pounds and Andrew Nesbitt. Together they explore the technical details of package management, the stories and the history of various projects, and the communities around them too. Every two weeks there will be a brand new interview with a package manager maintainer.
+
 - [Software Engineering Radio](https://www.se-radio.net/)
 
 ### The Manifest
-Welcome to The Manifest, a podcast all about package management. Your hosts are Alex Pounds and Andrew Nesbitt. Together they explore the technical details of package management, the stories and the history of various projects, and the communities around them too. Every two weeks there will be a brand new interview with a package manager maintainer.
+A podcast all about package management. Your hosts are Alex Pounds and Andrew Nesbitt. Together they explore the technical details of package management, the stories and the history of various projects, and the communities around them too. Every two weeks there will be a brand new interview with a package manager maintainer.
 - [The Manifest](https://manifest.fm/)
 
 ### This Week in tech
@@ -250,7 +252,7 @@ We podcast all things system administration/engineering/infosec, with a strong f
 - [Sysadministrivia](https://open.spotify.com/show/2ywuyjtSwXE0oCdXstVI2H?si=6FjbhPQYRIye8P-wy1PHUw)
 
 ### The Sysadmin School
-Mike Walton reveals his knowledge and experience being a Systems Administrator. I want to help others get into the SysAdmin field and improve their knowledge and career. Advance your career as a Systems Administrator and enjoy a better life. 
+Mike Walton reveals his knowledge and experience being a Systems Administrator. I want to help others get into the SysAdmin field and improve their knowledge and career.
 - [The Sysadmin School](https://open.spotify.com/show/4vx1ISPtXpIYCSFv2j6wCJ?si=1bdzTiblSSOenF1eDTdm6Q)
 
 ### Iron Sysadmin Podcast
@@ -258,7 +260,7 @@ Some real world sysadmins give you the news, and chat about sysadminning in the 
 -[Iron Sysadmin](https://open.spotify.com/show/2YPaaFdZD8D9I945REcsKy?si=6SeO9-xySrKmCSJqAA__SA)
 
 ### 2.5 Admins
-2.5 Admins is a podcast featuring two sysadmins called Allan Jude and Jim Salter, and a producer/editor who can just about configure a Samba share called Joe Ressington. Every two weeks we get together, talk about recent tech news, and answer some of your admin-related questions.
+2.5 Admins is a podcast featuring two sysadmins called Allan Jude and Jim Salter, and a producer/editor who can just about configure a Samba share called Joe Ressington.
 - [2.5 Admins](https://open.spotify.com/show/5SnfOIrOCRtTbCaDifDgjO?si=DXF2BjfDRGqAnTUSrV21lA)
 
 ### Hope This Helps
