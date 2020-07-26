@@ -3,7 +3,7 @@ La idea es compilar una lista de podcasts de sistemas y afines.
 ## Español
 
 ### Polémica en /var
-Llegó el café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, meetups, etc.
+El café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, IPOs falopas, etc.
 - [Spotify](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M?si=6CUV-BvyQg6M0HmcbxnIrg)
 
 ### Café con Java
