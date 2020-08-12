@@ -12,6 +12,23 @@ Hacking Nights
 ¿Un jovato usando una terminal, qué podés esperar?
 - [Old Guy](https://www.youtube.com/channel/UCkhuT9X-OT05nLsLLrtQ_WQ)
 
+### Chicas Programando
+Chicas Programando, entrevistas a developers.
+- [Chicas Programando](https://www.youtube.com/channel/UCxYvz2LWEKgCKjou62W3isw)
+
+
+### Pelado Nerd
+Videos instructivos y sensuales sobre tecnologías como Docker, Kubernetes y Linux
+- [Pelado Nerd](https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g)
+
+### ekoparty security conference
+Este es el canal oficial de ekoparty security conference www.ekoparty.org
+La eko se realiza anualmente en la Ciudad Autónoma de Buenos Aires. En este evento, asistentes, invitados, especialistas y referentes en la materia de todo el mundo, tienen la oportunidad de involucrarse con las más recientes innovaciones tecnológicas, vulnerabilidades y herramientas, en un ambiente distendido y de intercambio de conocimientos.
+- [ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
+
+### nerdearla
+Videos de la conferencia organizada por Sysarmy.
+- [nerdearla](https://www.youtube.com/channel/UC1WxOSF0QFb7C0I_QGiDlrA)
 
 ## English
 
@@ -26,3 +43,13 @@ Linus Tech Tips is a passionate team of "professionally curious" experts in cons
 ### Chris Titus Tech
 The channel focus is spread into 3 categories that I specialize in. Linux, Storage, and Servers. I enjoy all technology and have a vast skill set so if there isn't something on here that you'd like to see, let me know! 
 - [Chris Titus](https://www.youtube.com/channel/UCg6gPGh8HU2U01vaFCAsvmQ)
+
+### NetworkChuck
+I LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field through obtaining IT Certifications. I talk about Cisco Certifications, CompTIA, AWS, Microsoft...pretty much EVERYTHING in IT. As a CBT Nuggets Trainer, it's also my passion to TEACH information technology and to make it FUN. 
+- [NetworkChuck](https://www.youtube.com/channel/UC9x0AN7BWHpCDHSm9NiJFJQ)
+
+### TLG - The Linux Guy
+Hi! My name is Gardiner Bryant. I'm the creator of TLG (Technology, Linux, Gaming) as well as The Off Topical Podcast. 
+- [TLG] (https://www.youtube.com/channel/UCv1Kcz-CuGM6mxzL3B1_Eiw)
+
+
