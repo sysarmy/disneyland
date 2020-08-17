@@ -32,6 +32,11 @@ Definitivamente, el espacio esta para dande rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /var - S04E12 - Java: de Tomcat a Minecraft](https://www.youtube.com/watch?v=4QOBUfQaf5g)
+- [Polémica en /var - S03M08 - #Skynet](https://www.youtube.com/watch?v=_dKmsNPOSlc)
+- [Polémica en /var - S04E11 - Las noticias de julio](https://www.youtube.com/watch?v=mqc__bAoQk0)
+- [Polémica en /var - S04E10 - AdminFest 11 años](https://www.youtube.com/watch?v=5pF6UGfgpIY)
+- [Polémica en /var - S04E09 - Especial SRE - Simply Restart Everything](https://www.youtube.com/watch?v=imGKudyFBjo)
 <!-- YOUTUBE:END -->
 
 ### Conectate!
