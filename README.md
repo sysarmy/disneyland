@@ -11,7 +11,7 @@ Con el correr de los años probamos diferentes plataformas, 💣 emails, 💩 sp
 ### ¿Ok, soy una persona del bien y quiero coloaborar <img src="https://raw.githubusercontent.com/edux/disneyland/master/misc/images/shovel.png" width="24">, cómo hago?
 
 
-Una de las 💡 centrales de la comunidad es que quien quiera colaborar pueda hacerlo. Como primer paso podes 🔎 chusmear la lista de issues abiertos para ver si alguno llama tu atención. Sirve mucho que si encontrás un issue mal definido o que no se entiende dejes una pregunta para que quien lo creó pueda expandir la definición de la idea. Si viste algo que te interesó y queres agarrarlo, simplemente deja un comentario en el issue y dale nomás.
+Una de las 💡 centrales de la comunidad es que quien quiera colaborar pueda hacerlo. Como primer paso podes 🔎 chusmear la [lista de issues abiertos](https://github.com/sysarmy/disneyland/issues) para ver si alguno llama tu atención. Sirve mucho que si encontrás un issue mal definido o que no se entiende dejes una pregunta para que quien lo creó pueda expandir la definición de la idea. Si viste algo que te interesó y queres agarrarlo, simplemente deja un comentario en el issue y dale nomás.
 
 ### ¿Hay algun lugar para discutir la magia de disney que no sean los issues?
 
