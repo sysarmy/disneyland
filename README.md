@@ -19,6 +19,10 @@ Sí, podes sumarte a Slack o Discord en ambos hay un canal #disneyland (que esta
 
 Definitivamente, el espacio esta para dande rienda suelta a la imaginación sin compromisos.
 
+### 📕 Últimos Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Conectate!
 
