@@ -1,0 +1,27 @@
+name: Latest blog post workflow
+on:
+  push:
+    branches: ["master"]
+  schedule:
+    # Runs every hour
+    - cron: '0 3 * * 1'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://sysarmy.com/blog/index.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          commit_message: "updated with the lastest youtube videos"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPE3EUzO58EBHzrJp2Fv7_A"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "HELP"
+          commit_message: "updated with the lastest youtube videos"
+          feed_list: "https://help.sysarmy.com/discussions/feed.rss"
