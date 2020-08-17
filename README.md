@@ -8,21 +8,21 @@
 
 ### ¿Qué es este lugar?
 
-Con el correr de los años probamos diferentes plataformas, 💣 emails, 💩 spreadsheets, 💩💩trello💩💩 con el solo propósito de juntar ideas salidas de la comunidad y que se materializen en algun momento. Todo eso fallo horrendamente y derivo en este repo de github despues de un chiste de twitter. 
+Con el correr de los años probamos diferentes plataformas, 💣 emails, 💩 spreadsheets, 💩💩trello💩💩 con el solo propósito de juntar ideas salidas de la comunidad y que se materialicen en algún momento. Todo eso fallo horrendamente y derivo en este repo de github después de un chiste de Twitter. 
 
-### ¿Ok, soy una persona del bien y quiero coloaborar <img src="https://raw.githubusercontent.com/edux/disneyland/master/misc/images/shovel.png" width="24">, cómo hago?
+### ¿Ok, soy una persona del bien y quiero colaborar <img src="https://raw.githubusercontent.com/edux/disneyland/master/misc/images/shovel.png" width="24">, cómo hago?
 
 
-Una de las 💡 centrales de la comunidad es que quien quiera colaborar pueda hacerlo. Como primer paso podes 🔎 chusmear la [lista de issues abiertos](https://github.com/sysarmy/disneyland/issues) para ver si alguno llama tu atención. Sirve mucho que si encontrás un issue mal definido o que no se entiende dejes una pregunta para que quien lo creó pueda expandir la definición de la idea. Si viste algo que te interesó y queres agarrarlo, simplemente deja un comentario en el issue y dale nomás.
+Una de las 💡 centrales de la comunidad es que quien quiera colaborar pueda hacerlo. Como primer paso podes 🔎 chusmear la [lista de issues abiertos](https://github.com/sysarmy/disneyland/issues) para ver si alguno llama tu atención. Sirve mucho que si encontrás un issue mal definido o que no se entiende dejes una pregunta para que quien lo creó pueda expandir la definición de la idea. Si viste algo que te interesó y querés agarrarlo, simplemente deja un comentario en el issue y dale nomás.
 
-### ¿Hay algun lugar para discutir la magia de disney que no sean los issues?
+### ¿Hay algún lugar para discutir la magia de Disney que no sean los issues?
 
 Sí, podes sumarte a Slack [<img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
  o Discord [<img width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord] en ambos hay un canal #disneyland (que esta bridgeado entre ambas plataformas). Si dejas un mensaje 🛎️ ahí alguien te va a responder (aunque pueda tardar un poco).
 
 ### ¿Puedo proponer cosas?
 
-Definitivamente, el espacio esta para dande rienda suelta a la imaginación sin compromisos.
+Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin compromisos.
 
 ### 🆘 Últimas Preguntas en /help
 
