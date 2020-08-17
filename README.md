@@ -1,5 +1,5 @@
 # Welcome to Sysarmy's Disneyland, a place full of broken dreams.
-<img src="https://raw.githubusercontent.com/edux/disneyland/master/misc/images/banner_sysarmy.png">
+<img src="https://raw.githubusercontent.com/sysarmy/disneyland/master/misc/images/banner_sysarmy.png">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/sysarmy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsysarmy&screen_name=sysarmy)
 ![Github Issues](https://img.shields.io/github/issues/sysarmy/disneyland?label=geniales%20ideas%20Pendientes&style=for-the-badge&logoWitdh=50) 
@@ -10,7 +10,7 @@
 
 Con el correr de los años probamos diferentes plataformas, 💣 emails, 💩 spreadsheets, 💩💩trello💩💩 con el solo propósito de juntar ideas salidas de la comunidad y que se materialicen en algún momento. Todo eso fallo horrendamente y derivo en este repo de github después de un chiste de Twitter. 
 
-### ¿Ok, soy una persona del bien y quiero colaborar <img src="https://raw.githubusercontent.com/edux/disneyland/master/misc/images/shovel.png" width="24">, cómo hago?
+### ¿Ok, soy una persona del bien y quiero colaborar <img src="https://raw.githubusercontent.com/sysarmy/disneyland/master/misc/images/shovel.png" width="24">, cómo hago?
 
 
 Una de las 💡 centrales de la comunidad es que quien quiera colaborar pueda hacerlo. Como primer paso podes 🔎 chusmear la [lista de issues abiertos](https://github.com/sysarmy/disneyland/issues) para ver si alguno llama tu atención. Sirve mucho que si encontrás un issue mal definido o que no se entiende dejes una pregunta para que quien lo creó pueda expandir la definición de la idea. Si viste algo que te interesó y querés agarrarlo, simplemente deja un comentario en el issue y dale nomás.
