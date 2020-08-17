@@ -25,6 +25,11 @@ Definitivamente, el espacio esta para dande rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Se puede pagar AWS en pesos argentinos?](https://help.sysarmy.com/discussion/4765/se-puede-pagar-aws-en-pesos-argentinos)
+- [router de borde para 40Gbps](https://help.sysarmy.com/discussion/4764/router-de-borde-para-40gbps)
+- [¿Cómo salgo de el editor vi?](https://help.sysarmy.com/discussion/4763/como-salgo-de-el-editor-vi)
+- [Consultoría para encaminar la adopción devops en una empresa grande](https://help.sysarmy.com/discussion/4762/consultoria-para-encaminar-la-adopcion-devops-en-una-empresa-grande)
+- [Peores soluciones para hostear un wordpress.](https://help.sysarmy.com/discussion/4761/peores-soluciones-para-hostear-un-wordpress)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
