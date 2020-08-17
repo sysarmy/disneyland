@@ -4,7 +4,7 @@ on:
     branches: ["master"]
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 3 * * 1'
 
 jobs:
   update-readme-with-blog:
@@ -15,3 +15,8 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://sysarmy.com/blog/index.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          commit_message: "updated with the lastest youtube videos"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCPE3EUzO58EBHzrJp2Fv7_A"
