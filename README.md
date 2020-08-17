@@ -24,8 +24,8 @@ Definitivamente, el espacio esta para dande rienda suelta a la imaginación sin 
 
 ### 🆘 Últimas Preguntas en /help
 
-<!-- HELP-LIST:START -->
-<!-- HELP-LIST:END -->
+<!-- HELP:START -->
+<!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
 
