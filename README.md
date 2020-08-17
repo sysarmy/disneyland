@@ -1,4 +1,6 @@
 # Welcome to Sysarmy's Disneyland, a place full of broken dreams.
+<img src="https://raw.githubusercontent.com/edux/disneyland/master/misc/images/banner_sysarmy.png">
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/sysarmy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsysarmy&screen_name=sysarmy)
 ![Github Issues](https://img.shields.io/github/issues/sysarmy/disneyland?label=geniales%20ideas%20Pendientes&style=for-the-badge&logoWitdh=50) 
 
