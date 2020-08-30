@@ -1,0 +1,5680 @@
+1
+00:00:01,820 --> 00:00:12,499
+[Music]
+
+2
+00:00:14,640 --> 00:00:17,939
+[Applause]
+
+3
+00:00:22,880 --> 00:00:27,359
+thank you very much
+
+4
+00:00:24,880 --> 00:00:29,679
+it is my great pleasure to be here once
+
+5
+00:00:27,359 --> 00:00:32,960
+again in buenos aires
+
+6
+00:00:29,679 --> 00:00:35,360
+and in many times have been to argentina
+
+7
+00:00:32,960 --> 00:00:36,960
+and i've celebrated free software with
+
+8
+00:00:35,360 --> 00:00:39,280
+you
+
+9
+00:00:36,960 --> 00:00:42,960
+my talk today is a very special talk
+
+10
+00:00:39,280 --> 00:00:48,480
+because this is a very special year
+
+11
+00:00:42,960 --> 00:00:52,079
+it is 50 years since 1969
+
+12
+00:00:48,480 --> 00:00:54,800
+and in 1969 there were a lot of very
+
+13
+00:00:52,079 --> 00:01:00,000
+interesting things happen
+
+14
+00:00:54,800 --> 00:01:02,960
+number one people walked on the moon
+
+15
+00:01:00,000 --> 00:01:03,680
+and the entire planet came to a halt
+
+16
+00:01:02,960 --> 00:01:06,640
+that day
+
+17
+00:01:03,680 --> 00:01:08,000
+as people ran to television sets around
+
+18
+00:01:06,640 --> 00:01:12,159
+the world
+
+19
+00:01:08,000 --> 00:01:14,640
+to see this most amazing thing people
+
+20
+00:01:12,159 --> 00:01:17,680
+were joined around the world
+
+21
+00:01:14,640 --> 00:01:22,560
+by this concept of people walking
+
+22
+00:01:17,680 --> 00:01:22,560
+on a different body in space
+
+23
+00:01:23,439 --> 00:01:27,280
+somewhat less important but still
+
+24
+00:01:25,360 --> 00:01:29,759
+important was woodstock
+
+25
+00:01:27,280 --> 00:01:32,479
+a giant music festival in the united
+
+26
+00:01:29,759 --> 00:01:36,000
+states to set the tone for music
+
+27
+00:01:32,479 --> 00:01:39,200
+for the next few decades
+
+28
+00:01:36,000 --> 00:01:41,759
+in 1969 in new york city
+
+29
+00:01:39,200 --> 00:01:44,079
+there was a riot at a place called the
+
+30
+00:01:41,759 --> 00:01:48,159
+stonewall inn
+
+31
+00:01:44,079 --> 00:01:50,799
+where trans people were being
+
+32
+00:01:48,159 --> 00:01:53,680
+bullied and hurt and gay people and
+
+33
+00:01:50,799 --> 00:01:57,200
+people of different types of diversity
+
+34
+00:01:53,680 --> 00:01:59,759
+were being persecuted by the police
+
+35
+00:01:57,200 --> 00:02:02,000
+and they caused a riot which started the
+
+36
+00:01:59,759 --> 00:02:04,079
+beginning of the lgbtq
+
+37
+00:02:02,000 --> 00:02:06,399
+community and movement in the united
+
+38
+00:02:04,079 --> 00:02:09,360
+states
+
+39
+00:02:06,399 --> 00:02:10,399
+in a small laboratory in bell labs in
+
+40
+00:02:09,360 --> 00:02:13,200
+new jersey
+
+41
+00:02:10,399 --> 00:02:14,080
+two people started a small operating
+
+42
+00:02:13,200 --> 00:02:16,800
+system
+
+43
+00:02:14,080 --> 00:02:18,000
+just for fun they didn't think it was
+
+44
+00:02:16,800 --> 00:02:21,040
+going to be important
+
+45
+00:02:18,000 --> 00:02:24,000
+they were just trying to do research
+
+46
+00:02:21,040 --> 00:02:25,760
+in new operating system ideas and we'll
+
+47
+00:02:24,000 --> 00:02:29,280
+see a little bit more about that
+
+48
+00:02:25,760 --> 00:02:31,760
+in this talk the arpanet
+
+49
+00:02:29,280 --> 00:02:33,519
+was funded which eventually became the
+
+50
+00:02:31,760 --> 00:02:35,360
+internet
+
+51
+00:02:33,519 --> 00:02:37,519
+and people never dreamed that the
+
+52
+00:02:35,360 --> 00:02:39,920
+internet would be what it is today
+
+53
+00:02:37,519 --> 00:02:41,599
+in fact the address space of the
+
+54
+00:02:39,920 --> 00:02:44,879
+original arpanet
+
+55
+00:02:41,599 --> 00:02:48,959
+was only 15 bits
+
+56
+00:02:44,879 --> 00:02:51,760
+so it couldn't have very many nodes
+
+57
+00:02:48,959 --> 00:02:52,400
+in helsinki finland little noticed by
+
+58
+00:02:51,760 --> 00:02:55,519
+anybody
+
+59
+00:02:52,400 --> 00:02:57,280
+except his parents lena's torvalds was
+
+60
+00:02:55,519 --> 00:03:01,440
+born
+
+61
+00:02:57,280 --> 00:03:04,319
+yes linux lenas is 50 years old
+
+62
+00:03:01,440 --> 00:03:06,560
+this year which makes me feel incredibly
+
+63
+00:03:04,319 --> 00:03:06,560
+old
+
+64
+00:03:07,599 --> 00:03:13,519
+in 1969 i was a university student
+
+65
+00:03:11,040 --> 00:03:15,680
+like a lot of you i was studying
+
+66
+00:03:13,519 --> 00:03:18,159
+electrical engineering
+
+67
+00:03:15,680 --> 00:03:19,920
+and half of my degree was in business
+
+68
+00:03:18,159 --> 00:03:23,360
+administration
+
+69
+00:03:19,920 --> 00:03:25,680
+i was almost electrocuted by 13 600
+
+70
+00:03:23,360 --> 00:03:28,480
+volts and 800 amps
+
+71
+00:03:25,680 --> 00:03:31,280
+which kind of guided me towards software
+
+72
+00:03:28,480 --> 00:03:31,280
+and programming
+
+73
+00:03:31,360 --> 00:03:35,120
+finally in 1969 it was the last year i
+
+74
+00:03:34,720 --> 00:03:39,360
+ever
+
+75
+00:03:35,120 --> 00:03:40,959
+shaved now you would notice a little
+
+76
+00:03:39,360 --> 00:03:44,159
+asterisk beside that
+
+77
+00:03:40,959 --> 00:03:47,120
+which indicates throughout my talk
+
+78
+00:03:44,159 --> 00:03:48,959
+that there's another story behind that
+
+79
+00:03:47,120 --> 00:03:50,560
+but we don't have time for all those
+
+80
+00:03:48,959 --> 00:03:52,560
+stories
+
+81
+00:03:50,560 --> 00:03:55,760
+but the more asterisks there are the
+
+82
+00:03:52,560 --> 00:03:58,080
+longer and sometimes better the story is
+
+83
+00:03:55,760 --> 00:04:01,280
+and if you get me out with beer
+
+84
+00:03:58,080 --> 00:04:02,799
+sometimes i'll tell them to you
+
+85
+00:04:01,280 --> 00:04:04,720
+so we're going to go back to the
+
+86
+00:04:02,799 --> 00:04:06,400
+beginning not the very beginning of
+
+87
+00:04:04,720 --> 00:04:09,439
+computer science
+
+88
+00:04:06,400 --> 00:04:12,560
+but when i started programming
+
+89
+00:04:09,439 --> 00:04:14,799
+and computers were physically huge
+
+90
+00:04:12,560 --> 00:04:16,239
+i worked for a company called aetna life
+
+91
+00:04:14,799 --> 00:04:18,079
+and casualty
+
+92
+00:04:16,239 --> 00:04:22,000
+and they were the largest commercial
+
+93
+00:04:18,079 --> 00:04:24,080
+user of ibm equipment in the free world
+
+94
+00:04:22,000 --> 00:04:25,759
+which goes to show if you put enough
+
+95
+00:04:24,080 --> 00:04:27,600
+adjectives around you you could be the
+
+96
+00:04:25,759 --> 00:04:30,320
+best of anything
+
+97
+00:04:27,600 --> 00:04:31,120
+i am the handsomest man with a long
+
+98
+00:04:30,320 --> 00:04:33,360
+white beard
+
+99
+00:04:31,120 --> 00:04:36,960
+and hair standing on this stage at this
+
+100
+00:04:33,360 --> 00:04:36,960
+podium see i'm the best
+
+101
+00:04:37,199 --> 00:04:41,280
+but computers were also logically very
+
+102
+00:04:39,680 --> 00:04:44,400
+small
+
+103
+00:04:41,280 --> 00:04:45,759
+they would have maybe 4 000 bytes of
+
+104
+00:04:44,400 --> 00:04:48,560
+memory
+
+105
+00:04:45,759 --> 00:04:48,960
+and they would work with devices that
+
+106
+00:04:48,560 --> 00:04:51,600
+would
+
+107
+00:04:48,960 --> 00:04:54,560
+read and write data at five characters
+
+108
+00:04:51,600 --> 00:04:56,800
+five bytes per second
+
+109
+00:04:54,560 --> 00:04:58,960
+this were measured in megabytes not
+
+110
+00:04:56,800 --> 00:05:02,479
+gigabytes or terabytes
+
+111
+00:04:58,960 --> 00:05:02,880
+like we do today and the programs were
+
+112
+00:05:02,479 --> 00:05:05,199
+run
+
+113
+00:05:02,880 --> 00:05:07,840
+one at a time on the computer even if
+
+114
+00:05:05,199 --> 00:05:13,039
+the computer was a mainframe
+
+115
+00:05:07,840 --> 00:05:16,400
+and even if it cost 2.5 million dollars
+
+116
+00:05:13,039 --> 00:05:18,720
+the programs are run one at a time
+
+117
+00:05:16,400 --> 00:05:19,440
+and and a lot of these computers had
+
+118
+00:05:18,720 --> 00:05:22,160
+switches
+
+119
+00:05:19,440 --> 00:05:23,600
+and lights on the front of them because
+
+120
+00:05:22,160 --> 00:05:26,639
+you could use those switches
+
+121
+00:05:23,600 --> 00:05:28,720
+and lights to debug your program
+
+122
+00:05:26,639 --> 00:05:31,039
+because your program was the only thing
+
+123
+00:05:28,720 --> 00:05:33,600
+that was running
+
+124
+00:05:31,039 --> 00:05:35,520
+and if there was an operating system it
+
+125
+00:05:33,600 --> 00:05:38,240
+was incredibly primitive
+
+126
+00:05:35,520 --> 00:05:41,759
+by today's standards it was typically
+
+127
+00:05:38,240 --> 00:05:45,520
+specialized in doing one type of thing
+
+128
+00:05:41,759 --> 00:05:48,080
+maybe you would run a batch job on cards
+
+129
+00:05:45,520 --> 00:05:48,800
+or maybe if you were really lucky you
+
+130
+00:05:48,080 --> 00:05:51,520
+had a time
+
+131
+00:05:48,800 --> 00:05:53,840
+sharing system that would you could have
+
+132
+00:05:51,520 --> 00:05:55,600
+terminals attached to
+
+133
+00:05:53,840 --> 00:05:59,199
+there were computers that were dedicated
+
+134
+00:05:55,600 --> 00:06:01,280
+to real-time processes
+
+135
+00:05:59,199 --> 00:06:05,199
+and there was there's a rumor and it's
+
+136
+00:06:01,280 --> 00:06:08,319
+still a thought pattern today
+
+137
+00:06:05,199 --> 00:06:10,800
+that companies created different
+
+138
+00:06:08,319 --> 00:06:11,360
+operating systems because they were
+
+139
+00:06:10,800 --> 00:06:14,319
+trying to
+
+140
+00:06:11,360 --> 00:06:16,240
+lock their customers into their hardware
+
+141
+00:06:14,319 --> 00:06:17,280
+they were trying to get their customers
+
+142
+00:06:16,240 --> 00:06:20,800
+to write to that
+
+143
+00:06:17,280 --> 00:06:24,960
+operating system because that would tie
+
+144
+00:06:20,800 --> 00:06:28,160
+that customer to their equipment
+
+145
+00:06:24,960 --> 00:06:29,840
+now if this was true then the digital
+
+146
+00:06:28,160 --> 00:06:32,080
+pdp-11
+
+147
+00:06:29,840 --> 00:06:32,960
+computer system that was very popular in
+
+148
+00:06:32,080 --> 00:06:35,520
+the day
+
+149
+00:06:32,960 --> 00:06:37,039
+would only need to have one operating
+
+150
+00:06:35,520 --> 00:06:40,000
+system
+
+151
+00:06:37,039 --> 00:06:42,080
+but instead we had 11 different
+
+152
+00:06:40,000 --> 00:06:44,319
+operating systems
+
+153
+00:06:42,080 --> 00:06:46,240
+because what we were trying to do was
+
+154
+00:06:44,319 --> 00:06:48,880
+make that piece of hardware
+
+155
+00:06:46,240 --> 00:06:51,039
+be more efficient in running our
+
+156
+00:06:48,880 --> 00:06:54,160
+customers programs
+
+157
+00:06:51,039 --> 00:06:57,280
+and so we wrote the operating system
+
+158
+00:06:54,160 --> 00:06:59,120
+to do specialized tasks we had an
+
+159
+00:06:57,280 --> 00:07:01,440
+operating system for doing
+
+160
+00:06:59,120 --> 00:07:02,479
+health style of work and an operating
+
+161
+00:07:01,440 --> 00:07:05,120
+system for doing
+
+162
+00:07:02,479 --> 00:07:07,039
+educational style of work and an
+
+163
+00:07:05,120 --> 00:07:10,160
+operating system for doing real-time
+
+164
+00:07:07,039 --> 00:07:12,400
+style of work and so forth and so on
+
+165
+00:07:10,160 --> 00:07:13,520
+we actually had two different unix
+
+166
+00:07:12,400 --> 00:07:16,560
+systems
+
+167
+00:07:13,520 --> 00:07:18,319
+running on our pdp 11.
+
+168
+00:07:16,560 --> 00:07:20,720
+and if we were just trying to lock our
+
+169
+00:07:18,319 --> 00:07:24,319
+customers into buying our equipment
+
+170
+00:07:20,720 --> 00:07:27,360
+we would need only one
+
+171
+00:07:24,319 --> 00:07:29,360
+now also back in those days most
+
+172
+00:07:27,360 --> 00:07:32,479
+of the code that was distributed was
+
+173
+00:07:29,360 --> 00:07:34,639
+distributed in source code form
+
+174
+00:07:32,479 --> 00:07:35,520
+there wasn't enough of one type of
+
+175
+00:07:34,639 --> 00:07:39,280
+computer
+
+176
+00:07:35,520 --> 00:07:42,000
+to really justify creating a binary
+
+177
+00:07:39,280 --> 00:07:43,599
+code and manufacturing it like cookie
+
+178
+00:07:42,000 --> 00:07:47,120
+cutters
+
+179
+00:07:43,599 --> 00:07:49,520
+and so if you ordered a compiler
+
+180
+00:07:47,120 --> 00:07:50,479
+you might spend one hundred thousand
+
+181
+00:07:49,520 --> 00:07:53,120
+dollars
+
+182
+00:07:50,479 --> 00:07:55,520
+for that compiler and you might
+
+183
+00:07:53,120 --> 00:07:57,440
+negotiate with the company for several
+
+184
+00:07:55,520 --> 00:07:58,319
+months with your lawyers talking to
+
+185
+00:07:57,440 --> 00:08:01,199
+their lawyers
+
+186
+00:07:58,319 --> 00:08:03,120
+about how many systems could you put
+
+187
+00:08:01,199 --> 00:08:05,280
+that compiler on
+
+188
+00:08:03,120 --> 00:08:06,800
+and how many people could use it at one
+
+189
+00:08:05,280 --> 00:08:09,919
+time
+
+190
+00:08:06,800 --> 00:08:11,759
+and in the end you ended up
+
+191
+00:08:09,919 --> 00:08:13,120
+with the source code for that compiler
+
+192
+00:08:11,759 --> 00:08:17,360
+you kept that
+
+193
+00:08:13,120 --> 00:08:19,599
+in your vault or in your lawyer's vault
+
+194
+00:08:17,360 --> 00:08:21,360
+because what happens if that little
+
+195
+00:08:19,599 --> 00:08:24,000
+company that you bought it from goes out
+
+196
+00:08:21,360 --> 00:08:24,000
+of business
+
+197
+00:08:24,160 --> 00:08:28,240
+there were also very few professional
+
+198
+00:08:26,479 --> 00:08:30,080
+programmers
+
+199
+00:08:28,240 --> 00:08:32,320
+there were there weren't people who
+
+200
+00:08:30,080 --> 00:08:34,240
+really wrote programs for other people
+
+201
+00:08:32,320 --> 00:08:36,159
+to use
+
+202
+00:08:34,240 --> 00:08:38,240
+and if you were a programmer it was
+
+203
+00:08:36,159 --> 00:08:40,080
+because you were also a physicist
+
+204
+00:08:38,240 --> 00:08:42,560
+and you needed the program to do your
+
+205
+00:08:40,080 --> 00:08:44,480
+work you were an electrical engineer
+
+206
+00:08:42,560 --> 00:08:45,680
+and you needed the program to do your
+
+207
+00:08:44,480 --> 00:08:47,600
+work
+
+208
+00:08:45,680 --> 00:08:49,920
+you're an educator and you needed the
+
+209
+00:08:47,600 --> 00:08:52,839
+program to do your work
+
+210
+00:08:49,920 --> 00:08:55,200
+in fact i had a professor at the
+
+211
+00:08:52,839 --> 00:08:59,200
+university drexel
+
+212
+00:08:55,200 --> 00:09:00,320
+who said to me john you'll never be able
+
+213
+00:08:59,200 --> 00:09:02,480
+to
+
+214
+00:09:00,320 --> 00:09:04,560
+earn a living being a professional
+
+215
+00:09:02,480 --> 00:09:06,839
+programmer
+
+216
+00:09:04,560 --> 00:09:09,200
+and i'm still waiting to see if he was
+
+217
+00:09:06,839 --> 00:09:11,920
+right
+
+218
+00:09:09,200 --> 00:09:13,680
+there were also no software copyrights
+
+219
+00:09:11,920 --> 00:09:15,920
+or patents
+
+220
+00:09:13,680 --> 00:09:17,839
+you could not copyright software you
+
+221
+00:09:15,920 --> 00:09:21,200
+could not patent software
+
+222
+00:09:17,839 --> 00:09:21,519
+the way you protected your software was
+
+223
+00:09:21,200 --> 00:09:23,519
+to
+
+224
+00:09:21,519 --> 00:09:24,640
+contract law making one of these
+
+225
+00:09:23,519 --> 00:09:27,120
+contracts
+
+226
+00:09:24,640 --> 00:09:29,600
+and getting people to sign it and this
+
+227
+00:09:27,120 --> 00:09:30,640
+required much money and many lawyers
+
+228
+00:09:29,600 --> 00:09:34,320
+even before you
+
+229
+00:09:30,640 --> 00:09:37,040
+touched the software and there was also
+
+230
+00:09:34,320 --> 00:09:40,399
+many points of sharing
+
+231
+00:09:37,040 --> 00:09:43,040
+there were vendors groups like dekus for
+
+232
+00:09:40,399 --> 00:09:47,040
+the digital equipment user society
+
+233
+00:09:43,040 --> 00:09:50,399
+share for ibm brainstorm for novell
+
+234
+00:09:47,040 --> 00:09:52,480
+where people who wrote these programs
+
+235
+00:09:50,399 --> 00:09:54,480
+would contribute their programs in
+
+236
+00:09:52,480 --> 00:09:57,839
+source code form
+
+237
+00:09:54,480 --> 00:09:59,839
+to people to use
+
+238
+00:09:57,839 --> 00:10:01,200
+and and why did they do this why didn't
+
+239
+00:09:59,839 --> 00:10:03,920
+they sell
+
+240
+00:10:01,200 --> 00:10:06,959
+their software well quite frankly
+
+241
+00:10:03,920 --> 00:10:09,600
+selling software is hard work
+
+242
+00:10:06,959 --> 00:10:11,839
+you have to guarantee bug fixes to your
+
+243
+00:10:09,600 --> 00:10:13,200
+software you have to write documentation
+
+244
+00:10:11,839 --> 00:10:16,240
+for your software
+
+245
+00:10:13,200 --> 00:10:17,680
+you have to distribute your software all
+
+246
+00:10:16,240 --> 00:10:20,240
+these different things
+
+247
+00:10:17,680 --> 00:10:20,880
+and the people that wrote this software
+
+248
+00:10:20,240 --> 00:10:24,640
+were not
+
+249
+00:10:20,880 --> 00:10:27,440
+in the business of selling software
+
+250
+00:10:24,640 --> 00:10:30,079
+they were physicists and engineers and
+
+251
+00:10:27,440 --> 00:10:32,320
+educators
+
+252
+00:10:30,079 --> 00:10:34,000
+so they gave away their software to
+
+253
+00:10:32,320 --> 00:10:34,959
+other people who they thought could use
+
+254
+00:10:34,000 --> 00:10:37,519
+it
+
+255
+00:10:34,959 --> 00:10:38,000
+and sometimes these people would meet
+
+256
+00:10:37,519 --> 00:10:41,680
+them
+
+257
+00:10:38,000 --> 00:10:44,240
+at these meetings like decas and say oh
+
+258
+00:10:41,680 --> 00:10:46,640
+you wrote that great software i'm using
+
+259
+00:10:44,240 --> 00:10:48,480
+thank you very much it's very helpful
+
+260
+00:10:46,640 --> 00:10:50,320
+i have some ideas to how to make it
+
+261
+00:10:48,480 --> 00:10:53,200
+better or
+
+262
+00:10:50,320 --> 00:10:54,480
+gee you wrote that software that really
+
+263
+00:10:53,200 --> 00:10:57,839
+saved my life
+
+264
+00:10:54,480 --> 00:10:57,839
+let me buy you a beer
+
+265
+00:10:58,000 --> 00:11:02,640
+or they did a really great job let me
+
+266
+00:11:00,720 --> 00:11:04,959
+buy you dinner
+
+267
+00:11:02,640 --> 00:11:07,440
+well you did a really great job let me
+
+268
+00:11:04,959 --> 00:11:09,440
+give you a job
+
+269
+00:11:07,440 --> 00:11:11,279
+and these a lot of these reasons are the
+
+270
+00:11:09,440 --> 00:11:12,720
+same reasons that people write free
+
+271
+00:11:11,279 --> 00:11:14,399
+software today
+
+272
+00:11:12,720 --> 00:11:16,640
+they write it because they need it for
+
+273
+00:11:14,399 --> 00:11:18,560
+themselves
+
+274
+00:11:16,640 --> 00:11:19,839
+and they write it because they can
+
+275
+00:11:18,560 --> 00:11:21,920
+demonstrate
+
+276
+00:11:19,839 --> 00:11:23,839
+their programming skills and a lot of
+
+277
+00:11:21,920 --> 00:11:28,959
+times get a job
+
+278
+00:11:23,839 --> 00:11:31,920
+or generate a service out of writing it
+
+279
+00:11:28,959 --> 00:11:32,880
+now i've described the computing
+
+280
+00:11:31,920 --> 00:11:36,320
+industry
+
+281
+00:11:32,880 --> 00:11:39,360
+in 1969 but
+
+282
+00:11:36,320 --> 00:11:41,839
+this one guy named ken thompson had been
+
+283
+00:11:39,360 --> 00:11:43,600
+working on a project called baltics
+
+284
+00:11:41,839 --> 00:11:45,440
+there was a combination of different
+
+285
+00:11:43,600 --> 00:11:48,079
+companies coming together
+
+286
+00:11:45,440 --> 00:11:50,000
+and trying to create a be all end-all
+
+287
+00:11:48,079 --> 00:11:53,760
+operating system
+
+288
+00:11:50,000 --> 00:11:56,079
+called baltics and eventually ken
+
+289
+00:11:53,760 --> 00:11:58,160
+thompson was taken off of this project
+
+290
+00:11:56,079 --> 00:11:59,120
+and brought back to bell labs in new
+
+291
+00:11:58,160 --> 00:12:01,360
+jersey
+
+292
+00:11:59,120 --> 00:12:02,480
+and he was very upset about this because
+
+293
+00:12:01,360 --> 00:12:05,920
+he liked
+
+294
+00:12:02,480 --> 00:12:07,760
+working on operating systems and he met
+
+295
+00:12:05,920 --> 00:12:08,959
+up with this other man named dennis
+
+296
+00:12:07,760 --> 00:12:10,959
+ritchie
+
+297
+00:12:08,959 --> 00:12:13,120
+and together they started to create this
+
+298
+00:12:10,959 --> 00:12:16,560
+little operating system that they called
+
+299
+00:12:13,120 --> 00:12:17,760
+unix because baltics was everything for
+
+300
+00:12:16,560 --> 00:12:22,240
+everybody
+
+301
+00:12:17,760 --> 00:12:25,360
+and unix was one thing for one person
+
+302
+00:12:22,240 --> 00:12:27,519
+and they started by saying well instead
+
+303
+00:12:25,360 --> 00:12:30,320
+of putting all the functionality
+
+304
+00:12:27,519 --> 00:12:32,079
+in the center of the computing system
+
+305
+00:12:30,320 --> 00:12:35,040
+called the kernel
+
+306
+00:12:32,079 --> 00:12:36,000
+let's make the kernel very small and
+
+307
+00:12:35,040 --> 00:12:39,680
+have it do
+
+308
+00:12:36,000 --> 00:12:41,680
+some things very well and then all the
+
+309
+00:12:39,680 --> 00:12:43,519
+other things that people need will move
+
+310
+00:12:41,680 --> 00:12:46,720
+outside of the kernel
+
+311
+00:12:43,519 --> 00:12:49,200
+into these things called libraries
+
+312
+00:12:46,720 --> 00:12:49,839
+and this made it easier to get that
+
+313
+00:12:49,200 --> 00:12:53,600
+kernel
+
+314
+00:12:49,839 --> 00:12:55,519
+to be correct now the first couple of
+
+315
+00:12:53,600 --> 00:12:56,560
+kernels were written in the ones and
+
+316
+00:12:55,519 --> 00:12:59,760
+zeroes
+
+317
+00:12:56,560 --> 00:13:01,600
+of machine language but after a while
+
+318
+00:12:59,760 --> 00:13:03,040
+dennis richie said boy this is really
+
+319
+00:13:01,600 --> 00:13:05,279
+difficult
+
+320
+00:13:03,040 --> 00:13:07,360
+um i'm going to invent this language
+
+321
+00:13:05,279 --> 00:13:09,920
+called c
+
+322
+00:13:07,360 --> 00:13:11,040
+and we'll rewrite the kernel in c and
+
+323
+00:13:09,920 --> 00:13:13,120
+then it'll be much more
+
+324
+00:13:11,040 --> 00:13:14,320
+portable to the next system we bring it
+
+325
+00:13:13,120 --> 00:13:16,320
+to
+
+326
+00:13:14,320 --> 00:13:17,680
+and they kept working on this to make it
+
+327
+00:13:16,320 --> 00:13:21,120
+more and more
+
+328
+00:13:17,680 --> 00:13:25,200
+portable now this was a
+
+329
+00:13:21,120 --> 00:13:28,639
+strange thing in those days because
+
+330
+00:13:25,200 --> 00:13:31,600
+computers were so expensive
+
+331
+00:13:28,639 --> 00:13:33,440
+that who cares if you have to train your
+
+332
+00:13:31,600 --> 00:13:34,639
+person to use a different operating
+
+333
+00:13:33,440 --> 00:13:36,959
+system
+
+334
+00:13:34,639 --> 00:13:38,000
+to be more efficient for running your
+
+335
+00:13:36,959 --> 00:13:40,720
+program
+
+336
+00:13:38,000 --> 00:13:43,680
+because the machine was worth more than
+
+337
+00:13:40,720 --> 00:13:43,680
+the people were
+
+338
+00:13:43,839 --> 00:13:51,120
+and dennis and ken had this idea
+
+339
+00:13:47,680 --> 00:13:54,959
+that people were actually more expensive
+
+340
+00:13:51,120 --> 00:13:58,079
+than the machines were and as the cost
+
+341
+00:13:54,959 --> 00:14:01,199
+of the machine started to drop
+
+342
+00:13:58,079 --> 00:14:03,440
+this became more and more true
+
+343
+00:14:01,199 --> 00:14:05,040
+that it became easier and easier to buy
+
+344
+00:14:03,440 --> 00:14:07,680
+a new machine with the same
+
+345
+00:14:05,040 --> 00:14:08,959
+operating system on it and the same
+
+346
+00:14:07,680 --> 00:14:12,240
+commands
+
+347
+00:14:08,959 --> 00:14:12,800
+and the same libraries maybe a different
+
+348
+00:14:12,240 --> 00:14:15,360
+machine
+
+349
+00:14:12,800 --> 00:14:18,079
+architecture but that was hidden from
+
+350
+00:14:15,360 --> 00:14:20,639
+you by the operating system
+
+351
+00:14:18,079 --> 00:14:22,720
+and people found out that i can use the
+
+352
+00:14:20,639 --> 00:14:24,320
+same programs and the same command
+
+353
+00:14:22,720 --> 00:14:28,880
+whether the machine comes from
+
+354
+00:14:24,320 --> 00:14:30,959
+hewlett-packard or ibm or compaq
+
+355
+00:14:28,880 --> 00:14:34,240
+or any number of other companies that
+
+356
+00:14:30,959 --> 00:14:37,360
+are no longer in existence
+
+357
+00:14:34,240 --> 00:14:40,160
+and at first this this operating system
+
+358
+00:14:37,360 --> 00:14:42,320
+was distributed in source code form
+
+359
+00:14:40,160 --> 00:14:44,000
+and this allowed universities to
+
+360
+00:14:42,320 --> 00:14:48,079
+participate in bringing good
+
+361
+00:14:44,000 --> 00:14:49,839
+ideas into this a collaborative effort
+
+362
+00:14:48,079 --> 00:14:52,160
+and ken and dennis would bring in some
+
+363
+00:14:49,839 --> 00:14:53,760
+ideas and toss away others and things
+
+364
+00:14:52,160 --> 00:14:55,680
+like that they were the architects of
+
+365
+00:14:53,760 --> 00:14:58,240
+the system
+
+366
+00:14:55,680 --> 00:15:00,240
+but despite the fact that a lot of
+
+367
+00:14:58,240 --> 00:15:03,680
+people think that unix was free
+
+368
+00:15:00,240 --> 00:15:05,680
+it was never free it was always owned by
+
+369
+00:15:03,680 --> 00:15:08,959
+a t and t
+
+370
+00:15:05,680 --> 00:15:11,360
+and sometimes it was barely even open
+
+371
+00:15:08,959 --> 00:15:13,519
+because only universities that were
+
+372
+00:15:11,360 --> 00:15:15,920
+researched universities
+
+373
+00:15:13,519 --> 00:15:17,399
+could get the code for a reasonable
+
+374
+00:15:15,920 --> 00:15:21,360
+price
+
+375
+00:15:17,399 --> 00:15:25,600
+350 u.s dollars to put the code on
+
+376
+00:15:21,360 --> 00:15:28,000
+all of the computers at your university
+
+377
+00:15:25,600 --> 00:15:28,959
+if you were a small two-year technical
+
+378
+00:15:28,000 --> 00:15:31,920
+college
+
+379
+00:15:28,959 --> 00:15:33,839
+like the one i taught at you had to get
+
+380
+00:15:31,920 --> 00:15:36,959
+a different license
+
+381
+00:15:33,839 --> 00:15:41,360
+and that license was 160 000
+
+382
+00:15:36,959 --> 00:15:44,240
+us dollars per cpu
+
+383
+00:15:41,360 --> 00:15:46,560
+and you had to tell somebody at the
+
+384
+00:15:44,240 --> 00:15:48,800
+telephone company
+
+385
+00:15:46,560 --> 00:15:50,639
+the serial number of the computer you
+
+386
+00:15:48,800 --> 00:15:52,160
+were putting it on
+
+387
+00:15:50,639 --> 00:15:55,839
+now how many of you have ever tried to
+
+388
+00:15:52,160 --> 00:15:55,839
+call somebody at the telephone company
+
+389
+00:15:56,160 --> 00:16:00,000
+it's like trying to call somebody at
+
+390
+00:15:57,759 --> 00:16:03,120
+google
+
+391
+00:16:00,000 --> 00:16:04,560
+do you know in the 150 million pages
+
+392
+00:16:03,120 --> 00:16:06,959
+that google is in charge of
+
+393
+00:16:04,560 --> 00:16:08,800
+web pages there's not a single telephone
+
+394
+00:16:06,959 --> 00:16:11,279
+number
+
+395
+00:16:08,800 --> 00:16:14,480
+you can't call people at google you can
+
+396
+00:16:11,279 --> 00:16:17,839
+barely send them email
+
+397
+00:16:14,480 --> 00:16:18,639
+so this concept that unix was free and
+
+398
+00:16:17,839 --> 00:16:22,000
+open was
+
+399
+00:16:18,639 --> 00:16:24,079
+a myth
+
+400
+00:16:22,000 --> 00:16:25,360
+these remember these guys were creating
+
+401
+00:16:24,079 --> 00:16:28,639
+this operating system
+
+402
+00:16:25,360 --> 00:16:30,480
+just for fun they were researchers
+
+403
+00:16:28,639 --> 00:16:32,800
+they didn't mean to sell this or
+
+404
+00:16:30,480 --> 00:16:35,199
+anything they wanted just wanted people
+
+405
+00:16:32,800 --> 00:16:37,759
+to use it
+
+406
+00:16:35,199 --> 00:16:38,399
+and other contributions from unix
+
+407
+00:16:37,759 --> 00:16:41,920
+systems
+
+408
+00:16:38,399 --> 00:16:43,600
+was a small command interpreter which we
+
+409
+00:16:41,920 --> 00:16:46,480
+call the shell
+
+410
+00:16:43,600 --> 00:16:48,320
+it still exists today even in linux a
+
+411
+00:16:46,480 --> 00:16:49,839
+lot of you use the shell you call it
+
+412
+00:16:48,320 --> 00:16:52,320
+bash
+
+413
+00:16:49,839 --> 00:16:53,279
+well this show was called the bourne
+
+414
+00:16:52,320 --> 00:16:55,120
+shell
+
+415
+00:16:53,279 --> 00:16:57,360
+it was written by a man named steve
+
+416
+00:16:55,120 --> 00:17:00,639
+bourne and it was simply
+
+417
+00:16:57,360 --> 00:17:01,120
+sh later on there was another shell
+
+418
+00:17:00,639 --> 00:17:03,680
+written
+
+419
+00:17:01,120 --> 00:17:05,039
+that extended that at the university of
+
+420
+00:17:03,680 --> 00:17:08,240
+california berkeley
+
+421
+00:17:05,039 --> 00:17:08,839
+and it used the c syntax so it was
+
+422
+00:17:08,240 --> 00:17:12,160
+called
+
+423
+00:17:08,839 --> 00:17:13,919
+csh and then another
+
+424
+00:17:12,160 --> 00:17:15,439
+show was written by a man named dave
+
+425
+00:17:13,919 --> 00:17:18,959
+cord it extended that
+
+426
+00:17:15,439 --> 00:17:22,160
+and it was called the corn shell ksh
+
+427
+00:17:18,959 --> 00:17:24,160
+and so forth and so on eventually the
+
+428
+00:17:22,160 --> 00:17:27,360
+free software foundation
+
+429
+00:17:24,160 --> 00:17:28,799
+wrote to shell over again making it free
+
+430
+00:17:27,360 --> 00:17:32,559
+software
+
+431
+00:17:28,799 --> 00:17:36,400
+they called it the born again shell
+
+432
+00:17:32,559 --> 00:17:39,840
+bash which a lot of you use today
+
+433
+00:17:36,400 --> 00:17:42,400
+but this was a new concept normally
+
+434
+00:17:39,840 --> 00:17:44,000
+all this functionality was in the kernel
+
+435
+00:17:42,400 --> 00:17:46,080
+of the operating system
+
+436
+00:17:44,000 --> 00:17:50,320
+which made the kernel bigger and more
+
+437
+00:17:46,080 --> 00:17:50,320
+complex and more likely to fail
+
+438
+00:17:51,200 --> 00:17:55,280
+one of the great features of unix and
+
+439
+00:17:53,600 --> 00:17:57,200
+the unix command line is something
+
+440
+00:17:55,280 --> 00:17:59,200
+called pipes and filters
+
+441
+00:17:57,200 --> 00:18:01,679
+which allows you to take the output from
+
+442
+00:17:59,200 --> 00:18:03,679
+one command and feed it into the input
+
+443
+00:18:01,679 --> 00:18:06,080
+of the next command
+
+444
+00:18:03,679 --> 00:18:08,000
+this is this was another new concept and
+
+445
+00:18:06,080 --> 00:18:10,640
+it was so new
+
+446
+00:18:08,000 --> 00:18:12,480
+that the person who invented it named
+
+447
+00:18:10,640 --> 00:18:14,559
+doug mcelroy
+
+448
+00:18:12,480 --> 00:18:15,840
+had to actually write some of the first
+
+449
+00:18:14,559 --> 00:18:18,799
+unix commands
+
+450
+00:18:15,840 --> 00:18:20,240
+to show ken thomps ken thompson and
+
+451
+00:18:18,799 --> 00:18:23,840
+dennis ritchie
+
+452
+00:18:20,240 --> 00:18:24,480
+how this worked things like portable
+
+453
+00:18:23,840 --> 00:18:28,080
+network
+
+454
+00:18:24,480 --> 00:18:30,720
+file systems came from unix and a client
+
+455
+00:18:28,080 --> 00:18:31,919
+server windowing system was developed at
+
+456
+00:18:30,720 --> 00:18:34,799
+mit
+
+457
+00:18:31,919 --> 00:18:36,080
+for unix systems and there were many
+
+458
+00:18:34,799 --> 00:18:39,520
+more
+
+459
+00:18:36,080 --> 00:18:40,840
+very radical ideas that came out of the
+
+460
+00:18:39,520 --> 00:18:43,600
+unix
+
+461
+00:18:40,840 --> 00:18:45,520
+marketplace now
+
+462
+00:18:43,600 --> 00:18:48,000
+all of these unix systems were being
+
+463
+00:18:45,520 --> 00:18:50,080
+developed by universities
+
+464
+00:18:48,000 --> 00:18:52,320
+and the universities would pass around
+
+465
+00:18:50,080 --> 00:18:54,480
+the source code
+
+466
+00:18:52,320 --> 00:18:56,480
+but if but the source code was still
+
+467
+00:18:54,480 --> 00:18:58,559
+very expensive
+
+468
+00:18:56,480 --> 00:19:02,400
+if you were a company you'd had to pay
+
+469
+00:18:58,559 --> 00:19:05,919
+two hundred sixty thousand dollars
+
+470
+00:19:02,400 --> 00:19:07,640
+and so what happened in 1962
+
+471
+00:19:05,919 --> 00:19:09,520
+was a little company called sun
+
+472
+00:19:07,640 --> 00:19:13,840
+microsystems
+
+473
+00:19:09,520 --> 00:19:15,840
+had formulated a small computer
+
+474
+00:19:13,840 --> 00:19:17,280
+that was built and designed to stanford
+
+475
+00:19:15,840 --> 00:19:20,880
+university
+
+476
+00:19:17,280 --> 00:19:23,440
+and they said we want to have a
+
+477
+00:19:20,880 --> 00:19:24,720
+powerful operating system on top of this
+
+478
+00:19:23,440 --> 00:19:28,000
+little computer
+
+479
+00:19:24,720 --> 00:19:31,600
+ms-dos was too weak and miserable
+
+480
+00:19:28,000 --> 00:19:32,559
+for this system cpm another operating
+
+481
+00:19:31,600 --> 00:19:35,600
+system of the day
+
+482
+00:19:32,559 --> 00:19:39,280
+was only good for 64 bits of
+
+483
+00:19:35,600 --> 00:19:42,559
+i'm sorry um 16 bits of address space
+
+484
+00:19:39,280 --> 00:19:45,600
+various 65 000 bytes of memory so
+
+485
+00:19:42,559 --> 00:19:47,840
+both of these were just too weak
+
+486
+00:19:45,600 --> 00:19:49,840
+sun actually came to my company digital
+
+487
+00:19:47,840 --> 00:19:50,320
+equipment corporation and said we want
+
+488
+00:19:49,840 --> 00:19:52,240
+to
+
+489
+00:19:50,320 --> 00:19:55,120
+take one of your operating systems but
+
+490
+00:19:52,240 --> 00:19:58,240
+that was impossible
+
+491
+00:19:55,120 --> 00:20:00,400
+so they decided to use
+
+492
+00:19:58,240 --> 00:20:01,919
+the university of california berkeley's
+
+493
+00:20:00,400 --> 00:20:05,200
+version of unix
+
+494
+00:20:01,919 --> 00:20:07,200
+which is called bsd and
+
+495
+00:20:05,200 --> 00:20:08,559
+they wanted to go to the telephone
+
+496
+00:20:07,200 --> 00:20:11,760
+company and say can we have
+
+497
+00:20:08,559 --> 00:20:12,880
+a better license a cheaper license for
+
+498
+00:20:11,760 --> 00:20:15,600
+this
+
+499
+00:20:12,880 --> 00:20:17,919
+and the telephone companies said okay if
+
+500
+00:20:15,600 --> 00:20:22,559
+you distribute unix
+
+501
+00:20:17,919 --> 00:20:24,640
+only in binary form not the source code
+
+502
+00:20:22,559 --> 00:20:26,400
+you can sell it for three hundred fifty
+
+503
+00:20:24,640 --> 00:20:28,320
+dollars per machine
+
+504
+00:20:26,400 --> 00:20:30,480
+and you do not have to tell us what the
+
+505
+00:20:28,320 --> 00:20:32,880
+serial number is
+
+506
+00:20:30,480 --> 00:20:34,640
+and sun microsystems said wonderful
+
+507
+00:20:32,880 --> 00:20:36,240
+we'll do that
+
+508
+00:20:34,640 --> 00:20:37,760
+now you have to remember that even
+
+509
+00:20:36,240 --> 00:20:40,960
+though this was a small
+
+510
+00:20:37,760 --> 00:20:41,919
+desktop computer it was still selling
+
+511
+00:20:40,960 --> 00:20:46,400
+for fifteen
+
+512
+00:20:41,919 --> 00:20:48,240
+thousand dollars back in 1982.
+
+513
+00:20:46,400 --> 00:20:50,960
+that's about half the price that my
+
+514
+00:20:48,240 --> 00:20:55,120
+parents paid for their house
+
+515
+00:20:50,960 --> 00:20:57,039
+a three-bedroom house with brick
+
+516
+00:20:55,120 --> 00:20:59,039
+it had a living room a dining room a
+
+517
+00:20:57,039 --> 00:21:03,039
+family room a two-car garage
+
+518
+00:20:59,039 --> 00:21:06,400
+one a quarter acre of land they paid 32
+
+519
+00:21:03,039 --> 00:21:08,559
+000 for it so this workstation
+
+520
+00:21:06,400 --> 00:21:10,000
+that sat on your desk and allowed you to
+
+521
+00:21:08,559 --> 00:21:13,120
+do work
+
+522
+00:21:10,000 --> 00:21:15,039
+was half the price of their house
+
+523
+00:21:13,120 --> 00:21:18,159
+but people still paid it because it
+
+524
+00:21:15,039 --> 00:21:22,320
+allowed them to do amazing work
+
+525
+00:21:18,159 --> 00:21:24,000
+and they put this unix license on top
+
+526
+00:21:22,320 --> 00:21:25,280
+now other companies like digital
+
+527
+00:21:24,000 --> 00:21:26,720
+equipment corporation and
+
+528
+00:21:25,280 --> 00:21:29,919
+hewlett-packard
+
+529
+00:21:26,720 --> 00:21:30,880
+and ibm saw the business model and they
+
+530
+00:21:29,919 --> 00:21:32,960
+too
+
+531
+00:21:30,880 --> 00:21:34,159
+started to bring out their own versions
+
+532
+00:21:32,960 --> 00:21:37,440
+of unix
+
+533
+00:21:34,159 --> 00:21:40,640
+also in binary only form
+
+534
+00:21:37,440 --> 00:21:40,640
+not in the source code
+
+535
+00:21:40,799 --> 00:21:46,320
+but most of them utilize the code from
+
+536
+00:21:43,520 --> 00:21:49,440
+the university of california berkeley
+
+537
+00:21:46,320 --> 00:21:52,559
+and the reason for that is that the att
+
+538
+00:21:49,440 --> 00:21:55,600
+code called system 5 was
+
+539
+00:21:52,559 --> 00:21:57,760
+a swapping type of operating system
+
+540
+00:21:55,600 --> 00:21:58,960
+it meant that you had to have your
+
+541
+00:21:57,760 --> 00:22:02,400
+entire program
+
+542
+00:21:58,960 --> 00:22:04,480
+in memory at one time the berkeley
+
+543
+00:22:02,400 --> 00:22:06,080
+system used something called demand page
+
+544
+00:22:04,480 --> 00:22:07,679
+virtual memory
+
+545
+00:22:06,080 --> 00:22:09,200
+which meant you only had to have a
+
+546
+00:22:07,679 --> 00:22:12,320
+certain portion
+
+547
+00:22:09,200 --> 00:22:15,360
+of your program in memory at one time
+
+548
+00:22:12,320 --> 00:22:17,760
+this was more desirable
+
+549
+00:22:15,360 --> 00:22:18,559
+system five only had two compilers that
+
+550
+00:22:17,760 --> 00:22:22,240
+came with it
+
+551
+00:22:18,559 --> 00:22:25,039
+c and fortran 77.
+
+552
+00:22:22,240 --> 00:22:27,840
+the berkeley code had three compilers
+
+553
+00:22:25,039 --> 00:22:30,080
+they added pascal
+
+554
+00:22:27,840 --> 00:22:32,320
+but the most important thing was the
+
+555
+00:22:30,080 --> 00:22:35,280
+system five networking
+
+556
+00:22:32,320 --> 00:22:37,360
+was a dial up networking called unix to
+
+557
+00:22:35,280 --> 00:22:39,280
+unix copy
+
+558
+00:22:37,360 --> 00:22:41,440
+where your computer system would
+
+559
+00:22:39,280 --> 00:22:42,080
+actually dial up over the telephone
+
+560
+00:22:41,440 --> 00:22:44,320
+lines
+
+561
+00:22:42,080 --> 00:22:46,720
+make a connection to the next system and
+
+562
+00:22:44,320 --> 00:22:49,320
+pass the data on
+
+563
+00:22:46,720 --> 00:22:50,450
+and the berkeley system had implemented
+
+564
+00:22:49,320 --> 00:22:51,600
+tcpip
+
+565
+00:22:50,450 --> 00:22:55,919
+[Music]
+
+566
+00:22:51,600 --> 00:23:00,320
+remember tcpip it came from the internet
+
+567
+00:22:55,919 --> 00:23:02,320
+that was started in 1969
+
+568
+00:23:00,320 --> 00:23:04,400
+but one thing that the university of
+
+569
+00:23:02,320 --> 00:23:07,840
+california did not have
+
+570
+00:23:04,400 --> 00:23:09,520
+that system five did was a big marketing
+
+571
+00:23:07,840 --> 00:23:12,799
+budget
+
+572
+00:23:09,520 --> 00:23:14,480
+and so for the next 10 years every week
+
+573
+00:23:12,799 --> 00:23:16,559
+in the middle of this big computer
+
+574
+00:23:14,480 --> 00:23:19,360
+magazine a t
+
+575
+00:23:16,559 --> 00:23:19,919
+would have an advertisement for system 5
+
+576
+00:23:19,360 --> 00:23:23,280
+the right
+
+577
+00:23:19,919 --> 00:23:26,799
+choice but nevertheless they still
+
+578
+00:23:23,280 --> 00:23:27,600
+lost now there was one person who
+
+579
+00:23:26,799 --> 00:23:31,120
+objected
+
+580
+00:23:27,600 --> 00:23:35,760
+to this binary only copy of
+
+581
+00:23:31,120 --> 00:23:39,280
+unix he was a student at mit
+
+582
+00:23:35,760 --> 00:23:42,640
+in in boston
+
+583
+00:23:39,280 --> 00:23:44,559
+and he decided that he liked seeing the
+
+584
+00:23:42,640 --> 00:23:47,279
+source code for these operating systems
+
+585
+00:23:44,559 --> 00:23:50,400
+it was worthwhile having it it made it
+
+586
+00:23:47,279 --> 00:23:54,240
+easier to maintain the operating system
+
+587
+00:23:50,400 --> 00:23:57,360
+his name of course was richard stallman
+
+588
+00:23:54,240 --> 00:24:00,480
+and he announced this project called gnu
+
+589
+00:23:57,360 --> 00:24:03,520
+a project to completely rewrite
+
+590
+00:24:00,480 --> 00:24:04,000
+all of unix in source code and make it
+
+591
+00:24:03,520 --> 00:24:08,080
+freely
+
+592
+00:24:04,000 --> 00:24:11,360
+available and the first
+
+593
+00:24:08,080 --> 00:24:15,200
+piece of code he wrote was emacs
+
+594
+00:24:11,360 --> 00:24:16,640
+a text editor now emacs is so complex
+
+595
+00:24:15,200 --> 00:24:18,559
+that most people say he could have
+
+596
+00:24:16,640 --> 00:24:21,200
+stopped with emacs and he would have had
+
+597
+00:24:18,559 --> 00:24:24,080
+his complete operating system
+
+598
+00:24:21,200 --> 00:24:26,240
+but he went on to do other programs that
+
+599
+00:24:24,080 --> 00:24:28,880
+were useful to programmers
+
+600
+00:24:26,240 --> 00:24:29,520
+and these programs would work on
+
+601
+00:24:28,880 --> 00:24:33,120
+different
+
+602
+00:24:29,520 --> 00:24:33,520
+operating systems so you could use emacs
+
+603
+00:24:33,120 --> 00:24:37,520
+on
+
+604
+00:24:33,520 --> 00:24:40,000
+mvs and vms and unix systems
+
+605
+00:24:37,520 --> 00:24:42,000
+and so forth and all of a sudden
+
+606
+00:24:40,000 --> 00:24:45,200
+programmers got the idea
+
+607
+00:24:42,000 --> 00:24:46,799
+got the information that yes i only have
+
+608
+00:24:45,200 --> 00:24:49,919
+to learn my text editor
+
+609
+00:24:46,799 --> 00:24:53,039
+one time and i can use it on
+
+610
+00:24:49,919 --> 00:24:55,120
+all these other different systems
+
+611
+00:24:53,039 --> 00:24:56,400
+and the next thing he did was write some
+
+612
+00:24:55,120 --> 00:24:58,840
+compilers
+
+613
+00:24:56,400 --> 00:25:00,240
+that worked on all these different
+
+614
+00:24:58,840 --> 00:25:02,000
+systems
+
+615
+00:25:00,240 --> 00:25:04,240
+and people start to say well i can write
+
+616
+00:25:02,000 --> 00:25:06,159
+my code the same way
+
+617
+00:25:04,240 --> 00:25:08,080
+on all these systems and the only thing
+
+618
+00:25:06,159 --> 00:25:12,159
+i have to watch out for
+
+619
+00:25:08,080 --> 00:25:15,600
+are the system calls to the actual
+
+620
+00:25:12,159 --> 00:25:17,520
+operating system itself and he started
+
+621
+00:25:15,600 --> 00:25:19,440
+to gather more and more people that saw
+
+622
+00:25:17,520 --> 00:25:22,799
+this vision
+
+623
+00:25:19,440 --> 00:25:24,799
+and in 1985 he created the free software
+
+624
+00:25:22,799 --> 00:25:29,240
+foundation
+
+625
+00:25:24,799 --> 00:25:29,530
+which i bear the brand on his shoulder
+
+626
+00:25:29,240 --> 00:25:39,200
+[Applause]
+
+627
+00:25:29,530 --> 00:25:42,320
+[Music]
+
+628
+00:25:39,200 --> 00:25:44,640
+now he kept doing this you know
+
+629
+00:25:42,320 --> 00:25:45,679
+first the emacs and then the compiler
+
+630
+00:25:44,640 --> 00:25:48,799
+suite and then
+
+631
+00:25:45,679 --> 00:25:49,600
+various utilities and people began to
+
+632
+00:25:48,799 --> 00:25:52,640
+understand
+
+633
+00:25:49,600 --> 00:25:54,960
+that this was allowing people to be
+
+634
+00:25:52,640 --> 00:25:57,760
+portable across these different
+
+635
+00:25:54,960 --> 00:26:00,640
+operating systems
+
+636
+00:25:57,760 --> 00:26:02,400
+and this also allowed some small
+
+637
+00:26:00,640 --> 00:26:05,279
+companies to start up
+
+638
+00:26:02,400 --> 00:26:08,240
+giving support to this software that was
+
+639
+00:26:05,279 --> 00:26:10,080
+written by the free software foundation
+
+640
+00:26:08,240 --> 00:26:11,279
+some of them simply gathered up the
+
+641
+00:26:10,080 --> 00:26:14,240
+source code
+
+642
+00:26:11,279 --> 00:26:15,679
+and put them onto cd-roms and sold the
+
+643
+00:26:14,240 --> 00:26:18,640
+cd-roms
+
+644
+00:26:15,679 --> 00:26:20,480
+other people actually printed books
+
+645
+00:26:18,640 --> 00:26:23,200
+about how to use this software
+
+646
+00:26:20,480 --> 00:26:26,080
+and o'reilly is one of the major book
+
+647
+00:26:23,200 --> 00:26:28,240
+manufacturers that did that
+
+648
+00:26:26,080 --> 00:26:29,279
+and some companies like a company called
+
+649
+00:26:28,240 --> 00:26:32,240
+cygnus
+
+650
+00:26:29,279 --> 00:26:34,720
+actually supplied support to major
+
+651
+00:26:32,240 --> 00:26:37,440
+corporations like boeing
+
+652
+00:26:34,720 --> 00:26:38,640
+to use these compilers on different
+
+653
+00:26:37,440 --> 00:26:41,679
+systems
+
+654
+00:26:38,640 --> 00:26:43,840
+they did some work specifically paid for
+
+655
+00:26:41,679 --> 00:26:45,200
+by these companies that the free
+
+656
+00:26:43,840 --> 00:26:47,600
+software foundation
+
+657
+00:26:45,200 --> 00:26:48,559
+didn't have access to the machines or
+
+658
+00:26:47,600 --> 00:26:52,480
+the people
+
+659
+00:26:48,559 --> 00:26:56,080
+to do it and so people started realizing
+
+660
+00:26:52,480 --> 00:26:58,880
+that you can make money by supporting
+
+661
+00:26:56,080 --> 00:27:00,799
+free software
+
+662
+00:26:58,880 --> 00:27:02,640
+now the company i worked for digital
+
+663
+00:27:00,799 --> 00:27:05,520
+equipment corporation
+
+664
+00:27:02,640 --> 00:27:06,080
+we had been supporting unix from the
+
+665
+00:27:05,520 --> 00:27:08,640
+telephone
+
+666
+00:27:06,080 --> 00:27:09,520
+company from bell labs on our deck
+
+667
+00:27:08,640 --> 00:27:11,200
+hardware
+
+668
+00:27:09,520 --> 00:27:13,840
+but we were mostly writing device
+
+669
+00:27:11,200 --> 00:27:18,000
+drivers and things like that
+
+670
+00:27:13,840 --> 00:27:19,919
+and i joined digital in 1983.
+
+671
+00:27:18,000 --> 00:27:21,760
+i'm going to stop here for a moment and
+
+672
+00:27:19,919 --> 00:27:24,240
+i realized that most of you were not
+
+673
+00:27:21,760 --> 00:27:26,240
+born at that time
+
+674
+00:27:24,240 --> 00:27:28,080
+some of you your fathers were not born
+
+675
+00:27:26,240 --> 00:27:31,279
+at that time
+
+676
+00:27:28,080 --> 00:27:34,880
+but i joined in 1983 and
+
+677
+00:27:31,279 --> 00:27:36,960
+uh we were bringing out a unix system
+
+678
+00:27:34,880 --> 00:27:40,320
+based on 4.1
+
+679
+00:27:36,960 --> 00:27:43,039
+berkeley software distribution we bought
+
+680
+00:27:40,320 --> 00:27:46,559
+out two of them one of them was a
+
+681
+00:27:43,039 --> 00:27:48,559
+32-bit a 16-bit system called ultrix 11
+
+682
+00:27:46,559 --> 00:27:51,039
+and one was a 32-bit system called
+
+683
+00:27:48,559 --> 00:27:54,080
+ultrix 32.
+
+684
+00:27:51,039 --> 00:27:56,880
+now this started these unix wars
+
+685
+00:27:54,080 --> 00:27:59,039
+as different vendors started to see that
+
+686
+00:27:56,880 --> 00:28:02,240
+there was this market
+
+687
+00:27:59,039 --> 00:28:05,360
+that could be satisfied with unix mostly
+
+688
+00:28:02,240 --> 00:28:08,080
+it was a scientific and technical market
+
+689
+00:28:05,360 --> 00:28:10,640
+and software development market and
+
+690
+00:28:08,080 --> 00:28:12,640
+educational market
+
+691
+00:28:10,640 --> 00:28:14,320
+that was about 16 percent of the
+
+692
+00:28:12,640 --> 00:28:18,159
+marketplace
+
+693
+00:28:14,320 --> 00:28:20,640
+the other 84 of the marketplace
+
+694
+00:28:18,159 --> 00:28:21,919
+was what we call commercial software
+
+695
+00:28:20,640 --> 00:28:25,200
+which is represented by
+
+696
+00:28:21,919 --> 00:28:26,240
+banks and you know commerce and things
+
+697
+00:28:25,200 --> 00:28:29,600
+like that
+
+698
+00:28:26,240 --> 00:28:32,159
+that was still in the mainframe and
+
+699
+00:28:29,600 --> 00:28:34,080
+batch and proprietary operating system
+
+700
+00:28:32,159 --> 00:28:37,360
+area
+
+701
+00:28:34,080 --> 00:28:38,159
+databases were also you know in that
+
+702
+00:28:37,360 --> 00:28:40,480
+area
+
+703
+00:28:38,159 --> 00:28:42,960
+and they typically ran on commercial
+
+704
+00:28:40,480 --> 00:28:42,960
+systems
+
+705
+00:28:43,120 --> 00:28:47,679
+so there were two groups that formed one
+
+706
+00:28:45,760 --> 00:28:50,399
+was called unix system labs
+
+707
+00:28:47,679 --> 00:28:52,000
+which was made up of sun microsystems
+
+708
+00:28:50,399 --> 00:28:55,200
+and a tnt
+
+709
+00:28:52,000 --> 00:28:57,440
+that joined together and the sun did a
+
+710
+00:28:55,200 --> 00:29:00,559
+very stupid thing
+
+711
+00:28:57,440 --> 00:29:02,880
+they decided to abandon the code from
+
+712
+00:29:00,559 --> 00:29:06,000
+the university of california berkeley
+
+713
+00:29:02,880 --> 00:29:06,640
+and instead support the code from system
+
+714
+00:29:06,000 --> 00:29:10,159
+5
+
+715
+00:29:06,640 --> 00:29:12,399
+of bell laboratories this was a decision
+
+716
+00:29:10,159 --> 00:29:15,600
+made by upper management
+
+717
+00:29:12,399 --> 00:29:17,600
+for political reasons and the engineers
+
+718
+00:29:15,600 --> 00:29:21,919
+looked at the code from
+
+719
+00:29:17,600 --> 00:29:24,480
+a t and said this is terrible
+
+720
+00:29:21,919 --> 00:29:27,039
+and so the very first release of their
+
+721
+00:29:24,480 --> 00:29:31,279
+new code base was called
+
+722
+00:29:27,039 --> 00:29:34,799
+slolaris because it was so slow
+
+723
+00:29:31,279 --> 00:29:37,919
+compared to sun os their bsd base
+
+724
+00:29:34,799 --> 00:29:40,240
+eventually they did the optimization to
+
+725
+00:29:37,919 --> 00:29:42,960
+bring it up to speed
+
+726
+00:29:40,240 --> 00:29:43,440
+the other companies like dec ibm and
+
+727
+00:29:42,960 --> 00:29:45,760
+others
+
+728
+00:29:43,440 --> 00:29:47,279
+formed a group called the open software
+
+729
+00:29:45,760 --> 00:29:49,440
+foundation
+
+730
+00:29:47,279 --> 00:29:50,480
+and what they did was create a set of
+
+731
+00:29:49,440 --> 00:29:54,159
+standard
+
+732
+00:29:50,480 --> 00:29:57,120
+programming interfaces and a test suite
+
+733
+00:29:54,159 --> 00:29:58,880
+and a set of standards to say if you can
+
+734
+00:29:57,120 --> 00:30:02,480
+pass these standards
+
+735
+00:29:58,880 --> 00:30:06,000
+then you can call yourself unix
+
+736
+00:30:02,480 --> 00:30:06,840
+this was a radical idea because it meant
+
+737
+00:30:06,000 --> 00:30:10,240
+that you could
+
+738
+00:30:06,840 --> 00:30:13,440
+implement an operating system using
+
+739
+00:30:10,240 --> 00:30:16,559
+any code base you wanted to
+
+740
+00:30:13,440 --> 00:30:20,799
+as long as the programming interfaces
+
+741
+00:30:16,559 --> 00:30:23,679
+stayed the same and it also meant
+
+742
+00:30:20,799 --> 00:30:24,720
+that the most important thing was the
+
+743
+00:30:23,679 --> 00:30:28,000
+brand
+
+744
+00:30:24,720 --> 00:30:30,159
+of the product unix
+
+745
+00:30:28,000 --> 00:30:32,559
+it allowed people to know what they were
+
+746
+00:30:30,159 --> 00:30:32,559
+getting
+
+747
+00:30:32,960 --> 00:30:38,399
+now this started some wars companies
+
+748
+00:30:36,480 --> 00:30:41,919
+vying back and forth
+
+749
+00:30:38,399 --> 00:30:45,520
+and eventually in 1991
+
+750
+00:30:41,919 --> 00:30:48,080
+unix system labs sued a tiny little
+
+751
+00:30:45,520 --> 00:30:51,200
+company called bsdi
+
+752
+00:30:48,080 --> 00:30:53,919
+and said you're using a t
+
+753
+00:30:51,200 --> 00:30:56,720
+code without paying royalties to the
+
+754
+00:30:53,919 --> 00:31:00,640
+telephone company
+
+755
+00:30:56,720 --> 00:31:02,840
+and bsdi said no no the code that we get
+
+756
+00:31:00,640 --> 00:31:04,799
+is all from the university of california
+
+757
+00:31:02,840 --> 00:31:08,320
+berkeley
+
+758
+00:31:04,799 --> 00:31:11,120
+and the telephone company said no
+
+759
+00:31:08,320 --> 00:31:11,600
+there's still some you know a telephone
+
+760
+00:31:11,120 --> 00:31:16,240
+code
+
+761
+00:31:11,600 --> 00:31:19,039
+in there and this dragged on for years
+
+762
+00:31:16,240 --> 00:31:20,080
+and this stopped people from moving
+
+763
+00:31:19,039 --> 00:31:24,640
+forward
+
+764
+00:31:20,080 --> 00:31:27,840
+with the bsd code as a solution
+
+765
+00:31:24,640 --> 00:31:30,559
+to a free operating system
+
+766
+00:31:27,840 --> 00:31:30,559
+eventually
+
+767
+00:31:31,039 --> 00:31:35,120
+the bsdi people and the university of
+
+768
+00:31:33,679 --> 00:31:38,159
+california berkeley
+
+769
+00:31:35,120 --> 00:31:40,799
+got rid of all of the atnt
+
+770
+00:31:38,159 --> 00:31:43,760
+code at that point they created a
+
+771
+00:31:40,799 --> 00:31:46,640
+distribution called bsd lite
+
+772
+00:31:43,760 --> 00:31:49,279
+that became the basis of certain
+
+773
+00:31:46,640 --> 00:31:52,559
+operating systems that still exist today
+
+774
+00:31:49,279 --> 00:31:56,880
+in the open source space netbsd
+
+775
+00:31:52,559 --> 00:31:56,880
+freebsd and openbsd
+
+776
+00:31:57,120 --> 00:32:04,240
+but that was 1994.
+
+777
+00:32:01,120 --> 00:32:07,600
+in 1991 there was
+
+778
+00:32:04,240 --> 00:32:10,880
+a student named
+
+779
+00:32:07,600 --> 00:32:14,559
+lena's torvalds at the university of
+
+780
+00:32:10,880 --> 00:32:16,559
+helsinki and he had gotten a brand new
+
+781
+00:32:14,559 --> 00:32:20,559
+386 computer
+
+782
+00:32:16,559 --> 00:32:23,600
+for christmas and the 386
+
+783
+00:32:20,559 --> 00:32:24,320
+computer had a facility to it a feature
+
+784
+00:32:23,600 --> 00:32:28,480
+to it
+
+785
+00:32:24,320 --> 00:32:31,519
+that no other intel system had before
+
+786
+00:32:28,480 --> 00:32:32,880
+and that system that feature was to be
+
+787
+00:32:31,519 --> 00:32:36,720
+able to run
+
+788
+00:32:32,880 --> 00:32:40,159
+demand page virtual memory
+
+789
+00:32:36,720 --> 00:32:44,559
+remember the importance of that
+
+790
+00:32:40,159 --> 00:32:47,679
+from where unix came from years before
+
+791
+00:32:44,559 --> 00:32:50,399
+lenas knew that his system had that
+
+792
+00:32:47,679 --> 00:32:53,600
+capability but the operating system
+
+793
+00:32:50,399 --> 00:32:57,279
+that came with it from a company
+
+794
+00:32:53,600 --> 00:33:01,120
+named microsoft did not take advantage
+
+795
+00:32:57,279 --> 00:33:04,000
+of that feature because microsoft
+
+796
+00:33:01,120 --> 00:33:05,760
+was still supporting the customers using
+
+797
+00:33:04,000 --> 00:33:09,120
+the 186
+
+798
+00:33:05,760 --> 00:33:11,200
+and the 286 that did not have this
+
+799
+00:33:09,120 --> 00:33:14,240
+feature
+
+800
+00:33:11,200 --> 00:33:15,279
+so lenas decided he was going to write a
+
+801
+00:33:14,240 --> 00:33:18,320
+kernel
+
+802
+00:33:15,279 --> 00:33:21,919
+that used this feature and this would be
+
+803
+00:33:18,320 --> 00:33:26,320
+his operating system he was writing it
+
+804
+00:33:21,919 --> 00:33:28,000
+for himself just for fun
+
+805
+00:33:26,320 --> 00:33:29,679
+and he sent out a message over the
+
+806
+00:33:28,000 --> 00:33:31,919
+internet he said i'm writing this
+
+807
+00:33:29,679 --> 00:33:34,399
+operating syst just for fun
+
+808
+00:33:31,919 --> 00:33:37,120
+it's not going to be as big and powerful
+
+809
+00:33:34,399 --> 00:33:40,799
+as medics
+
+810
+00:33:37,120 --> 00:33:42,720
+and people started joining him with that
+
+811
+00:33:40,799 --> 00:33:46,159
+and giving their expertise and their
+
+812
+00:33:42,720 --> 00:33:49,039
+time to help to generate this kernel
+
+813
+00:33:46,159 --> 00:33:51,360
+which would then be the core of the
+
+814
+00:33:49,039 --> 00:33:54,480
+operating system that some people call
+
+815
+00:33:51,360 --> 00:33:57,519
+gdu linux now
+
+816
+00:33:54,480 --> 00:34:00,159
+why could this happen at this time
+
+817
+00:33:57,519 --> 00:34:01,840
+why at this time why not before when not
+
+818
+00:34:00,159 --> 00:34:04,159
+after
+
+819
+00:34:01,840 --> 00:34:05,600
+is because there were these cheap
+
+820
+00:34:04,159 --> 00:34:09,760
+powerful computers
+
+821
+00:34:05,600 --> 00:34:12,879
+and the 386 was not new in 1991
+
+822
+00:34:09,760 --> 00:34:16,480
+it was actually a several years old
+
+823
+00:34:12,879 --> 00:34:18,960
+and people had older 386 computers
+
+824
+00:34:16,480 --> 00:34:20,000
+lying around their house that they could
+
+825
+00:34:18,960 --> 00:34:23,359
+say oh
+
+826
+00:34:20,000 --> 00:34:26,320
+i can dedicate this computer to this
+
+827
+00:34:23,359 --> 00:34:26,320
+linux project
+
+828
+00:34:26,879 --> 00:34:31,440
+and there was also faster internet to
+
+829
+00:34:30,480 --> 00:34:35,200
+the house
+
+830
+00:34:31,440 --> 00:34:37,280
+both dial up and dsl and cable
+
+831
+00:34:35,200 --> 00:34:38,320
+which allowed people to do this work at
+
+832
+00:34:37,280 --> 00:34:39,760
+home
+
+833
+00:34:38,320 --> 00:34:42,399
+not having to do the work at the
+
+834
+00:34:39,760 --> 00:34:44,320
+university or doing the work at their
+
+835
+00:34:42,399 --> 00:34:47,359
+employment
+
+836
+00:34:44,320 --> 00:34:50,159
+there was a lot of information online
+
+837
+00:34:47,359 --> 00:34:51,679
+about how to build operating systems
+
+838
+00:34:50,159 --> 00:34:53,440
+there was the minix model
+
+839
+00:34:51,679 --> 00:34:54,960
+of building operating systems and there
+
+840
+00:34:53,440 --> 00:34:56,800
+were other toy
+
+841
+00:34:54,960 --> 00:34:59,119
+or other operating systems that were
+
+842
+00:34:56,800 --> 00:35:04,160
+done that people could see
+
+843
+00:34:59,119 --> 00:35:07,200
+the techniques of using them and in 1989
+
+844
+00:35:04,160 --> 00:35:10,160
+the world wide web had been invented
+
+845
+00:35:07,200 --> 00:35:11,040
+and was now maturing to make it easier
+
+846
+00:35:10,160 --> 00:35:14,160
+to transfer
+
+847
+00:35:11,040 --> 00:35:17,680
+huge amounts of data with links
+
+848
+00:35:14,160 --> 00:35:20,960
+to make this production easier
+
+849
+00:35:17,680 --> 00:35:24,800
+and even porn was easier
+
+850
+00:35:20,960 --> 00:35:24,800
+back because of the world wide web
+
+851
+00:35:25,839 --> 00:35:33,839
+so in 1994 which were three years after
+
+852
+00:35:30,560 --> 00:35:36,560
+lena started his curdle project and
+
+853
+00:35:33,839 --> 00:35:38,240
+ten years after the gnu project was
+
+854
+00:35:36,560 --> 00:35:42,720
+created
+
+855
+00:35:38,240 --> 00:35:46,079
+people brought together the linux kernel
+
+856
+00:35:42,720 --> 00:35:49,680
+and various parts of the lytic system
+
+857
+00:35:46,079 --> 00:35:53,359
+to create the gnu linux system
+
+858
+00:35:49,680 --> 00:35:56,640
+now at that time system vendors
+
+859
+00:35:53,359 --> 00:35:58,800
+except for sun had given up the desktop
+
+860
+00:35:56,640 --> 00:36:01,680
+computer to microsoft
+
+861
+00:35:58,800 --> 00:36:03,440
+and microsoft owned ninety percent of
+
+862
+00:36:01,680 --> 00:36:06,160
+the desktop market
+
+863
+00:36:03,440 --> 00:36:07,119
+with apple owning seven percent and
+
+864
+00:36:06,160 --> 00:36:11,040
+everything else
+
+865
+00:36:07,119 --> 00:36:14,320
+owning three percent windows nt
+
+866
+00:36:11,040 --> 00:36:15,280
+had been invented by by microsoft it was
+
+867
+00:36:14,320 --> 00:36:18,480
+not only
+
+868
+00:36:15,280 --> 00:36:21,520
+it's used in some desktops but also
+
+869
+00:36:18,480 --> 00:36:22,320
+using server systems and this was
+
+870
+00:36:21,520 --> 00:36:24,800
+scaring
+
+871
+00:36:22,320 --> 00:36:26,240
+the large vendors because this is where
+
+872
+00:36:24,800 --> 00:36:27,520
+they used unix
+
+873
+00:36:26,240 --> 00:36:29,599
+and this is where they used their
+
+874
+00:36:27,520 --> 00:36:34,480
+proprietary systems
+
+875
+00:36:29,599 --> 00:36:36,480
+and microsoft was eating into that space
+
+876
+00:36:34,480 --> 00:36:38,640
+tim o'reilly had actually stopped
+
+877
+00:36:36,480 --> 00:36:40,560
+producing books on unix because he said
+
+878
+00:36:38,640 --> 00:36:42,320
+it was a dying market
+
+879
+00:36:40,560 --> 00:36:45,680
+and he was actually producing books
+
+880
+00:36:42,320 --> 00:36:48,240
+about windows and tea
+
+881
+00:36:45,680 --> 00:36:49,839
+i don't blame him he had people that
+
+882
+00:36:48,240 --> 00:36:53,200
+were working for him
+
+883
+00:36:49,839 --> 00:36:55,200
+he had to keep them with jobs so
+
+884
+00:36:53,200 --> 00:36:58,160
+i don't really blame him for for
+
+885
+00:36:55,200 --> 00:37:01,200
+deserting the unix market
+
+886
+00:36:58,160 --> 00:37:04,079
+but in 1994
+
+887
+00:37:01,200 --> 00:37:05,200
+venus had finished version 1.0 of the
+
+888
+00:37:04,079 --> 00:37:08,079
+linux kernel
+
+889
+00:37:05,200 --> 00:37:10,480
+and had released it now when you create
+
+890
+00:37:08,079 --> 00:37:13,359
+operating systems
+
+891
+00:37:10,480 --> 00:37:13,920
+a version anything less than version one
+
+892
+00:37:13,359 --> 00:37:16,880
+is still
+
+893
+00:37:13,920 --> 00:37:17,359
+a heavily developing model it's not
+
+894
+00:37:16,880 --> 00:37:21,119
+really
+
+895
+00:37:17,359 --> 00:37:22,640
+ready for everybody to use version one
+
+896
+00:37:21,119 --> 00:37:24,960
+is the signal to people
+
+897
+00:37:22,640 --> 00:37:27,520
+that this is an operating system that
+
+898
+00:37:24,960 --> 00:37:30,960
+you can use
+
+899
+00:37:27,520 --> 00:37:33,680
+now i met lenas at a deacos meeting
+
+900
+00:37:30,960 --> 00:37:34,960
+in new orleans in 1994 and the reason
+
+901
+00:37:33,680 --> 00:37:37,520
+that new orleans
+
+902
+00:37:34,960 --> 00:37:39,280
+has two asterisks behind it is that
+
+903
+00:37:37,520 --> 00:37:40,160
+there are two cities in the united
+
+904
+00:37:39,280 --> 00:37:43,200
+states which are
+
+905
+00:37:40,160 --> 00:37:47,520
+adult disneylands one of them
+
+906
+00:37:43,200 --> 00:37:51,280
+is las vegas the other is new orleans
+
+907
+00:37:47,520 --> 00:37:54,000
+and i love new orleans
+
+908
+00:37:51,280 --> 00:37:55,040
+and i met linus and i saw linux for the
+
+909
+00:37:54,000 --> 00:37:57,520
+first time
+
+910
+00:37:55,040 --> 00:37:59,680
+and i sat down and i used linux and i
+
+911
+00:37:57,520 --> 00:38:03,520
+said wow this is really good
+
+912
+00:37:59,680 --> 00:38:06,880
+this is not this is on a weak miserable
+
+913
+00:38:03,520 --> 00:38:09,680
+crappy intel computer chip
+
+914
+00:38:06,880 --> 00:38:10,880
+it isn't a vax it isn't an alpha this is
+
+915
+00:38:09,680 --> 00:38:14,320
+one of these weak
+
+916
+00:38:10,880 --> 00:38:16,720
+miserable crappy intel chips and this
+
+917
+00:38:14,320 --> 00:38:20,079
+felt really good it was really peppy
+
+918
+00:38:16,720 --> 00:38:22,640
+this was something really good
+
+919
+00:38:20,079 --> 00:38:25,200
+and i said to lena's linus would you
+
+920
+00:38:22,640 --> 00:38:29,680
+like to create a 64-bit version
+
+921
+00:38:25,200 --> 00:38:31,359
+of linux because the alpha was a 64-bit
+
+922
+00:38:29,680 --> 00:38:35,119
+computer
+
+923
+00:38:31,359 --> 00:38:35,920
+why is that important with 32 bits you
+
+924
+00:38:35,119 --> 00:38:40,079
+can access
+
+925
+00:38:35,920 --> 00:38:43,119
+4 billion bytes of data at one time
+
+926
+00:38:40,079 --> 00:38:44,160
+but with 64 bits you can access 4
+
+927
+00:38:43,119 --> 00:38:48,400
+billion
+
+928
+00:38:44,160 --> 00:38:51,680
+times four billion bytes of data
+
+929
+00:38:48,400 --> 00:38:51,680
+how much data is that
+
+930
+00:38:52,800 --> 00:38:57,599
+that will fill up a one gigabyte disk
+
+931
+00:38:55,599 --> 00:39:01,000
+every second of the day
+
+932
+00:38:57,599 --> 00:39:04,079
+every day of the year for the next 5
+
+933
+00:39:01,000 --> 00:39:08,160
+386 years
+
+934
+00:39:04,079 --> 00:39:09,200
+or it'll allow you to store 128 bytes of
+
+935
+00:39:08,160 --> 00:39:11,520
+data
+
+936
+00:39:09,200 --> 00:39:13,040
+for every square millimeter on the
+
+937
+00:39:11,520 --> 00:39:16,480
+surface of the earth
+
+938
+00:39:13,040 --> 00:39:20,640
+including all the oceans it's a lot
+
+939
+00:39:16,480 --> 00:39:23,119
+of data and
+
+940
+00:39:20,640 --> 00:39:26,000
+it allows him to support multiple
+
+941
+00:39:23,119 --> 00:39:29,920
+processes not just intel and amd
+
+942
+00:39:26,000 --> 00:39:33,200
+but alpha and motorola and arm
+
+943
+00:39:29,920 --> 00:39:34,240
+and all the rest that were coming and he
+
+944
+00:39:33,200 --> 00:39:37,280
+said yes
+
+945
+00:39:34,240 --> 00:39:40,560
+he'd be happy to do that so i gave him a
+
+946
+00:39:37,280 --> 00:39:42,720
+thirty thousand dollar computer system
+
+947
+00:39:40,560 --> 00:39:43,680
+and i got some engineers from digital to
+
+948
+00:39:42,720 --> 00:39:47,599
+help him
+
+949
+00:39:43,680 --> 00:39:51,599
+and then i began to understand the power
+
+950
+00:39:47,599 --> 00:39:54,000
+of the free and open source community
+
+951
+00:39:51,599 --> 00:39:56,400
+the people who took their own money to
+
+952
+00:39:54,000 --> 00:39:59,359
+go out and buy alpha processors
+
+953
+00:39:56,400 --> 00:40:00,640
+so they could help with this project of
+
+954
+00:39:59,359 --> 00:40:04,000
+pointing linux
+
+955
+00:40:00,640 --> 00:40:07,440
+to the 64-bit system and in nine
+
+956
+00:40:04,000 --> 00:40:09,920
+months we did a port
+
+957
+00:40:07,440 --> 00:40:11,839
+a port where most of the people never
+
+958
+00:40:09,920 --> 00:40:14,960
+met each other face to face they
+
+959
+00:40:11,839 --> 00:40:18,240
+only worked over the internet
+
+960
+00:40:14,960 --> 00:40:24,160
+and i had engineers at digital
+
+961
+00:40:18,240 --> 00:40:27,520
+who told me that this was impossible
+
+962
+00:40:24,160 --> 00:40:30,240
+and at that point the new linux exploded
+
+963
+00:40:27,520 --> 00:40:31,280
+and it wasn't just gnu linux but it was
+
+964
+00:40:30,240 --> 00:40:33,520
+software from
+
+965
+00:40:31,280 --> 00:40:34,640
+all these different places came together
+
+966
+00:40:33,520 --> 00:40:37,760
+from mit
+
+967
+00:40:34,640 --> 00:40:38,560
+from from bsd from other from carnegie
+
+968
+00:40:37,760 --> 00:40:41,599
+mellon from
+
+969
+00:40:38,560 --> 00:40:43,599
+all these different places and but the
+
+970
+00:40:41,599 --> 00:40:45,119
+operating system still had no real
+
+971
+00:40:43,599 --> 00:40:48,480
+applications
+
+972
+00:40:45,119 --> 00:40:49,440
+no commercial applications but what was
+
+973
+00:40:48,480 --> 00:40:53,040
+happening
+
+974
+00:40:49,440 --> 00:40:55,440
+was the world wide web remember that
+
+975
+00:40:53,040 --> 00:40:56,720
+and the world wide web needed server
+
+976
+00:40:55,440 --> 00:41:00,319
+systems
+
+977
+00:40:56,720 --> 00:41:04,240
+that were had shells and it had
+
+978
+00:41:00,319 --> 00:41:06,160
+a web server and it had email services
+
+979
+00:41:04,240 --> 00:41:10,640
+and all these things were
+
+980
+00:41:06,160 --> 00:41:13,599
+on unix and now got put it to linux
+
+981
+00:41:10,640 --> 00:41:15,200
+and it was on these weak miserable
+
+982
+00:41:13,599 --> 00:41:18,480
+crappy but cheap
+
+983
+00:41:15,200 --> 00:41:20,079
+intel systems that people started to put
+
+984
+00:41:18,480 --> 00:41:23,280
+into place
+
+985
+00:41:20,079 --> 00:41:25,760
+as routers as firewalls
+
+986
+00:41:23,280 --> 00:41:27,839
+they started reusing old equipment that
+
+987
+00:41:25,760 --> 00:41:30,880
+could no longer run microsoft
+
+988
+00:41:27,839 --> 00:41:35,040
+to do all these things at no
+
+989
+00:41:30,880 --> 00:41:36,960
+additional expense
+
+990
+00:41:35,040 --> 00:41:40,079
+several other things happened in rapid
+
+991
+00:41:36,960 --> 00:41:42,240
+succession 1994 where beowulf
+
+992
+00:41:40,079 --> 00:41:44,560
+supercomputers came into being we'll
+
+993
+00:41:42,240 --> 00:41:48,240
+talk more about those in a moment
+
+994
+00:41:44,560 --> 00:41:50,000
+in 1998 databases like informix and
+
+995
+00:41:48,240 --> 00:41:52,480
+cybase and oracle
+
+996
+00:41:50,000 --> 00:41:54,079
+all ported to unix systems or linux
+
+997
+00:41:52,480 --> 00:41:56,079
+systems
+
+998
+00:41:54,079 --> 00:41:58,480
+and that meant something to me because
+
+999
+00:41:56,079 --> 00:42:01,599
+this was exactly the same
+
+1000
+00:41:58,480 --> 00:42:04,640
+set of procedures and steps
+
+1001
+00:42:01,599 --> 00:42:05,119
+that other operating systems took as
+
+1002
+00:42:04,640 --> 00:42:08,319
+they
+
+1003
+00:42:05,119 --> 00:42:11,680
+started to gain momentum
+
+1004
+00:42:08,319 --> 00:42:13,200
+in the year 2000 embedded systems chose
+
+1005
+00:42:11,680 --> 00:42:15,920
+linux as being the
+
+1006
+00:42:13,200 --> 00:42:18,079
+most used system for embedded system
+
+1007
+00:42:15,920 --> 00:42:20,560
+designs
+
+1008
+00:42:18,079 --> 00:42:21,119
+up until this point embedded systems
+
+1009
+00:42:20,560 --> 00:42:23,440
+were
+
+1010
+00:42:21,119 --> 00:42:24,800
+specific operating systems written by
+
+1011
+00:42:23,440 --> 00:42:27,839
+people
+
+1012
+00:42:24,800 --> 00:42:28,400
+but in the year 2000 customers started
+
+1013
+00:42:27,839 --> 00:42:31,440
+saying
+
+1014
+00:42:28,400 --> 00:42:35,280
+we want our embedded systems to talk
+
+1015
+00:42:31,440 --> 00:42:39,119
+to the internet oh my god
+
+1016
+00:42:35,280 --> 00:42:42,240
+that means they have to be secure
+
+1017
+00:42:39,119 --> 00:42:43,440
+and they have to have a tcp stack oh
+
+1018
+00:42:42,240 --> 00:42:46,079
+that's difficult
+
+1019
+00:42:43,440 --> 00:42:47,839
+oh my god what are we going to do
+
+1020
+00:42:46,079 --> 00:42:49,599
+there's an operating system
+
+1021
+00:42:47,839 --> 00:42:53,680
+that already runs on all these
+
+1022
+00:42:49,599 --> 00:42:56,000
+processors it already has a tcp stack
+
+1023
+00:42:53,680 --> 00:42:57,119
+it already is secure and it's called
+
+1024
+00:42:56,000 --> 00:42:59,839
+linux
+
+1025
+00:42:57,119 --> 00:42:59,839
+and it's free
+
+1026
+00:43:00,800 --> 00:43:08,720
+and overnight people started using linux
+
+1027
+00:43:04,720 --> 00:43:12,319
+for new embedded system designs
+
+1028
+00:43:08,720 --> 00:43:15,119
+i mentioned super computers in 1994
+
+1029
+00:43:12,319 --> 00:43:18,079
+supercomputers were very expensive but
+
+1030
+00:43:15,119 --> 00:43:21,599
+the companies that made them were dying
+
+1031
+00:43:18,079 --> 00:43:25,040
+companies like ecl cray
+
+1032
+00:43:21,599 --> 00:43:27,119
+control data corporation
+
+1033
+00:43:25,040 --> 00:43:29,280
+and you would design one of these
+
+1034
+00:43:27,119 --> 00:43:31,200
+systems and only four people would buy
+
+1035
+00:43:29,280 --> 00:43:32,960
+them
+
+1036
+00:43:31,200 --> 00:43:35,200
+sometimes they were government agency
+
+1037
+00:43:32,960 --> 00:43:39,680
+that we dare not say their name
+
+1038
+00:43:35,200 --> 00:43:41,680
+we dare not talk about the nsa
+
+1039
+00:43:39,680 --> 00:43:43,359
+and some a couple universities would
+
+1040
+00:43:41,680 --> 00:43:44,319
+take it but universities never pay you
+
+1041
+00:43:43,359 --> 00:43:46,240
+for anything
+
+1042
+00:43:44,319 --> 00:43:48,000
+because they don't have any money so you
+
+1043
+00:43:46,240 --> 00:43:49,760
+might actually sell one of them
+
+1044
+00:43:48,000 --> 00:43:51,200
+and that just wasn't enough to keep you
+
+1045
+00:43:49,760 --> 00:43:54,000
+alive
+
+1046
+00:43:51,200 --> 00:43:55,200
+so the companies were dying and these
+
+1047
+00:43:54,000 --> 00:43:57,839
+two people
+
+1048
+00:43:55,200 --> 00:43:58,319
+donald becker and dr thomas sterling
+
+1049
+00:43:57,839 --> 00:44:01,680
+said
+
+1050
+00:43:58,319 --> 00:44:06,400
+we need supercomputers because of
+
+1051
+00:44:01,680 --> 00:44:09,200
+one very very special problem
+
+1052
+00:44:06,400 --> 00:44:10,720
+you may not even think about it's a
+
+1053
+00:44:09,200 --> 00:44:14,480
+problem called
+
+1054
+00:44:10,720 --> 00:44:14,480
+fluid dynamics
+
+1055
+00:44:14,640 --> 00:44:18,319
+you know i tell people that math is
+
+1056
+00:44:17,760 --> 00:44:20,960
+behind
+
+1057
+00:44:18,319 --> 00:44:22,960
+everything math is behind physics and
+
+1058
+00:44:20,960 --> 00:44:26,240
+physics is behind the real world
+
+1059
+00:44:22,960 --> 00:44:28,319
+well fluid dynamics is the essence of
+
+1060
+00:44:26,240 --> 00:44:30,560
+math and physics
+
+1061
+00:44:28,319 --> 00:44:32,800
+fluid dynamics is everything it is the
+
+1062
+00:44:30,560 --> 00:44:33,359
+air it is the water it's the currents in
+
+1063
+00:44:32,800 --> 00:44:37,280
+the water
+
+1064
+00:44:33,359 --> 00:44:39,520
+is the weather it is this piece of wood
+
+1065
+00:44:37,280 --> 00:44:41,200
+maybe the wood is a solid but the heat
+
+1066
+00:44:39,520 --> 00:44:45,839
+flow through this wood
+
+1067
+00:44:41,200 --> 00:44:49,200
+is fluid and so this is a very
+
+1068
+00:44:45,839 --> 00:44:52,720
+hard problem to solve very compute
+
+1069
+00:44:49,200 --> 00:44:54,560
+intensive we used to build wind tunnels
+
+1070
+00:44:52,720 --> 00:44:57,760
+to test airplanes and to test
+
+1071
+00:44:54,560 --> 00:45:00,160
+cars for aerodynamics they were very
+
+1072
+00:44:57,760 --> 00:45:03,200
+expensive to build
+
+1073
+00:45:00,160 --> 00:45:04,720
+but you could simulate that if you had
+
+1074
+00:45:03,200 --> 00:45:07,280
+enough computing power
+
+1075
+00:45:04,720 --> 00:45:08,319
+and you wouldn't have to build this very
+
+1076
+00:45:07,280 --> 00:45:11,520
+expensive
+
+1077
+00:45:08,319 --> 00:45:14,240
+wind tunnel and so
+
+1078
+00:45:11,520 --> 00:45:16,560
+they said we can take this gigantic hard
+
+1079
+00:45:14,240 --> 00:45:17,359
+to solve problem and break it down into
+
+1080
+00:45:16,560 --> 00:45:19,680
+many many
+
+1081
+00:45:17,359 --> 00:45:21,680
+tiny little problems and instead of
+
+1082
+00:45:19,680 --> 00:45:24,480
+having a supercomputer do it
+
+1083
+00:45:21,680 --> 00:45:26,800
+we'll use these weak miserable crappy
+
+1084
+00:45:24,480 --> 00:45:29,359
+intel pcs
+
+1085
+00:45:26,800 --> 00:45:31,520
+to solve each tiny little problem and
+
+1086
+00:45:29,359 --> 00:45:34,240
+then bring the answers together
+
+1087
+00:45:31,520 --> 00:45:36,880
+and they called this the beowulf
+
+1088
+00:45:34,240 --> 00:45:39,839
+supercomputer
+
+1089
+00:45:36,880 --> 00:45:41,359
+now this was developed in 1994
+
+1090
+00:45:39,839 --> 00:45:44,319
+inadvertently
+
+1091
+00:45:41,359 --> 00:45:45,599
+i met a young man in 1995 who was going
+
+1092
+00:45:44,319 --> 00:45:49,680
+to university
+
+1093
+00:45:45,599 --> 00:45:51,680
+i said here's a copy of red hat linux
+
+1094
+00:45:49,680 --> 00:45:53,359
+all you read people out there i gave
+
+1095
+00:45:51,680 --> 00:45:56,079
+them red hat linux
+
+1096
+00:45:53,359 --> 00:45:58,319
+and overnight all the national
+
+1097
+00:45:56,079 --> 00:46:01,200
+laboratories in the united states used
+
+1098
+00:45:58,319 --> 00:46:03,760
+red hat linux to build their beowulf
+
+1099
+00:46:01,200 --> 00:46:05,839
+supercomputers
+
+1100
+00:46:03,760 --> 00:46:07,359
+that is actually a copy of the young man
+
+1101
+00:46:05,839 --> 00:46:10,079
+i gave that cd to
+
+1102
+00:46:07,359 --> 00:46:12,400
+his name is pakgoda and he's in front of
+
+1103
+00:46:10,079 --> 00:46:15,599
+a system called loki
+
+1104
+00:46:12,400 --> 00:46:16,640
+which pat was using to what to simulate
+
+1105
+00:46:15,599 --> 00:46:20,560
+what would happen
+
+1106
+00:46:16,640 --> 00:46:23,440
+if meteors crashed into the earth
+
+1107
+00:46:20,560 --> 00:46:25,680
+up until 2001 he was crashing them into
+
+1108
+00:46:23,440 --> 00:46:27,839
+new york city
+
+1109
+00:46:25,680 --> 00:46:30,160
+after september the 11th he chose los
+
+1110
+00:46:27,839 --> 00:46:33,200
+angeles
+
+1111
+00:46:30,160 --> 00:46:37,040
+but he still went on okay and today
+
+1112
+00:46:33,200 --> 00:46:40,240
+of the 5 000 fat or sorry the 500
+
+1113
+00:46:37,040 --> 00:46:43,280
+fastest computers in the world
+
+1114
+00:46:40,240 --> 00:46:44,960
+all of them run linux
+
+1115
+00:46:43,280 --> 00:46:46,640
+the same linux that you run on your
+
+1116
+00:46:44,960 --> 00:46:49,680
+laptop
+
+1117
+00:46:46,640 --> 00:46:49,680
+or your desktop
+
+1118
+00:46:50,240 --> 00:46:54,560
+two of them used to run micro used to
+
+1119
+00:46:52,480 --> 00:46:56,960
+run microsoft because microsoft paid
+
+1120
+00:46:54,560 --> 00:47:00,240
+them to run microsoft
+
+1121
+00:46:56,960 --> 00:47:02,319
+we can't have all 500 running linux
+
+1122
+00:47:00,240 --> 00:47:04,720
+you know pay them to run microsoft but
+
+1123
+00:47:02,319 --> 00:47:08,960
+it got too expensive
+
+1124
+00:47:04,720 --> 00:47:13,359
+they're still there but they're like 572
+
+1125
+00:47:08,960 --> 00:47:16,160
+of you know the 500 fastest computers
+
+1126
+00:47:13,359 --> 00:47:16,880
+you see they're a prize the gordon bell
+
+1127
+00:47:16,160 --> 00:47:19,040
+prize
+
+1128
+00:47:16,880 --> 00:47:20,240
+gordon bell works for the microsoft
+
+1129
+00:47:19,040 --> 00:47:23,760
+corporation
+
+1130
+00:47:20,240 --> 00:47:26,000
+in their supercomputer area they're
+
+1131
+00:47:23,760 --> 00:47:27,040
+named after him given to the best
+
+1132
+00:47:26,000 --> 00:47:30,960
+supercomputer
+
+1133
+00:47:27,040 --> 00:47:30,960
+it's never been won by microsoft
+
+1134
+00:47:31,680 --> 00:47:36,800
+i know gordon he's a great guy
+
+1135
+00:47:34,960 --> 00:47:39,280
+so the next thing that happened was the
+
+1136
+00:47:36,800 --> 00:47:40,640
+years of the unix desktop
+
+1137
+00:47:39,280 --> 00:47:42,800
+and actually let's just say linux
+
+1138
+00:47:40,640 --> 00:47:45,359
+desktop but
+
+1139
+00:47:42,800 --> 00:47:47,520
+you know unix we kept trying to get it
+
+1140
+00:47:45,359 --> 00:47:49,680
+onto the desktop
+
+1141
+00:47:47,520 --> 00:47:53,280
+and people would not use unix because
+
+1142
+00:47:49,680 --> 00:47:56,000
+they were too used to ms-dos and windows
+
+1143
+00:47:53,280 --> 00:47:57,359
+i don't know if you remember this but
+
+1144
+00:47:56,000 --> 00:47:59,760
+your parents
+
+1145
+00:47:57,359 --> 00:48:02,079
+when you said use the computer system
+
+1146
+00:47:59,760 --> 00:48:04,960
+they would write down in the notebook
+
+1147
+00:48:02,079 --> 00:48:06,480
+hit this button wait to the screen
+
+1148
+00:48:04,960 --> 00:48:10,240
+lights up
+
+1149
+00:48:06,480 --> 00:48:11,920
+type in this name type in this word
+
+1150
+00:48:10,240 --> 00:48:13,520
+that's your password
+
+1151
+00:48:11,920 --> 00:48:15,599
+and they would write this down in a
+
+1152
+00:48:13,520 --> 00:48:18,160
+notebook because that's the way they use
+
+1153
+00:48:15,599 --> 00:48:18,160
+computers
+
+1154
+00:48:18,319 --> 00:48:24,079
+and that's one reason why people did not
+
+1155
+00:48:21,920 --> 00:48:26,160
+switch over to using linux on the
+
+1156
+00:48:24,079 --> 00:48:28,000
+desktop because they were too used to
+
+1157
+00:48:26,160 --> 00:48:30,480
+using computers that way
+
+1158
+00:48:28,000 --> 00:48:32,839
+from this one standard interface or what
+
+1159
+00:48:30,480 --> 00:48:36,400
+they thought was standard
+
+1160
+00:48:32,839 --> 00:48:38,559
+microsoft another reason for
+
+1161
+00:48:36,400 --> 00:48:40,720
+not using the new linux was the lack of
+
+1162
+00:48:38,559 --> 00:48:45,040
+games
+
+1163
+00:48:40,720 --> 00:48:48,640
+now games is an interesting subject
+
+1164
+00:48:45,040 --> 00:48:53,440
+here in argentina you actually pirate
+
+1165
+00:48:48,640 --> 00:48:53,440
+about 84 percent of your desktop
+
+1166
+00:49:00,839 --> 00:49:06,720
+software
+
+1167
+00:49:03,119 --> 00:49:10,240
+yes you laugh and clap
+
+1168
+00:49:06,720 --> 00:49:13,119
+but what happens when it's your program
+
+1169
+00:49:10,240 --> 00:49:14,800
+that you have written and you are
+
+1170
+00:49:13,119 --> 00:49:17,520
+expecting to make money
+
+1171
+00:49:14,800 --> 00:49:19,040
+off of the software that you wrote
+
+1172
+00:49:17,520 --> 00:49:22,160
+you're expecting to feed
+
+1173
+00:49:19,040 --> 00:49:24,480
+your family you're expecting to be able
+
+1174
+00:49:22,160 --> 00:49:27,760
+to make your tuition to go to school
+
+1175
+00:49:24,480 --> 00:49:27,760
+is it so funny then
+
+1176
+00:49:28,480 --> 00:49:32,160
+this is one reason why i as a free
+
+1177
+00:49:30,960 --> 00:49:34,559
+software person
+
+1178
+00:49:32,160 --> 00:49:36,640
+are is adamant against software and
+
+1179
+00:49:34,559 --> 00:49:39,200
+privacy
+
+1180
+00:49:36,640 --> 00:49:39,920
+because it takes money out of the mouths
+
+1181
+00:49:39,200 --> 00:49:42,960
+of people
+
+1182
+00:49:39,920 --> 00:49:44,960
+who expected to make write that money
+
+1183
+00:49:42,960 --> 00:49:46,319
+write that software and make money from
+
+1184
+00:49:44,960 --> 00:49:48,880
+it
+
+1185
+00:49:46,319 --> 00:49:50,640
+instead you should be using truly free
+
+1186
+00:49:48,880 --> 00:49:51,280
+software software written with the
+
+1187
+00:49:50,640 --> 00:49:54,559
+intent
+
+1188
+00:49:51,280 --> 00:49:55,200
+of giving it away and the intent of
+
+1189
+00:49:54,559 --> 00:49:57,920
+having you
+
+1190
+00:49:55,200 --> 00:50:00,559
+help make it better a collaborative
+
+1191
+00:49:57,920 --> 00:50:03,520
+development model
+
+1192
+00:50:00,559 --> 00:50:08,400
+but with games it's even worse because
+
+1193
+00:50:03,520 --> 00:50:08,400
+the piracy rate of games is 99
+
+1194
+00:50:08,480 --> 00:50:13,359
+the game company makes the one cd and
+
+1195
+00:50:10,880 --> 00:50:14,400
+magically that cd is duplicated 50 000
+
+1196
+00:50:13,359 --> 00:50:18,079
+times yeah we
+
+1197
+00:50:14,400 --> 00:50:20,160
+we bought the one copy and this is why a
+
+1198
+00:50:18,079 --> 00:50:22,880
+lot of game companies are now
+
+1199
+00:50:20,160 --> 00:50:26,160
+giving away the game software and
+
+1200
+00:50:22,880 --> 00:50:28,720
+selling you plastic toys instead or
+
+1201
+00:50:26,160 --> 00:50:29,520
+making you attack attached to a server
+
+1202
+00:50:28,720 --> 00:50:32,160
+and pay
+
+1203
+00:50:29,520 --> 00:50:35,920
+a subscription fee because that's the
+
+1204
+00:50:32,160 --> 00:50:35,920
+only way that they can make money
+
+1205
+00:50:36,079 --> 00:50:40,240
+this is why when people say to me how do
+
+1206
+00:50:38,160 --> 00:50:40,720
+i make money with free software i say to
+
+1207
+00:50:40,240 --> 00:50:45,440
+them
+
+1208
+00:50:40,720 --> 00:50:48,640
+the very first thing you do is you write
+
+1209
+00:50:45,440 --> 00:50:50,240
+a business plan to make sure
+
+1210
+00:50:48,640 --> 00:50:51,760
+that after you've done the work of
+
+1211
+00:50:50,240 --> 00:50:52,640
+creating this free software that you
+
+1212
+00:50:51,760 --> 00:50:54,319
+have a way
+
+1213
+00:50:52,640 --> 00:50:57,280
+of making money to keep the free
+
+1214
+00:50:54,319 --> 00:50:57,280
+software going
+
+1215
+00:50:57,599 --> 00:51:02,079
+but the other reason why linux doesn't
+
+1216
+00:51:00,160 --> 00:51:04,240
+really make it on a desktop
+
+1217
+00:51:02,079 --> 00:51:05,839
+is the fact that most people need only
+
+1218
+00:51:04,240 --> 00:51:08,480
+five applications
+
+1219
+00:51:05,839 --> 00:51:09,599
+they really do they need a desktop
+
+1220
+00:51:08,480 --> 00:51:12,079
+application
+
+1221
+00:51:09,599 --> 00:51:13,760
+they need all this stuff and they never
+
+1222
+00:51:12,079 --> 00:51:15,680
+get to that
+
+1223
+00:51:13,760 --> 00:51:18,240
+i am told i'm out of time so i'm going
+
+1224
+00:51:15,680 --> 00:51:21,680
+to skip ahead a little bit
+
+1225
+00:51:18,240 --> 00:51:23,680
+another threat is apple where apple
+
+1226
+00:51:21,680 --> 00:51:25,760
+decided that computers weren't computers
+
+1227
+00:51:23,680 --> 00:51:27,200
+anymore they were actually consumer
+
+1228
+00:51:25,760 --> 00:51:29,839
+items
+
+1229
+00:51:27,200 --> 00:51:30,240
+they wanted you to buy an iphone because
+
+1230
+00:51:29,839 --> 00:51:32,400
+it was
+
+1231
+00:51:30,240 --> 00:51:33,280
+fancy and because you could brag to your
+
+1232
+00:51:32,400 --> 00:51:35,680
+friends
+
+1233
+00:51:33,280 --> 00:51:36,400
+not because it necessarily did anything
+
+1234
+00:51:35,680 --> 00:51:39,520
+you wanted
+
+1235
+00:51:36,400 --> 00:51:42,880
+it to do but android
+
+1236
+00:51:39,520 --> 00:51:44,400
+foiled apple's plan because remember
+
+1237
+00:51:42,880 --> 00:51:46,640
+there used to be ninety percent
+
+1238
+00:51:44,400 --> 00:51:49,839
+microsoft and seven percent
+
+1239
+00:51:46,640 --> 00:51:52,400
+apple microsoft took the philosophy if
+
+1240
+00:51:49,839 --> 00:51:54,319
+you could even say the word windows
+
+1241
+00:51:52,400 --> 00:51:55,520
+you could put your software on their
+
+1242
+00:51:54,319 --> 00:51:58,079
+hardware
+
+1243
+00:51:55,520 --> 00:51:58,640
+and apple said nobody will make money
+
+1244
+00:51:58,079 --> 00:52:02,079
+from us
+
+1245
+00:51:58,640 --> 00:52:02,079
+unless they're named apple
+
+1246
+00:52:02,319 --> 00:52:09,200
+android screwed up apple's plan
+
+1247
+00:52:05,760 --> 00:52:11,359
+because android is now the new microsoft
+
+1248
+00:52:09,200 --> 00:52:13,200
+if you could even say the word android
+
+1249
+00:52:11,359 --> 00:52:15,680
+you can have your application there
+
+1250
+00:52:13,200 --> 00:52:17,280
+you can put android on top of your
+
+1251
+00:52:15,680 --> 00:52:19,440
+hardware
+
+1252
+00:52:17,280 --> 00:52:21,760
+so all these hardware vendors are
+
+1253
+00:52:19,440 --> 00:52:24,880
+creating different platforms
+
+1254
+00:52:21,760 --> 00:52:28,319
+for people to use
+
+1255
+00:52:24,880 --> 00:52:29,599
+and now we have the cloud the cloud is
+
+1256
+00:52:28,319 --> 00:52:31,920
+another way
+
+1257
+00:52:29,599 --> 00:52:32,880
+that people can these companies can trap
+
+1258
+00:52:31,920 --> 00:52:36,240
+people
+
+1259
+00:52:32,880 --> 00:52:37,040
+into using their facility i come from
+
+1260
+00:52:36,240 --> 00:52:38,960
+this company
+
+1261
+00:52:37,040 --> 00:52:41,680
+in this country called the united states
+
+1262
+00:52:38,960 --> 00:52:43,440
+you may have heard of us
+
+1263
+00:52:41,680 --> 00:52:44,880
+and the united states has this law
+
+1264
+00:52:43,440 --> 00:52:48,000
+called the constitution
+
+1265
+00:52:44,880 --> 00:52:52,160
+which protects my privacy against
+
+1266
+00:52:48,000 --> 00:52:55,440
+these agencies which i've mentioned
+
+1267
+00:52:52,160 --> 00:52:58,400
+but you have no privacy in my country
+
+1268
+00:52:55,440 --> 00:52:59,119
+you have no rights under my law none
+
+1269
+00:52:58,400 --> 00:53:02,880
+zero
+
+1270
+00:52:59,119 --> 00:53:03,359
+zip and so if your data even creeps
+
+1271
+00:53:02,880 --> 00:53:05,839
+across
+
+1272
+00:53:03,359 --> 00:53:07,839
+our borders or goes through certain
+
+1273
+00:53:05,839 --> 00:53:10,960
+places that are controlled by us
+
+1274
+00:53:07,839 --> 00:53:12,720
+my country can look at your data with
+
+1275
+00:53:10,960 --> 00:53:14,720
+impunity
+
+1276
+00:53:12,720 --> 00:53:15,920
+if i entered into the conversation they
+
+1277
+00:53:14,720 --> 00:53:18,720
+have to stop
+
+1278
+00:53:15,920 --> 00:53:20,400
+because i'm a u.s citizen but as long as
+
+1279
+00:53:18,720 --> 00:53:21,920
+you're talking to yourselves you're
+
+1280
+00:53:20,400 --> 00:53:23,280
+talking to other people in other
+
+1281
+00:53:21,920 --> 00:53:26,079
+countries
+
+1282
+00:53:23,280 --> 00:53:28,800
+they can listen and they can change your
+
+1283
+00:53:26,079 --> 00:53:31,599
+data if they want to
+
+1284
+00:53:28,800 --> 00:53:32,000
+this is why it's important for you to
+
+1285
+00:53:31,599 --> 00:53:35,200
+make
+
+1286
+00:53:32,000 --> 00:53:38,400
+way to store your most important data
+
+1287
+00:53:35,200 --> 00:53:40,559
+inside of your country
+
+1288
+00:53:38,400 --> 00:53:43,920
+and you have to understand what happens
+
+1289
+00:53:40,559 --> 00:53:47,359
+when that data escapes
+
+1290
+00:53:43,920 --> 00:53:49,599
+your control you need
+
+1291
+00:53:47,359 --> 00:53:52,400
+we have to take back the cloud from the
+
+1292
+00:53:49,599 --> 00:53:54,000
+large cloud vendors
+
+1293
+00:53:52,400 --> 00:53:56,960
+i'm going to skip the summary of the
+
+1294
+00:53:54,000 --> 00:54:01,200
+history what i'd like to do
+
+1295
+00:53:56,960 --> 00:54:03,599
+is talk about the future for a bit
+
+1296
+00:54:01,200 --> 00:54:05,359
+we have users these days people that
+
+1297
+00:54:03,599 --> 00:54:06,640
+don't know about computers people have
+
+1298
+00:54:05,359 --> 00:54:09,359
+never written the program
+
+1299
+00:54:06,640 --> 00:54:10,079
+but they're using computers we have to
+
+1300
+00:54:09,359 --> 00:54:13,200
+make them
+
+1301
+00:54:10,079 --> 00:54:15,280
+understand about freedom
+
+1302
+00:54:13,200 --> 00:54:19,040
+we have to make them understand that the
+
+1303
+00:54:15,280 --> 00:54:21,440
+opposite of freedom is slavery
+
+1304
+00:54:19,040 --> 00:54:23,119
+companies tell you what to do when to go
+
+1305
+00:54:21,440 --> 00:54:25,119
+where to put the code
+
+1306
+00:54:23,119 --> 00:54:26,640
+what you can do with it when you have to
+
+1307
+00:54:25,119 --> 00:54:28,800
+retire it
+
+1308
+00:54:26,640 --> 00:54:31,200
+when you have to upgrade that is
+
+1309
+00:54:28,800 --> 00:54:33,599
+software slavery
+
+1310
+00:54:31,200 --> 00:54:35,280
+and when you're a slave you have no
+
+1311
+00:54:33,599 --> 00:54:37,520
+control
+
+1312
+00:54:35,280 --> 00:54:39,359
+you have no control over your life
+
+1313
+00:54:37,520 --> 00:54:41,359
+you're told when to marry when to have
+
+1314
+00:54:39,359 --> 00:54:44,400
+children when to die
+
+1315
+00:54:41,359 --> 00:54:46,720
+you are a slave
+
+1316
+00:54:44,400 --> 00:54:49,599
+and we don't want that because we are
+
+1317
+00:54:46,720 --> 00:54:49,599
+human beings
+
+1318
+00:54:50,480 --> 00:54:56,000
+some companies say they love open source
+
+1319
+00:54:54,480 --> 00:54:58,720
+in the ancient greek there were three
+
+1320
+00:54:56,000 --> 00:55:01,200
+words for love one was agape
+
+1321
+00:54:58,720 --> 00:55:01,920
+the love of god for man the love of
+
+1322
+00:55:01,200 --> 00:55:05,680
+mother for
+
+1323
+00:55:01,920 --> 00:55:06,559
+child but even a mother's child the
+
+1324
+00:55:05,680 --> 00:55:09,760
+mother's love
+
+1325
+00:55:06,559 --> 00:55:12,720
+is not without cost if you love me
+
+1326
+00:55:09,760 --> 00:55:16,720
+you'll take out the garbage
+
+1327
+00:55:12,720 --> 00:55:20,079
+if you love me you'll feed the dog
+
+1328
+00:55:16,720 --> 00:55:23,839
+but it is the greatest of love
+
+1329
+00:55:20,079 --> 00:55:26,319
+the second love is filos brotherly love
+
+1330
+00:55:23,839 --> 00:55:29,200
+from that we give philanthropy in
+
+1331
+00:55:26,319 --> 00:55:32,400
+philadelphia and psychology
+
+1332
+00:55:29,200 --> 00:55:35,839
+philadelphia the city of brotherly love
+
+1333
+00:55:32,400 --> 00:55:38,960
+the love of you for your friends
+
+1334
+00:55:35,839 --> 00:55:40,720
+not quite agape but then there's the
+
+1335
+00:55:38,960 --> 00:55:43,920
+third love
+
+1336
+00:55:40,720 --> 00:55:49,760
+errors the deepest
+
+1337
+00:55:43,920 --> 00:55:53,440
+dirtiest love sexual love
+
+1338
+00:55:49,760 --> 00:55:57,359
+we get erotic from that erotica
+
+1339
+00:55:53,440 --> 00:55:59,359
+sex that is the love
+
+1340
+00:55:57,359 --> 00:56:00,480
+that some companies have for free
+
+1341
+00:55:59,359 --> 00:56:04,000
+software
+
+1342
+00:56:00,480 --> 00:56:06,400
+and open source do not bend over in the
+
+1343
+00:56:04,000 --> 00:56:06,400
+shower
+
+1344
+00:56:07,119 --> 00:56:12,480
+we are very close to world domination 60
+
+1345
+00:56:10,720 --> 00:56:15,599
+of all the servers in the world run
+
+1346
+00:56:12,480 --> 00:56:17,280
+linux the 500 fastest computers in the
+
+1347
+00:56:15,599 --> 00:56:19,359
+world run linux
+
+1348
+00:56:17,280 --> 00:56:20,480
+most embedded systems your d-link
+
+1349
+00:56:19,359 --> 00:56:23,200
+routers your elderly
+
+1350
+00:56:20,480 --> 00:56:24,240
+elsa's routers either run linux or bsd
+
+1351
+00:56:23,200 --> 00:56:26,319
+we are very
+
+1352
+00:56:24,240 --> 00:56:28,000
+all of the major companies in the world
+
+1353
+00:56:26,319 --> 00:56:31,760
+run free software in some way
+
+1354
+00:56:28,000 --> 00:56:35,280
+shape or form you just have to go
+
+1355
+00:56:31,760 --> 00:56:38,960
+a little bit further and that's your job
+
+1356
+00:56:35,280 --> 00:56:41,920
+your job is to publicize free software
+
+1357
+00:56:38,960 --> 00:56:43,760
+is to publicize why it's good is to make
+
+1358
+00:56:41,920 --> 00:56:44,799
+people understand that with free
+
+1359
+00:56:43,760 --> 00:56:47,680
+software they
+
+1360
+00:56:44,799 --> 00:56:47,680
+have control
+
+1361
+00:56:48,079 --> 00:56:52,079
+i'm still working on a series of
+
+1362
+00:56:49,760 --> 00:56:56,079
+projects but quite frankly
+
+1363
+00:56:52,079 --> 00:56:59,119
+i'm 69. my brother retired at 55
+
+1364
+00:56:56,079 --> 00:57:01,359
+most people i know retired is 65 i've
+
+1365
+00:56:59,119 --> 00:57:04,559
+had three heart attacks
+
+1366
+00:57:01,359 --> 00:57:06,720
+but i am working on a few projects like
+
+1367
+00:57:04,559 --> 00:57:09,839
+caninus lucas which was shown down in
+
+1368
+00:57:06,720 --> 00:57:11,200
+the stand for these last three days
+
+1369
+00:57:09,839 --> 00:57:14,160
+these are computers that we are
+
+1370
+00:57:11,200 --> 00:57:18,000
+designing and building in brazil
+
+1371
+00:57:14,160 --> 00:57:20,000
+and i'm here in argentina to help you
+
+1372
+00:57:18,000 --> 00:57:21,839
+start designing the same type of
+
+1373
+00:57:20,000 --> 00:57:24,000
+computers here
+
+1374
+00:57:21,839 --> 00:57:25,520
+i've made some good contacts we're going
+
+1375
+00:57:24,000 --> 00:57:27,040
+to share ideas
+
+1376
+00:57:25,520 --> 00:57:29,040
+and we're gonna start building these
+
+1377
+00:57:27,040 --> 00:57:29,839
+computers in latin america instead of
+
+1378
+00:57:29,040 --> 00:57:34,240
+sending
+
+1379
+00:57:29,839 --> 00:57:36,319
+billions and trillions of pesos to china
+
+1380
+00:57:34,240 --> 00:57:40,079
+i have nothing against china i have a
+
+1381
+00:57:36,319 --> 00:57:42,720
+lot of chinese friends
+
+1382
+00:57:40,079 --> 00:57:44,640
+but they make enough money and i want to
+
+1383
+00:57:42,720 --> 00:57:46,319
+create jobs in argentina
+
+1384
+00:57:44,640 --> 00:57:48,640
+and i want to create jobs in latin
+
+1385
+00:57:46,319 --> 00:57:50,319
+america
+
+1386
+00:57:48,640 --> 00:57:52,559
+and there's things like internet of
+
+1387
+00:57:50,319 --> 00:57:54,960
+things which are too dangerous
+
+1388
+00:57:52,559 --> 00:57:58,079
+to allow this to be done by people
+
+1389
+00:57:54,960 --> 00:58:01,920
+outside of your country
+
+1390
+00:57:58,079 --> 00:58:05,760
+we need to have software freedom
+
+1391
+00:58:01,920 --> 00:58:09,839
+for them finally
+
+1392
+00:58:05,760 --> 00:58:09,839
+thank you
+
+1393
+00:58:14,559 --> 00:58:22,000
+i have one last retirement project
+
+1394
+00:58:18,640 --> 00:58:25,760
+mad dogs monastery and marina
+
+1395
+00:58:22,000 --> 00:58:29,359
+of math music microcomputing
+
+1396
+00:58:25,760 --> 00:58:32,960
+micro brewing micro winery
+
+1397
+00:58:29,359 --> 00:58:34,799
+micro distillery and bait shop
+
+1398
+00:58:32,960 --> 00:58:37,119
+because if you have a marina you need a
+
+1399
+00:58:34,799 --> 00:58:40,480
+bait shop
+
+1400
+00:58:37,119 --> 00:58:42,640
+this is opening in 2025 and you're all
+
+1401
+00:58:40,480 --> 00:58:45,200
+welcome
+
+1402
+00:58:42,640 --> 00:58:46,400
+and one last thought people have been
+
+1403
+00:58:45,200 --> 00:58:48,559
+coming up to me
+
+1404
+00:58:46,400 --> 00:58:50,720
+the whole week and saying thank you very
+
+1405
+00:58:48,559 --> 00:58:54,000
+much for coming to argentina
+
+1406
+00:58:50,720 --> 00:58:54,480
+thank you for the work you do but i tell
+
+1407
+00:58:54,000 --> 00:58:56,799
+you
+
+1408
+00:58:54,480 --> 00:58:58,400
+that if you want to see the most
+
+1409
+00:58:56,799 --> 00:59:00,720
+important person
+
+1410
+00:58:58,400 --> 00:59:02,319
+in free and open source software and
+
+1411
+00:59:00,720 --> 00:59:04,559
+hardware
+
+1412
+00:59:02,319 --> 00:59:06,000
+when you get up tomorrow morning you
+
+1413
+00:59:04,559 --> 00:59:18,510
+look in the mirror
+
+1414
+00:59:06,000 --> 00:59:26,000
+because it's you thank you very much
+
+1415
+00:59:18,510 --> 00:59:27,550
+[Music]
+
+1416
+00:59:26,000 --> 00:59:32,149
+[Applause]
+
+1417
+00:59:27,550 --> 00:59:32,149
+[Music]
+
+1418
+00:59:40,540 --> 00:59:44,159
+[Music]
+
+1419
+00:59:44,839 --> 00:59:49,520
+alien
+
+1420
+00:59:47,119 --> 00:59:49,520
+bye
+
