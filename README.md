@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Postmortems ¿Qué pasó ayer? - Polémica en /var - S04E14](https://www.youtube.com/watch?v=6d-Fb9R1-k4)
+- [La toolbox: ccze, logtop, goaccess - Bash is King - Polémica en /var S04E13.1](https://www.youtube.com/watch?v=ByWLMRiISm4)
 - [Disaster Preparedness - Polémica en /var - S04E13](https://www.youtube.com/watch?v=Lx5UBk7QTBk)
 - [Java: de Tomcat a Minecraft - Polémica en /var - S04E12](https://www.youtube.com/watch?v=4QOBUfQaf5g)
 - [Todo sobre Automation - #Skynet - Polémica en /var - S03M08](https://www.youtube.com/watch?v=_dKmsNPOSlc)
-- [Las noticias de Julio - Polémica en /var - S04E11](https://www.youtube.com/watch?v=mqc__bAoQk0)
-- [AdminFest 11 años - Polémica en /var - S04E10](https://www.youtube.com/watch?v=5pF6UGfgpIY)
 <!-- YOUTUBE:END -->
 
 ### Conectate!
