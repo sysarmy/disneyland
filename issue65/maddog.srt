@@ -1,118 +1,118 @@
 1
 00:00:01,820 --> 00:00:12,499
-[Music]
+[Música]
 
 2
 00:00:14,640 --> 00:00:17,939
-[Applause]
+[Aplausos]
 
 3
 00:00:22,880 --> 00:00:27,359
-thank you very much
+muchas gracias
 
 4
 00:00:24,880 --> 00:00:29,679
-it is my great pleasure to be here once
+es un gran placer estar aquí una vez
 
 5
 00:00:27,359 --> 00:00:32,960
-again in buenos aires
+nuevamente en buenos aires
 
 6
 00:00:29,679 --> 00:00:35,360
-and in many times have been to argentina
+y en muchas ocasiones he estado en argentina
 
 7
 00:00:32,960 --> 00:00:36,960
-and i've celebrated free software with
+y he celebrado el software libre con
 
 8
 00:00:35,360 --> 00:00:39,280
-you
+ustedes
 
 9
 00:00:36,960 --> 00:00:42,960
-my talk today is a very special talk
+mi charla de hoy es una charla muy especial
 
 10
 00:00:39,280 --> 00:00:48,480
-because this is a very special year
+porque este es un año muy especial
 
 11
 00:00:42,960 --> 00:00:52,079
-it is 50 years since 1969
+son 50 años desde 1969
 
 12
 00:00:48,480 --> 00:00:54,800
-and in 1969 there were a lot of very
+y en 1969 hubo muchos
 
 13
 00:00:52,079 --> 00:01:00,000
-interesting things happen
+eventos interesantes
 
 14
 00:00:54,800 --> 00:01:02,960
-number one people walked on the moon
+número uno la gente caminó sobre la luna
 
 15
 00:01:00,000 --> 00:01:03,680
-and the entire planet came to a halt
+y el planeta entero se detuvo
 
-16
+dieciséis
 00:01:02,960 --> 00:01:06,640
-that day
+ese día
 
 17
 00:01:03,680 --> 00:01:08,000
-as people ran to television sets around
+mientras la gente corría hacia todos los televisores
 
 18
 00:01:06,640 --> 00:01:12,159
-the world
+de el mundo
 
 19
 00:01:08,000 --> 00:01:14,640
-to see this most amazing thing people
+para ver a la gente más asombrosa
 
 20
 00:01:12,159 --> 00:01:17,680
-were joined around the world
+y se unieron en todo el mundo
 
 21
 00:01:14,640 --> 00:01:22,560
-by this concept of people walking
+por este concepto de gente caminando
 
 22
 00:01:17,680 --> 00:01:22,560
-on a different body in space
+en un cuerpo diferente en el espacio
 
 23
 00:01:23,439 --> 00:01:27,280
-somewhat less important but still
+algo menos importante pero aun asi
 
 24
 00:01:25,360 --> 00:01:29,759
-important was woodstock
+importante era woodstock
 
 25
 00:01:27,280 --> 00:01:32,479
-a giant music festival in the united
+un festival de música gigante en los estados unidos
 
 26
 00:01:29,759 --> 00:01:36,000
-states to set the tone for music
+estados para establecer el tono de la música
 
 27
 00:01:32,479 --> 00:01:39,200
-for the next few decades
+durante las próximas décadas
 
 28
 00:01:36,000 --> 00:01:41,759
-in 1969 in new york city
+en 1969 en la ciudad de nueva york
 
 29
 00:01:39,200 --> 00:01:44,079
-there was a riot at a place called the
+hubo un motín en un lugar llamado el
 
 30
 00:01:41,759 --> 00:01:48,159
@@ -120,203 +120,203 @@ stonewall inn
 
 31
 00:01:44,079 --> 00:01:50,799
-where trans people were being
+donde las personas trans estaban siendo
 
 32
 00:01:48,159 --> 00:01:53,680
-bullied and hurt and gay people and
+intimidadas y heridas y gente gay y
 
 33
 00:01:50,799 --> 00:01:57,200
-people of different types of diversity
+personas de diferentes tipos de diversidad
 
 34
 00:01:53,680 --> 00:01:59,759
-were being persecuted by the police
+estaban siendo perseguidas por la policía
 
 35
 00:01:57,200 --> 00:02:02,000
-and they caused a riot which started the
+y causaron un motín que inició el
 
 36
 00:01:59,759 --> 00:02:04,079
-beginning of the lgbtq
+comienzo de la comunidad y movimiento lgbtq
 
 37
 00:02:02,000 --> 00:02:06,399
-community and movement in the united
+en los
 
 38
 00:02:04,079 --> 00:02:09,360
-states
+estados unidos
 
 39
 00:02:06,399 --> 00:02:10,399
-in a small laboratory in bell labs in
+en un pequeño laboratorio en bell labs en
 
 40
 00:02:09,360 --> 00:02:13,200
-new jersey
+New Jersey
 
 41
 00:02:10,399 --> 00:02:14,080
-two people started a small operating
+dos personas iniciaron una pequeño sistema
 
 42
 00:02:13,200 --> 00:02:16,800
-system
+operativo
 
 43
 00:02:14,080 --> 00:02:18,000
-just for fun they didn't think it was
+solo por diversión, ellos no pensaron que era
 
 44
 00:02:16,800 --> 00:02:21,040
-going to be important
+va a ser importante
 
 45
 00:02:18,000 --> 00:02:24,000
-they were just trying to do research
+solo estaban tratando de hacer una investigación
 
 46
 00:02:21,040 --> 00:02:25,760
-in new operating system ideas and we'll
+en nuevas ideas de sistemas operativos y
 
 47
 00:02:24,000 --> 00:02:29,280
-see a little bit more about that
+ver un poco más sobre eso
 
 48
 00:02:25,760 --> 00:02:31,760
-in this talk the arpanet
+en esta charla arpanet
 
 49
 00:02:29,280 --> 00:02:33,519
-was funded which eventually became the
+fue fundado y eventualmente se convirtió en el
 
 50
 00:02:31,760 --> 00:02:35,360
-internet
+Internet
 
 51
 00:02:33,519 --> 00:02:37,519
-and people never dreamed that the
+y la gente nunca soñó que el
 
 52
 00:02:35,360 --> 00:02:39,920
-internet would be what it is today
+Internet sería lo que es hoy
 
 53
 00:02:37,519 --> 00:02:41,599
-in fact the address space of the
+de hecho, el espacio de direcciones del
 
 54
 00:02:39,920 --> 00:02:44,879
-original arpanet
+arpanet original
 
 55
 00:02:41,599 --> 00:02:48,959
-was only 15 bits
+eran solo 15 bits
 
 56
 00:02:44,879 --> 00:02:51,760
-so it couldn't have very many nodes
+por lo que no podría tener muchos hosts
 
 57
 00:02:48,959 --> 00:02:52,400
-in helsinki finland little noticed by
+en helsinki finlandia paso desapercibido 
 
 58
 00:02:51,760 --> 00:02:55,519
-anybody
+salvo
 
 59
 00:02:52,400 --> 00:02:57,280
-except his parents lena's torvalds was
+para los padres de linus torvalds, porque fue el año del nacimiento de 
 
 60
 00:02:55,519 --> 00:03:01,440
-born
+linus
 
 61
 00:02:57,280 --> 00:03:04,319
-yes linux lenas is 50 years old
+si linus torvalds tiene 50 años
 
 62
 00:03:01,440 --> 00:03:06,560
-this year which makes me feel incredibly
+este año que me hace sentir increíblemente
 
 63
 00:03:04,319 --> 00:03:06,560
-old
+viejo
 
 64
 00:03:07,599 --> 00:03:13,519
-in 1969 i was a university student
+en 1969 yo era un estudiante universitario
 
-65
+sesenta y cinco
 00:03:11,040 --> 00:03:15,680
-like a lot of you i was studying
+como muchos de ustedes yo estaba estudiando
 
 66
 00:03:13,519 --> 00:03:18,159
-electrical engineering
+Ingenieria Eléctrica
 
 67
 00:03:15,680 --> 00:03:19,920
-and half of my degree was in business
+y la mitad de mi carrera fue en negocios
 
 68
 00:03:18,159 --> 00:03:23,360
-administration
+y administración
 
 69
 00:03:19,920 --> 00:03:25,680
-i was almost electrocuted by 13 600
+Casi fui electrocutado por 13600
 
 70
 00:03:23,360 --> 00:03:28,480
-volts and 800 amps
+voltios y 800 amperios
 
 71
 00:03:25,680 --> 00:03:31,280
-which kind of guided me towards software
+lo que casi me guió hacia el software
 
 72
 00:03:28,480 --> 00:03:31,280
-and programming
+y programación
 
 73
 00:03:31,360 --> 00:03:35,120
-finally in 1969 it was the last year i
+finalmente en 1969 fue el último año 
 
 74
 00:03:34,720 --> 00:03:39,360
-ever
+en el que me he 
 
 75
 00:03:35,120 --> 00:03:40,959
-shaved now you would notice a little
+afeitado, ahora notarías un poco
 
 76
 00:03:39,360 --> 00:03:44,159
-asterisk beside that
+asterisco al lado de eso
 
 77
 00:03:40,959 --> 00:03:47,120
-which indicates throughout my talk
+lo que indica a lo largo de mi charla
 
 78
 00:03:44,159 --> 00:03:48,959
-that there's another story behind that
+que hay otra historia detrás de eso
 
 79
 00:03:47,120 --> 00:03:50,560
-but we don't have time for all those
+pero no tenemos tiempo para todos esos
 
 80
 00:03:48,959 --> 00:03:52,560
-stories
+cuentos
 
 81
 00:03:50,560 --> 00:03:55,760
