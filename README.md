@@ -27,31 +27,31 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
-- [Migrar Office 365 (exchange) a IMAP](https://help.sysarmy.com/discussion/4768/migrar-office-365-exchange-a-imap)
-- [Certificados invalidados al upgradear Jenkins with apt upgrade](https://help.sysarmy.com/discussion/4767/certificados-invalidados-al-upgradear-jenkins-with-apt-upgrade)
-- [mejores practicas para montar un servidor de coreo en ubuntu 18 LTS.](https://help.sysarmy.com/discussion/4766/mejores-practicas-para-montar-un-servidor-de-coreo-en-ubuntu-18-lts)
-- [Se puede pagar AWS en pesos argentinos?](https://help.sysarmy.com/discussion/4765/se-puede-pagar-aws-en-pesos-argentinos)
-- [router de borde para 40Gbps](https://help.sysarmy.com/discussion/4764/router-de-borde-para-40gbps)
+- [Windows/Office - Problemas con validación de credenciales en cuarentena](https://help.sysarmy.com/discussion/4773/windows-office-problemas-con-validacion-de-credenciales-en-cuarentena)
+- [DNS registro "A" apuntando a dos ip](https://help.sysarmy.com/discussion/4772/dns-registro-a-apuntando-a-dos-ip)
+- [[Homelab] Armado de esquema CI/CD y toda la magia](https://help.sysarmy.com/discussion/4771/homelab-armado-de-esquema-ci-cd-y-toda-la-magia)
+- [Alternativas para Active Directory -desde cero-](https://help.sysarmy.com/discussion/4770/alternativas-para-active-directory-desde-cero)
+- [Kubernetes v1.17 no elimina los ReplicaSet al eliminar el Deployment](https://help.sysarmy.com/discussion/4769/kubernetes-v1-17-no-elimina-los-replicaset-al-eliminar-el-deployment)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resultados de la Encuesta de sueldos 2020.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2020-2/)
 - [Polémica en /var S04E05 - Epic Fails](https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/)
 - [Polémica en /var S04E06 - Noticias Julio](https://sysarmy.com/blog/posts/polemicaenvar-s04e06-noticias/)
 - [Gitops, infraestructura al siguiente nivel](https://sysarmy.com/blog/posts/gitops-infraestructura-siguiente-nivel/)
 - [Polémica en /var S04E04 - Tips para 1x engineers](https://sysarmy.com/blog/posts/polemicaenvar-s04e04-1x-engineers/)
-- [Comandos Básicos con Docker - 2da Parte](https://sysarmy.com/blog/posts/docker-comandos-basicos-segunda-parte/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Postmortems ¿Qué pasó ayer? - Polémica en /var - S04E14](https://www.youtube.com/watch?v=6d-Fb9R1-k4)
+- [La toolbox: ccze, logtop, goaccess - Bash is King - Polémica en /var S04E13.1](https://www.youtube.com/watch?v=ByWLMRiISm4)
 - [Disaster Preparedness - Polémica en /var - S04E13](https://www.youtube.com/watch?v=Lx5UBk7QTBk)
 - [Java: de Tomcat a Minecraft - Polémica en /var - S04E12](https://www.youtube.com/watch?v=4QOBUfQaf5g)
 - [Todo sobre Automation - #Skynet - Polémica en /var - S03M08](https://www.youtube.com/watch?v=_dKmsNPOSlc)
-- [Las noticias de Julio - Polémica en /var - S04E11](https://www.youtube.com/watch?v=mqc__bAoQk0)
-- [AdminFest 11 años - Polémica en /var - S04E10](https://www.youtube.com/watch?v=5pF6UGfgpIY)
 <!-- YOUTUBE:END -->
 
 ### Conectate!
