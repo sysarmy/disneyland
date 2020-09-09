@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Personificación - pregunta para el abogado](https://help.sysarmy.com/discussion/4778/personificacion-pregunta-para-el-abogado)
 - [Deploy software with OCS Inventory](https://help.sysarmy.com/discussion/4777/deploy-software-with-ocs-inventory)
 - [Active Directory Certificate Services](https://help.sysarmy.com/discussion/4775/active-directory-certificate-services)
 - [Windows/Office - Problemas con validación de credenciales en cuarentena](https://help.sysarmy.com/discussion/4773/windows-office-problemas-con-validacion-de-credenciales-en-cuarentena)
 - [DNS registro "A" apuntando a dos ip](https://help.sysarmy.com/discussion/4772/dns-registro-a-apuntando-a-dos-ip)
-- [[Homelab] Armado de esquema CI/CD y toda la magia](https://help.sysarmy.com/discussion/4771/homelab-armado-de-esquema-ci-cd-y-toda-la-magia)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
