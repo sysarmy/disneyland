@@ -112,6 +112,13 @@ Podcast sobre desarrollo de software. Programar es muy divertido, pero a veces s
 
 - [Programar es una Mierda](https://open.spotify.com/show/6crvLebQZ7IS4WGpLPqudm?si=DZTvjvgCQN6iWkTv48go6Q)
 
+### POJO y nada
+
+POJO y nada busca compartir conocimiento sobre y relacionado a programación. Quienes lo integramos, somos un grupo de personas que el destino, y la UTN nos juntó. Básicamente nos gusta hablar de programación, con una mirada bastante técnica del asunto y compartir opiniones.
+
+¿De qué vamos a hablar? Qué implica trabajar en programación, cómo funcionan ciertas tecnologías, cómo se pueden analizar aplicaciones, cómo nos podemos organizar para trabajar, qué tipos de proyectos se pueden hacer, cómo se pueden testear las aplicaciones qué hacemos, qué opinamos de las herramientas de moda y mucho mas.
+
+- [POJO y nada](https://anchor.fm/pojoynada)
 
 ## Portugués
 
