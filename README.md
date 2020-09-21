@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Cuando Sec invade Ops - Polémica en /var - S04E17](https://www.youtube.com/watch?v=cSOaGJIbOrw)
+- [Te lo googleo: Las 5 claves infaltables para gestionar grandes proyectos](https://www.youtube.com/watch?v=lMYUzLg__gI)
 - [Proyectos a Escala (Agile - DevOps) - Polémica en /var - S04E16](https://www.youtube.com/watch?v=Y3drjEn9qbM)
 - [La caparazón de poder (powershell) - Polémica en /var S04E15.1](https://www.youtube.com/watch?v=O8GwddmBfr0)
 - [Las Noticias de Agosto - Polémica en /var - S04E15](https://www.youtube.com/watch?v=lV44UcDY0Kw)
-- [Convertite en paladín tmux - Polémica en /var S04E14.1](https://www.youtube.com/watch?v=8hKP4pD0ZEM)
-- [Postmortems ¿Qué pasó ayer? - Polémica en /var - S04E14](https://www.youtube.com/watch?v=6d-Fb9R1-k4)
 <!-- YOUTUBE:END -->
 
 ### Conectate!
