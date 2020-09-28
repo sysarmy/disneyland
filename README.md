@@ -37,11 +37,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Tu empresa todavía usa servidores físicos? ¿Por qué?](https://sysarmy.com/blog/posts/todavia-se-usan-servers-fisicos/)
 - [Resultados de la Encuesta de sueldos 2020.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2020-2/)
 - [Polémica en /var S04E05 - Epic Fails](https://sysarmy.com/blog/posts/polemicaenvar-s04e05-epic-fails/)
 - [Polémica en /var S04E06 - Noticias Julio](https://sysarmy.com/blog/posts/polemicaenvar-s04e06-noticias/)
 - [Gitops, infraestructura al siguiente nivel](https://sysarmy.com/blog/posts/gitops-infraestructura-siguiente-nivel/)
-- [Polémica en /var S04E04 - Tips para 1x engineers](https://sysarmy.com/blog/posts/polemicaenvar-s04e04-1x-engineers/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
