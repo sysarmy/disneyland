@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Comando de linux que te preguntaba por tus gustos](https://help.sysarmy.com/discussion/4786/comando-de-linux-que-te-preguntaba-por-tus-gustos)
 - [LDAP Consultar por usuarios dentro de un grupo perteneciente a una sub OU](https://help.sysarmy.com/discussion/4785/ldap-consultar-por-usuarios-dentro-de-un-grupo-perteneciente-a-una-sub-ou)
 - [Exchange server 2016 - Envio y recepción desde móvil](https://help.sysarmy.com/discussion/4784/exchange-server-2016-envio-y-recepcion-desde-movil)
 - [Exchange server 2016 sin licencia.](https://help.sysarmy.com/discussion/4783/exchange-server-2016-sin-licencia)
 - [Servidore Linux, como antivirus y antimalware para la red Windows](https://help.sysarmy.com/discussion/4782/servidore-linux-como-antivirus-y-antimalware-para-la-red-windows)
-- [PopOS y Mac](https://help.sysarmy.com/discussion/4781/popos-y-mac)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
