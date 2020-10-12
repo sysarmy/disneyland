@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Como loguear comandos en historial por variable de bash](https://help.sysarmy.com/discussion/4794/como-loguear-comandos-en-historial-por-variable-de-bash)
+- [Como "expandir" ISP-Checker ?](https://help.sysarmy.com/discussion/4793/como-expandir-isp-checker)
+- [Consulta de formación](https://help.sysarmy.com/discussion/4792/consulta-de-formacion)
+- [En algun lado lei sobre una herramienta para crear contratos para auditorias, tienen algun dato?](https://help.sysarmy.com/discussion/4791/en-algun-lado-lei-sobre-una-herramienta-para-crear-contratos-para-auditorias-tienen-algun-dato-%EF%BB%BF%EF%BB%BF)
 - [Teamviewer - Alternativa](https://help.sysarmy.com/discussion/4790/teamviewer-alternativa)
-- [Instalar Netdata en Centos7](https://help.sysarmy.com/discussion/4789/instalar-netdata-en-centos7)
-- [Establecer límites y solicitudes de recursos en kubernets](https://help.sysarmy.com/discussion/4787/establecer-limites-y-solicitudes-de-recursos-en-kubernets)
-- [Comando de linux que te preguntaba por tus gustos](https://help.sysarmy.com/discussion/4786/comando-de-linux-que-te-preguntaba-por-tus-gustos)
-- [LDAP Consultar por usuarios dentro de un grupo perteneciente a una sub OU](https://help.sysarmy.com/discussion/4785/ldap-consultar-por-usuarios-dentro-de-un-grupo-perteneciente-a-una-sub-ou)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
