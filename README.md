@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Previar.la - Polémica en /var - S04E21](https://www.youtube.com/watch?v=DxRz_WOnGGE)
 - [Educarmy - Poniendo un Wordpress en las nubes - Polémica en /var - S04E20](https://www.youtube.com/watch?v=M4eOwDGG9HM)
 - [Las Noticias de Septiembre - Polémica en /var - S04E19](https://www.youtube.com/watch?v=8I_IJL2LoFU)
 - [sshutle, la máquina de hacer agujeros.](https://www.youtube.com/watch?v=5PP4LTMb3Ho)
 - [Batalla Naval - Polémica en /var - S04E18](https://www.youtube.com/watch?v=a73-iijEM1g)
-- [Cuando Sec invade Ops - Polémica en /var - S04E17](https://www.youtube.com/watch?v=cSOaGJIbOrw)
 <!-- YOUTUBE:END -->
 
 ### Conectate!
