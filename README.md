@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Exchange server 2016](https://help.sysarmy.com/discussion/4801/exchange-server-2016)
+- [Conectar Mantisbt a Active Directory](https://help.sysarmy.com/discussion/4800/conectar-mantisbt-a-active-directory)
+- [¿Como presupuestar un Desarrollo Personalizado?](https://help.sysarmy.com/discussion/4799/como-presupuestar-un-desarrollo-personalizado)
 - [Pregunta boluda con Github Actions](https://help.sysarmy.com/discussion/4798/pregunta-boluda-con-github-actions)
 - [webmin comandos personalizados echo -e](https://help.sysarmy.com/discussion/4797/webmin-comandos-personalizados-echo-e)
-- [webmin comandos personalizados echo -e](https://help.sysarmy.com/discussion/4796/webmin-comandos-personalizados-echo-e)
-- [Que hacer con un par de checkpoint 4400](https://help.sysarmy.com/discussion/4795/que-hacer-con-un-par-de-checkpoint-4400)
-- [Como loguear comandos en historial por variable de bash](https://help.sysarmy.com/discussion/4794/como-loguear-comandos-en-historial-por-variable-de-bash)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
