@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Computadoras Windows dentro de un dominio no entran con el usuario en su computadora habitual](https://help.sysarmy.com/discussion/4805/computadoras-windows-dentro-de-un-dominio-no-entran-con-el-usuario-en-su-computadora-habitual)
+- [Computadoras Windows dentro de un dominio no entran con el usuario en su computadora habitual](https://help.sysarmy.com/discussion/4806/computadoras-windows-dentro-de-un-dominio-no-entran-con-el-usuario-en-su-computadora-habitual)
 - [Ideas para recuperar el password de una instancia EC2 Windows en AWS](https://help.sysarmy.com/discussion/4803/ideas-para-recuperar-el-password-de-una-instancia-ec2-windows-en-aws)
 - [Cómo hacer para enviar emails sin que lleguen a la carpeta Spam del receptor.](https://help.sysarmy.com/discussion/4802/como-hacer-para-enviar-emails-sin-que-lleguen-a-la-carpeta-spam-del-receptor)
 - [Exchange server 2016](https://help.sysarmy.com/discussion/4801/exchange-server-2016)
-- [Conectar Mantisbt a Active Directory](https://help.sysarmy.com/discussion/4800/conectar-mantisbt-a-active-directory)
-- [¿Como presupuestar un Desarrollo Personalizado?](https://help.sysarmy.com/discussion/4799/como-presupuestar-un-desarrollo-personalizado)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
