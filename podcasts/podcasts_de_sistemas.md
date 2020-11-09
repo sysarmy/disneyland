@@ -120,6 +120,12 @@ POJO y nada busca compartir conocimiento sobre y relacionado a programación. Qu
 
 - [POJO y nada](https://anchor.fm/pojoynada)
 
+### La taberna del código
+
+Un podcast que fusiona elementos fantásticos como hechicería y aventura con programación y sistemas en general. Protagonizado por Agustín Quetto.
+
+- [La taberna del código](https://anchor.fm/la-taberna-del-codigo)
+
 ## Portugués
 
 ### Hipsters Ponto Tech
