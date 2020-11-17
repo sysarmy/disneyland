@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [python: email templates.](https://help.sysarmy.com/discussion/4809/python-email-templates)
 - [Presupuesto para desarrollo web (front + back)](https://help.sysarmy.com/discussion/4808/presupuesto-para-desarrollo-web-front-back)
 - [(SonarQube) Reporte de Coverage en JenkinsFile Pipeline](https://help.sysarmy.com/discussion/4807/sonarqube-reporte-de-coverage-en-jenkinsfile-pipeline)
 - [Computadoras Windows dentro de un dominio no entran con el usuario en su computadora habitual](https://help.sysarmy.com/discussion/4806/computadoras-windows-dentro-de-un-dominio-no-entran-con-el-usuario-en-su-computadora-habitual)
 - [Computadoras Windows dentro de un dominio no entran con el usuario en su computadora habitual](https://help.sysarmy.com/discussion/4805/computadoras-windows-dentro-de-un-dominio-no-entran-con-el-usuario-en-su-computadora-habitual)
-- [Ideas para recuperar el password de una instancia EC2 Windows en AWS](https://help.sysarmy.com/discussion/4803/ideas-para-recuperar-el-password-de-una-instancia-ec2-windows-en-aws)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
