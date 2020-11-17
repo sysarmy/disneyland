@@ -188,7 +188,7 @@ ver un poco más sobre eso
 
 48
 00:02:25,760 --> 00:02:31,760
-en esta charla arpanet
+en esta charla Arpanet
 
 49
 00:02:29,280 --> 00:02:33,519
@@ -212,7 +212,7 @@ de hecho, el espacio de direcciones del
 
 54
 00:02:39,920 --> 00:02:44,879
-arpanet original
+Arpanet original
 
 55
 00:02:41,599 --> 00:02:48,959
@@ -224,7 +224,7 @@ por lo que no podría tener muchos hosts
 
 57
 00:02:48,959 --> 00:02:52,400
-en helsinki finlandia paso desapercibido 
+en Helsinki finlandia paso desapercibido 
 
 58
 00:02:51,760 --> 00:02:55,519
@@ -232,15 +232,15 @@ salvo
 
 59
 00:02:52,400 --> 00:02:57,280
-para los padres de linus torvalds, porque fue el año del nacimiento de 
+para los padres de Linus Torvalds, porque fue el año del nacimiento de 
 
 60
 00:02:55,519 --> 00:03:01,440
-linus
+Linus
 
 61
 00:02:57,280 --> 00:03:04,319
-si linus torvalds tiene 50 años
+si Linus Torvalds tiene 50 años
 
 62
 00:03:01,440 --> 00:03:06,560
@@ -260,7 +260,7 @@ como muchos de ustedes yo estaba estudiando
 
 66
 00:03:13,519 --> 00:03:18,159
-Ingenieria Eléctrica
+Ingeniería Eléctrica
 
 67
 00:03:15,680 --> 00:03:19,920
@@ -320,151 +320,145 @@ cuentos
 
 81
 00:03:50,560 --> 00:03:55,760
-but the more asterisks there are the
+pero más asteriscos hay, más
 
 82
 00:03:52,560 --> 00:03:58,080
-longer and sometimes better the story is
-
+largo y a veces mejor la historia es
 83
 00:03:55,760 --> 00:04:01,280
-and if you get me out with beer
+y si me invitas a salir con una birra
 
 84
 00:03:58,080 --> 00:04:02,799
-sometimes i'll tell them to you
+a veces puede ser que te las cuente
 
 85
 00:04:01,280 --> 00:04:04,720
-so we're going to go back to the
+pero, vamos a volver al 
 
 86
 00:04:02,799 --> 00:04:06,400
-beginning not the very beginning of
+principio, no demasiado al principio de
 
 87
 00:04:04,720 --> 00:04:09,439
-computer science
+la ciencia de la computación
 
 88
 00:04:06,400 --> 00:04:12,560
-but when i started programming
+pero cuando empece a programar
 
 89
 00:04:09,439 --> 00:04:14,799
-and computers were physically huge
+y la computadoras eran físicamente inmensas
 
 90
 00:04:12,560 --> 00:04:16,239
-i worked for a company called aetna life
-
+trabaje para una compañía llamada Aetna Life
 91
 00:04:14,799 --> 00:04:18,079
-and casualty
+and casualty(?)
 
 92
 00:04:16,239 --> 00:04:22,000
-and they were the largest commercial
-
+y eran los usuarios comerciales mas grandes
 93
 00:04:18,079 --> 00:04:24,080
-user of ibm equipment in the free world
-
+de equipamiento de IBM en el mundo libre
 94
 00:04:22,000 --> 00:04:25,759
-which goes to show if you put enough
-
+que te va a mostrar que si pones suficientes
 95
 00:04:24,080 --> 00:04:27,600
-adjectives around you you could be the
+adjetivos alrededor vos, vos podrías ser el
 
 96
 00:04:25,759 --> 00:04:30,320
-best of anything
+mejor de cualquier cosa 
 
 97
 00:04:27,600 --> 00:04:31,120
-i am the handsomest man with a long
-
+soy el el hombre mas guapo con
 98
 00:04:30,320 --> 00:04:33,360
-white beard
+barba blanca
 
 99
 00:04:31,120 --> 00:04:36,960
-and hair standing on this stage at this
+y pelo parado en este escenario en este
 
 100
 00:04:33,360 --> 00:04:36,960
-podium see i'm the best
+podio, ves? soy el mejor
 
 101
 00:04:37,199 --> 00:04:41,280
-but computers were also logically very
+pero las computadoras eran también lógicamente muy
 
 102
 00:04:39,680 --> 00:04:44,400
-small
+chicas
 
 103
 00:04:41,280 --> 00:04:45,759
-they would have maybe 4 000 bytes of
+tendrían capaz 4000 bytes de
 
 104
 00:04:44,400 --> 00:04:48,560
-memory
+memoria
 
 105
 00:04:45,759 --> 00:04:48,960
-and they would work with devices that
+y trabajarían con dispositivos que
 
 106
 00:04:48,560 --> 00:04:51,600
-would
+podrían
 
 107
 00:04:48,960 --> 00:04:54,560
-read and write data at five characters
+leer y escribir datos a cinco caracteres
 
 108
 00:04:51,600 --> 00:04:56,800
-five bytes per second
+cinco bytes por segundo
 
 109
 00:04:54,560 --> 00:04:58,960
-this were measured in megabytes not
+esto era medido en megabytes no
 
 110
 00:04:56,800 --> 00:05:02,479
-gigabytes or terabytes
+gigabytes o terabytes
 
 111
 00:04:58,960 --> 00:05:02,880
-like we do today and the programs were
+como hacemos hoy y los programas
 
 112
 00:05:02,479 --> 00:05:05,199
-run
+corrían
 
 113
 00:05:02,880 --> 00:05:07,840
-one at a time on the computer even if
+una vuelta a la vez en la computadora aun si
 
 114
 00:05:05,199 --> 00:05:13,039
-the computer was a mainframe
+la computadora era un mainframe
 
 115
 00:05:07,840 --> 00:05:16,400
-and even if it cost 2.5 million dollars
+y aun si costaba 2.5 millones de dolares
 
 116
 00:05:13,039 --> 00:05:18,720
-the programs are run one at a time
+los programas eran corridos de a uno a la vez
 
 117
 00:05:16,400 --> 00:05:19,440
-and and a lot of these computers had
+y, y muchas de estas computadoras tenían
 
 118
 00:05:18,720 --> 00:05:22,160
@@ -472,47 +466,47 @@ switches
 
 119
 00:05:19,440 --> 00:05:23,600
-and lights on the front of them because
+y luces en el frente de ellas porque
 
 120
 00:05:22,160 --> 00:05:26,639
-you could use those switches
+vos podías usar esos switches
 
 121
 00:05:23,600 --> 00:05:28,720
-and lights to debug your program
+y luces para depurar tu programa
 
 122
 00:05:26,639 --> 00:05:31,039
-because your program was the only thing
+porque tu programa era la única cosa
 
 123
 00:05:28,720 --> 00:05:33,600
-that was running
+que estaba corriendo
 
 124
 00:05:31,039 --> 00:05:35,520
-and if there was an operating system it
+y si había un sistema operativo, era
 
 125
 00:05:33,600 --> 00:05:38,240
-was incredibly primitive
+increíblemente primitivo
 
 126
 00:05:35,520 --> 00:05:41,759
-by today's standards it was typically
+para los standards de hoy era típicamente
 
 127
 00:05:38,240 --> 00:05:45,520
-specialized in doing one type of thing
+especializado en hacer un tipo de cosa
 
 128
 00:05:41,759 --> 00:05:48,080
-maybe you would run a batch job on cards
+tal vez podrías hacer un trabajo por lotes en las tarjetas
 
 129
 00:05:45,520 --> 00:05:48,800
-or maybe if you were really lucky you
+o quizás si tenias realmente suerte, you
 
 130
 00:05:48,080 --> 00:05:51,520
