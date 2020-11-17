@@ -188,7 +188,7 @@ ver un poco más sobre eso
 
 48
 00:02:25,760 --> 00:02:31,760
-en esta charla arpanet
+en esta charla Arpanet
 
 49
 00:02:29,280 --> 00:02:33,519
@@ -212,7 +212,7 @@ de hecho, el espacio de direcciones del
 
 54
 00:02:39,920 --> 00:02:44,879
-arpanet original
+Arpanet original
 
 55
 00:02:41,599 --> 00:02:48,959
@@ -224,7 +224,7 @@ por lo que no podría tener muchos hosts
 
 57
 00:02:48,959 --> 00:02:52,400
-en helsinki finlandia paso desapercibido 
+en Helsinki finlandia paso desapercibido 
 
 58
 00:02:51,760 --> 00:02:55,519
@@ -232,15 +232,15 @@ salvo
 
 59
 00:02:52,400 --> 00:02:57,280
-para los padres de linus torvalds, porque fue el año del nacimiento de 
+para los padres de Linus Torvalds, porque fue el año del nacimiento de 
 
 60
 00:02:55,519 --> 00:03:01,440
-linus
+Linus
 
 61
 00:02:57,280 --> 00:03:04,319
-si linus torvalds tiene 50 años
+si Linus Torvalds tiene 50 años
 
 62
 00:03:01,440 --> 00:03:06,560
@@ -260,7 +260,7 @@ como muchos de ustedes yo estaba estudiando
 
 66
 00:03:13,519 --> 00:03:18,159
-Ingenieria Eléctrica
+Ingeniería Eléctrica
 
 67
 00:03:15,680 --> 00:03:19,920
@@ -320,7 +320,7 @@ cuentos
 
 81
 00:03:50,560 --> 00:03:55,760
-pero mas asteriscos hay mas
+pero más asteriscos hay, más
 
 82
 00:03:52,560 --> 00:03:58,080
@@ -339,11 +339,11 @@ pero, vamos a volver al
 
 86
 00:04:02,799 --> 00:04:06,400
-principio, no demaciado al principio de
+principio, no demasiado al principio de
 
 87
 00:04:04,720 --> 00:04:09,439
-la ciencia de la computacion
+la ciencia de la computación
 
 88
 00:04:06,400 --> 00:04:12,560
@@ -351,11 +351,11 @@ pero cuando empece a programar
 
 89
 00:04:09,439 --> 00:04:14,799
-y la computadoras eran fisicamente inmensas
+y la computadoras eran físicamente inmensas
 
 90
 00:04:12,560 --> 00:04:16,239
-trabaje para una compania llamada Aetna Life
+trabaje para una compañía llamada Aetna Life
 91
 00:04:14,799 --> 00:04:18,079
 and casualty(?)
@@ -371,7 +371,7 @@ de equipamiento de IBM en el mundo libre
 que te va a mostrar que si pones suficientes
 95
 00:04:24,080 --> 00:04:27,600
-adjetivos alrededor vos, vos podrias ser el
+adjetivos alrededor vos, vos podrías ser el
 
 96
 00:04:25,759 --> 00:04:30,320
@@ -394,7 +394,7 @@ podio, ves? soy el mejor
 
 101
 00:04:37,199 --> 00:04:41,280
-pero las computadoras eran tambien logicamente muy
+pero las computadoras eran también lógicamente muy
 
 102
 00:04:39,680 --> 00:04:44,400
@@ -402,7 +402,7 @@ chicas
 
 103
 00:04:41,280 --> 00:04:45,759
-tendrian capaz 4000 bytes de
+tendrían capaz 4000 bytes de
 
 104
 00:04:44,400 --> 00:04:48,560
@@ -410,11 +410,11 @@ memoria
 
 105
 00:04:45,759 --> 00:04:48,960
-and they would work with devices that
+y trabajarían con dispositivos que
 
 106
 00:04:48,560 --> 00:04:51,600
-would
+podrían
 
 107
 00:04:48,960 --> 00:04:54,560
@@ -438,7 +438,7 @@ como hacemos hoy y los programas
 
 112
 00:05:02,479 --> 00:05:05,199
-corrian
+corrían
 
 113
 00:05:02,880 --> 00:05:07,840
@@ -458,7 +458,7 @@ los programas eran corridos de a uno a la vez
 
 117
 00:05:16,400 --> 00:05:19,440
-y, y muchas de estas computadoras tenian
+y, y muchas de estas computadoras tenían
 
 118
 00:05:18,720 --> 00:05:22,160
@@ -470,7 +470,7 @@ y luces en el frente de ellas porque
 
 120
 00:05:22,160 --> 00:05:26,639
-vos podias usar esos switches
+vos podías usar esos switches
 
 121
 00:05:23,600 --> 00:05:28,720
@@ -478,7 +478,7 @@ y luces para depurar tu programa
 
 122
 00:05:26,639 --> 00:05:31,039
-porque tu programa era la unica cosa
+porque tu programa era la única cosa
 
 123
 00:05:28,720 --> 00:05:33,600
@@ -486,15 +486,15 @@ que estaba corriendo
 
 124
 00:05:31,039 --> 00:05:35,520
-y si habia un sistema operativo, era
+y si había un sistema operativo, era
 
 125
 00:05:33,600 --> 00:05:38,240
-increiblemente primitivo
+increíblemente primitivo
 
 126
 00:05:35,520 --> 00:05:41,759
-para los standards de hoy era tipicamente
+para los standards de hoy era típicamente
 
 127
 00:05:38,240 --> 00:05:45,520
@@ -506,7 +506,7 @@ tal vez podrías hacer un trabajo por lotes en las tarjetas
 
 129
 00:05:45,520 --> 00:05:48,800
-o quizas si eras realmente suertudo you
+o quizás si tenias realmente suerte, you
 
 130
 00:05:48,080 --> 00:05:51,520
