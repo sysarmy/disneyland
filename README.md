@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Especial Homebankings - Polémica en /var - S04E27](https://www.youtube.com/watch?v=0kxCjpcHIrU)
 - [Especial DevOps 2 - Polémica en /var - S04E26](https://www.youtube.com/watch?v=9hchXTyZLx4)
 - [Especial Flow - Polémica en /var - S04E25](https://www.youtube.com/watch?v=jujJkKBkveM)
 - [Las Noticias de Octubre - Polémica en /var - S04E24](https://www.youtube.com/watch?v=Lt7JojKx320)
 - [Getting shit done (or not) - Polémica en /var - S04E23](https://www.youtube.com/watch?v=btHu62KVh0o)
-- [Sysarmy Forks() - Polémica en /var - S04E22](https://www.youtube.com/watch?v=h233z60iVdc)
 <!-- YOUTUBE:END -->
 
 ### Conectate!
