@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [IIS bloquea mis llamadas a una api externa](https://help.sysarmy.com/discussion/4813/iis-bloquea-mis-llamadas-a-una-api-externa)
 - [Recomendación sobre router para grandes distancias y obtaculos.](https://help.sysarmy.com/discussion/4812/recomendacion-sobre-router-para-grandes-distancias-y-obtaculos)
 - [MS NLB heartbeat dropped packets](https://help.sysarmy.com/discussion/4810/ms-nlb-heartbeat-dropped-packets)
 - [python: email templates.](https://help.sysarmy.com/discussion/4809/python-email-templates)
 - [Presupuesto para desarrollo web (front + back)](https://help.sysarmy.com/discussion/4808/presupuesto-para-desarrollo-web-front-back)
-- [(SonarQube) Reporte de Coverage en JenkinsFile Pipeline](https://help.sysarmy.com/discussion/4807/sonarqube-reporte-de-coverage-en-jenkinsfile-pipeline)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
