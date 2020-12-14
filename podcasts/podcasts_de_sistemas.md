@@ -126,6 +126,13 @@ Un podcast que fusiona elementos fantásticos como hechicería y aventura con pr
 
 - [La taberna del código](https://anchor.fm/la-taberna-del-codigo)
 
+### Lo Demas es Silencio
+
+Programa de Radio emitido por FM la Colectiva los Viernes de 19Hs a 21Hs, Derecho Informático, Internet, Tecnología, hacktivismo, entrevistas, con una mirada social. Conduce el Dr Rodrigo Iglesias
+
+- [Lo Demas es Silencio](https://open.spotify.com/show/68H8AAva8xHk2ifFUm9yuZ?si=cX-tL0_VRtSwunAQWTyqiA)
+
+
 ## Portugués
 
 ### Hipsters Ponto Tech
