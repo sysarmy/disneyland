@@ -54,6 +54,9 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 - [Las Noticias de Octubre - Polémica en /var - S04E24](https://www.youtube.com/watch?v=Lt7JojKx320)
 <!-- YOUTUBE:END -->
 
+### Otros links relevantes
+- [Recursos para entrevistas](https://github.com/Olshansk/interview)
+
 ### Conectate!
 
 [<img align="left" alt="sysarmy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
