@@ -37,11 +37,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 proyectos de portfolio para aspirantes a automation engineer](https://sysarmy.com/blog/posts/10-proyectos-para-automation-engineers/)
 - [Un repaso de los servicios de AWS](https://sysarmy.com/blog/posts/servicios-de-aws/)
 - [Probando la API de Twitter: tweet archive y delete](https://sysarmy.com/blog/posts/api-de-twitter-archive-y-delete/)
 - [¿Tu empresa todavía usa servidores físicos? ¿Por qué?](https://sysarmy.com/blog/posts/todavia-se-usan-servers-fisicos/)
 - [Resultados de la Encuesta de sueldos 2020.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2020-2/)
-- [Polémica en /var S04E10 - AdminFest 11 años](https://sysarmy.com/blog/posts/polemicaenvar-s04e10-adminfest11/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
