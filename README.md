@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Como instalo certificado en Windows Server](https://help.sysarmy.com/discussion/4817/como-instalo-certificado-en-windows-server)
+- [Implementación de AD, Remote Monitoring & Management - Consultoría (?)](https://help.sysarmy.com/discussion/4816/implementacion-de-ad-remote-monitoring-management-consultoria)
+- [Conexión auto rechazada con Vino](https://help.sysarmy.com/discussion/4815/conexion-auto-rechazada-con-vino)
 - [ECM – Drupal?](https://help.sysarmy.com/discussion/4814/ecm-drupal)
 - [IIS bloquea mis llamadas a una api externa](https://help.sysarmy.com/discussion/4813/iis-bloquea-mis-llamadas-a-una-api-externa)
-- [Recomendación sobre router para grandes distancias y obtaculos.](https://help.sysarmy.com/discussion/4812/recomendacion-sobre-router-para-grandes-distancias-y-obtaculos)
-- [MS NLB heartbeat dropped packets](https://help.sysarmy.com/discussion/4810/ms-nlb-heartbeat-dropped-packets)
-- [python: email templates.](https://help.sysarmy.com/discussion/4809/python-email-templates)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
