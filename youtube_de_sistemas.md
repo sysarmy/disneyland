@@ -50,6 +50,29 @@ I LOVE Information Technology!! My goal is to help as MANY PEOPLE AS POSSIBLE ju
 
 ### TLG - The Linux Guy
 Hi! My name is Gardiner Bryant. I'm the creator of TLG (Technology, Linux, Gaming) as well as The Off Topical Podcast. 
-- [TLG] (https://www.youtube.com/channel/UCv1Kcz-CuGM6mxzL3B1_Eiw)
+- [TLG](https://www.youtube.com/channel/UCv1Kcz-CuGM6mxzL3B1_Eiw)
 
+### David Bombal
+Want to learn about IT? Want to get ahead in your career?  Well, this is the right place! 
 
+On this channel, I discuss Python, Network Automation, Ethical Hacking, Networking, SDN, CCNA, Virtualization and other IT related topics.
+
+- [David Bombal](https://www.youtube.com/c/DavidBombal)
+
+### Craft Computing
+
+ Computer builds, tutorials, reviews, news and information, presented the only way I know how.
+
+- [Craft Computing](https://www.youtube.com/c/CraftComputing/about)
+
+### Techno Tim
+
+ I make videos that help people do awesome things with technology.
+
+- [Techno Tim](https://www.youtube.com/c/TechnoTimLive)
+
+### Lawrence Systems / PC Pickup
+
+We discuss and create tutorials for firewalls, storage solutions, MSP tools, security tools and open source topics. 
+
+- [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge/about)
