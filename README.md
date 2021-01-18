@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [¿Cómo borrar un branch local y remoto en git?](https://help.sysarmy.com/discussion/4822/como-borrar-un-branch-local-y-remoto-en-git)
+- [Veeam Backup, una ayuda!](https://help.sysarmy.com/discussion/4821/veeam-backup-una-ayuda)
 - [Consulta instalacion electrica - consumo electrico](https://help.sysarmy.com/discussion/4820/consulta-instalacion-electrica-consumo-electrico)
 - [Archivos incorrectos en Git](https://help.sysarmy.com/discussion/4819/archivos-incorrectos-en-git)
 - [Performance: Kubernetes en una VM con Proxmox](https://help.sysarmy.com/discussion/4818/performance-kubernetes-en-una-vm-con-proxmox)
-- [Como instalo certificado en Windows Server](https://help.sysarmy.com/discussion/4817/como-instalo-certificado-en-windows-server)
-- [Implementación de AD, Remote Monitoring & Management - Consultoría (?)](https://help.sysarmy.com/discussion/4816/implementacion-de-ad-remote-monitoring-management-consultoria)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
