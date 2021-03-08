@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [📰 Lo que te perdiste del verano 2020 ☀️☀️](https://www.youtube.com/watch?v=VnVz6L4RXuw)
 - [Las Noticias de Diciembre - Polémica en /var - S04E31](https://www.youtube.com/watch?v=XkpGfkxLu00)
 - [Lo que google se llevó - Polémica en /var - S04E30](https://www.youtube.com/watch?v=wF9Yni8LKJk)
 - [Incident Response - Polémica en /var - S04E29](https://www.youtube.com/watch?v=Y6duuGRHvfg)
 - [Las Noticias de Noviembre - Polémica en /var - S04E28](https://www.youtube.com/watch?v=VdUJtdbbf-c)
-- [Especial Homebankings - Polémica en /var - S04E27](https://www.youtube.com/watch?v=0kxCjpcHIrU)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
