@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [🔥OVH2 🚒 / Datacenters para principiantes.](https://www.youtube.com/watch?v=AjpR6-6ccZw)
 - [🔥Fuego en el Datacenter 🚒 El Incidente de OVH](https://www.youtube.com/watch?v=PQU_4tNPhcM)
 - [📰 Lo que te perdiste del verano 2020 ☀️☀️](https://www.youtube.com/watch?v=VnVz6L4RXuw)
 - [Las Noticias de Diciembre - Polémica en /var - S04E31](https://www.youtube.com/watch?v=XkpGfkxLu00)
 - [Lo que google se llevó - Polémica en /var - S04E30](https://www.youtube.com/watch?v=wF9Yni8LKJk)
-- [Incident Response - Polémica en /var - S04E29](https://www.youtube.com/watch?v=Y6duuGRHvfg)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
