@@ -37,11 +37,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [“Esto nunca debería suceder. Si es así, llame a los desarrolladores"](https://sysarmy.com/blog/posts/crear-un-buen-feedback-loop-entre-ops-y-devs-usando-documentacion/)
 - [Las noticias de Marzo 2021! - Polémica en /var S05E02](https://sysarmy.com/blog/posts/polemicaenvar-s05e02/)
 - [Entendiendo la fork() Bomb :(){ :|:& };: de bash](https://sysarmy.com/blog/posts/entendiendo-la-fork-bomb-de-bash/)
 - [SQLite no es una base de datos de juguete](https://sysarmy.com/blog/posts/sqlite-no-es-una-base-de-datos-de-juguete/)
 - [Fuego en el Datacenter - El incidente de OVH - Polémica en /var S05E01](https://sysarmy.com/blog/posts/polemicaenvar-s05e01-ovh-fire/)
-- [Como entrar a DevOps, un hilo robado](https://sysarmy.com/blog/posts/202103-iniciarse-en-devops/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
