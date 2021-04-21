@@ -30,8 +30,8 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 - [Realizar backups de los snapshots de VMware.](https://help.sysarmy.com/discussion/4829/realizar-backups-de-los-snapshots-de-vmware)
 - [Alguna buena lectura sobre documentación?](https://help.sysarmy.com/discussion/4828/alguna-buena-lectura-sobre-documentacion)
 - [Librenms monitoreando Queues de Mikrotik](https://help.sysarmy.com/discussion/4826/librenms-monitoreando-queues-de-mikrotik)
+- [AWS CodeBuild no arranca cuando pusheo commit + tags](https://help.sysarmy.com/discussion/4825/aws-codebuild-no-arranca-cuando-pusheo-commit-tags)
 - [TeamViewer y proxy "mínimo"](https://help.sysarmy.com/discussion/4824/teamviewer-y-proxy-minimo)
-- [Actualizar Zabbix server](https://help.sysarmy.com/discussion/4823/actualizar-zabbix-server)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
