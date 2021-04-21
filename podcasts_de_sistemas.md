@@ -6,6 +6,10 @@ La idea es compilar una lista de podcasts de sistemas y afines.
 El café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, IPOs falopas, etc.
 - [Spotify](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M?si=6CUV-BvyQg6M0HmcbxnIrg)
 
+### Dominio Digital
+Dominio Digital es un programa que habla de tecnología siempre con una mirada diferente,analítica y crítica. Es conducido por Claudio Regis y acompañado por Daniel "El Chacal" Sentinelli, Alejandro Ponicke y Daniela Gastaminza.
+- [Spotify](https://open.spotify.com/show/4e2INdQiaz6wMGm8KhqJY3?si=8RnFgRN0Rp-DIqQM_f8MTQ&nd=1)
+
 ### Café con Java
 Café con Java es un podcast que no habla de café ni de Java, sino que intenta comprender los estereotipos establecidos en el inconsciente colectivo sobre les individuos de sistemas.
 - [Spotify](https://open.spotify.com/show/0TVlDun02hUMkQXEs33rRe?si=fGMZuUpdSn2z25-zLpx-1w)
