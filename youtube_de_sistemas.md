@@ -30,6 +30,11 @@ La eko se realiza anualmente en la Ciudad Autónoma de Buenos Aires. En este eve
 Videos de la conferencia organizada por Sysarmy.
 - [nerdearla](https://www.youtube.com/channel/UC1WxOSF0QFb7C0I_QGiDlrA)
 
+### Damian Olguin [AWS Hero]
+Videos introductorios a Cloud computing, containers, certificaciones y buenas practicas en AWS 
+- [Damian Olguin AWS Hero](https://www.youtube.com/c/DamianOlguinAWSHERO/)
+
+
 ## English
 
 ### Security Weekly
