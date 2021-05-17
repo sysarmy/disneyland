@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Tips para no cagarla (tanto) como jr.](https://www.youtube.com/watch?v=RSTI9FoDl_A)
 - [Beaver corta internet](https://www.youtube.com/watch?v=FJKRfDwRZ8U)
 - [Especial encuesta de trabajo remoto.](https://www.youtube.com/watch?v=hoBWNicqxiI)
 - [Especial google.com.ar vs nic.ar](https://www.youtube.com/watch?v=4o-LlbWHcWE)
 - [📰 Las noticias de Marzo 2021!](https://www.youtube.com/watch?v=EX_ORKWr6IY)
-- [🔥OVH2 🚒 / Datacenters para principiantes.](https://www.youtube.com/watch?v=AjpR6-6ccZw)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
