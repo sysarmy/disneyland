@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Hablemos de 🏳️Feature Flags🚩, Testeando en Producción 🏁](https://www.youtube.com/watch?v=7JdrTNESCFY)
+- [Basta de #deshabilitar #SELinux - Parte 1](https://www.youtube.com/watch?v=AnCsZDMkKwg)
 - [Tips para no cagarla (tanto) como jr.](https://www.youtube.com/watch?v=RSTI9FoDl_A)
 - [Beaver corta internet](https://www.youtube.com/watch?v=FJKRfDwRZ8U)
 - [Especial encuesta de trabajo remoto.](https://www.youtube.com/watch?v=hoBWNicqxiI)
-- [Especial google.com.ar vs nic.ar](https://www.youtube.com/watch?v=4o-LlbWHcWE)
-- [📰 Las noticias de Marzo 2021!](https://www.youtube.com/watch?v=EX_ORKWr6IY)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
