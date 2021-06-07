@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Uso acostumbrado AWS-S3 para http estático](https://help.sysarmy.com/discussion/4835/uso-acostumbrado-aws-s3-para-http-estatico)
+- [Limitar un usuario a que inicie sesión en algunas pcs del dominio](https://help.sysarmy.com/discussion/4833/limitar-un-usuario-a-que-inicie-sesion-en-algunas-pcs-del-dominio)
 - [Revivir NAS Seagate - No hay backup!!](https://help.sysarmy.com/discussion/4832/revivir-nas-seagate-no-hay-backup)
 - [raspi's con casos de uso estables (?)](https://help.sysarmy.com/discussion/4830/raspis-con-casos-de-uso-estables)
 - [Realizar backups de los snapshots de VMware.](https://help.sysarmy.com/discussion/4829/realizar-backups-de-los-snapshots-de-vmware)
-- [Alguna buena lectura sobre documentación?](https://help.sysarmy.com/discussion/4828/alguna-buena-lectura-sobre-documentacion)
-- [Librenms monitoreando Queues de Mikrotik](https://help.sysarmy.com/discussion/4826/librenms-monitoreando-queues-de-mikrotik)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
