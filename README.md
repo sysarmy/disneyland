@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Rack: Una UPS grande o varias estándar?](https://help.sysarmy.com/discussion/4838/rack-una-ups-grande-o-varias-estandar)
+- [Compatibilidad entre calendarios, IMAP, Office 365, Gmail](https://help.sysarmy.com/discussion/4837/compatibilidad-entre-calendarios-imap-office-365-gmail)
+- [Proyecto routeo BGP con balance de carga entre backbones](https://help.sysarmy.com/discussion/4836/proyecto-routeo-bgp-con-balance-de-carga-entre-backbones)
 - [Uso acostumbrado AWS-S3 para http estático](https://help.sysarmy.com/discussion/4835/uso-acostumbrado-aws-s3-para-http-estatico)
-- [Limitar un usuario a que inicie sesión en algunas pcs del dominio](https://help.sysarmy.com/discussion/4833/limitar-un-usuario-a-que-inicie-sesion-en-algunas-pcs-del-dominio)
-- [Revivir NAS Seagate - No hay backup!!](https://help.sysarmy.com/discussion/4832/revivir-nas-seagate-no-hay-backup)
-- [raspi's con casos de uso estables (?)](https://help.sysarmy.com/discussion/4830/raspis-con-casos-de-uso-estables)
-- [Realizar backups de los snapshots de VMware.](https://help.sysarmy.com/discussion/4829/realizar-backups-de-los-snapshots-de-vmware)
+- [Cómo es el uso acostumbrado AWS-S3 para http estático](https://help.sysarmy.com/discussion/4834/como-es-el-uso-acostumbrado-aws-s3-para-http-estatico)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
