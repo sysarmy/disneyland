@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Migracion de HP a Ubiquiti Unfi/EDGE](https://help.sysarmy.com/discussion/4839/migracion-de-hp-a-ubiquiti-unfi-edge)
 - [Rack: Una UPS grande o varias estándar?](https://help.sysarmy.com/discussion/4838/rack-una-ups-grande-o-varias-estandar)
 - [Compatibilidad entre calendarios, IMAP, Office 365, Gmail](https://help.sysarmy.com/discussion/4837/compatibilidad-entre-calendarios-imap-office-365-gmail)
 - [Proyecto routeo BGP con balance de carga entre backbones](https://help.sysarmy.com/discussion/4836/proyecto-routeo-bgp-con-balance-de-carga-entre-backbones)
 - [Uso acostumbrado AWS-S3 para http estático](https://help.sysarmy.com/discussion/4835/uso-acostumbrado-aws-s3-para-http-estatico)
-- [Cómo es el uso acostumbrado AWS-S3 para http estático](https://help.sysarmy.com/discussion/4834/como-es-el-uso-acostumbrado-aws-s3-para-http-estatico)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
