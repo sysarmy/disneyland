@@ -37,11 +37,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Account Hardening](https://sysarmy.com/blog/posts/aws-account-hardening/)
 - [Tips De Trabajo Remoto](https://sysarmy.com/blog/posts/tips-de-trabajo-remoto/)
 - [Como Acelerar El Proceso De Aprobación de los Pull Request](https://sysarmy.com/blog/posts/como-acelerar-el-proceso-de-pull-request/)
 - [Documentación De Decisiones De Arquitectura](https://sysarmy.com/blog/posts/documentacion-decisiones-de-arquitectura/)
 - [La propagación del DNS no existe](https://sysarmy.com/blog/posts/la-propagacion-de-dns-no-existe/)
-- [“Esto nunca debería suceder. Si es así, llame a los desarrolladores"](https://sysarmy.com/blog/posts/crear-un-buen-feedback-loop-entre-ops-y-devs-usando-documentacion/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
