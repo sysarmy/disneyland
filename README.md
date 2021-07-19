@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [🛠Especial🛠 #Devops #2021 🔩¿Qué skills/habilidades necesito?⚙️ ¿Voy para el camino correcto? 🔥 o 🧯](https://www.youtube.com/watch?v=swZTGYtUZ28)
 - [Las Noticias de Junio,  Windows 11📎, McAfee🔪⚰️, Bitcoin 💸 y muchas noticias más.](https://www.youtube.com/watch?v=jfLgJ-f6SUA)
 - [🗝️🔑 The RSA Hack 🔐 💣 Una historia para no dormir.](https://www.youtube.com/watch?v=TryUgLQ8N1A)
 - [📡 Radar tecnológico 📡 #Tecnología para mirar, usar, investigar y mandar a producción.](https://www.youtube.com/watch?v=_YEFxWQVjAk)
 - [Las Noticias de Mayo, F for 🥀Freenode.🥀](https://www.youtube.com/watch?v=1x6tPIFA3QE)
-- [Hablemos de 🏳️Feature Flags🚩, Testeando en Producción 🏁](https://www.youtube.com/watch?v=7JdrTNESCFY)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
