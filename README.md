@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Alternativa a Bacula Community](https://help.sysarmy.com/discussion/4846/alternativa-a-bacula-community)
 - [Bind9 - DNS - redirect de una zona a otra](https://help.sysarmy.com/discussion/4845/bind9-dns-redirect-de-una-zona-a-otra)
 - [DDwrt to Netgear R7000](https://help.sysarmy.com/discussion/4844/ddwrt-to-netgear-r7000)
 - [Bases SICORE](https://help.sysarmy.com/discussion/4843/bases-sicore)
 - [Help! Me roban wifi por extensor](https://help.sysarmy.com/discussion/4842/help-me-roban-wifi-por-extensor)
-- [Startup o big tech? Me habre puesto muy delicado?](https://help.sysarmy.com/discussion/4841/startup-o-big-tech-me-habre-puesto-muy-delicado)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
