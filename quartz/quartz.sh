@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#TODO agregar delay random max 2 min
+#TODO #105 agregar delay random max 2 min
 
 #hosts = ( fr-sxb-as8839.anchors.atlas.ripe.net us-mia-as15133.anchors.atlas.ripe.net us-qas-as15169.anchors.atlas.ripe.net br-sao-as16509.anchors.atlas.ripe.net au-syd-as16509.anchors.atlas.ripe.net us-mia-as15133.anchors.atlas.ripe.net us-qas-as15169.anchors.atlas.ripe.net fr-lio-as41405.anchors.atlas.ripe.net)
 
