@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Las noticias de Agosto, Docker 🚢, Facebook 😐, China 🇨🇳  y más!](https://www.youtube.com/watch?v=SWB51yR6oFQ)
 - [💡#Comunidades Técnicas📖, entre abrazos🦄 y un mundo de dolor🥃.](https://www.youtube.com/watch?v=nGwjMg_t5wc)
 - [Cloud Computing: ¿La nube, son los padres?](https://www.youtube.com/watch?v=gkbplCFKhBs)
 - [Las Noticias de Julio,  🚔Blizzard, 📥Emails, 🚀Dogecoin🐕](https://www.youtube.com/watch?v=xtw-jLuNN78)
 - [📚¿Cómo elijo donde aprender?🤓 // 🤔 Facultad🎓, Cursos🎒, Bootcamps📓, Youtube?](https://www.youtube.com/watch?v=rA1whJGg2ew)
-- [Basta de deshabilitar #SELinux - Parte 2](https://www.youtube.com/watch?v=kFK1l3tKWYE)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
