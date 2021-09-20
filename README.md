@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [[Oportunidad laboral] Desarrollador Java Senior](https://help.sysarmy.com/discussion/4850/oportunidad-laboral-desarrollador-java-senior)
+- [[oportunidad laboral] Analista de soporte técnico](https://help.sysarmy.com/discussion/4849/oportunidad-laboral-analista-de-soporte-tecnico)
 - [Cuanto cobrar por boca de red?](https://help.sysarmy.com/discussion/4848/cuanto-cobrar-por-boca-de-red)
 - [como auditar un devops](https://help.sysarmy.com/discussion/4847/como-auditar-un-devops)
 - [Alternativa a Bacula Community](https://help.sysarmy.com/discussion/4846/alternativa-a-bacula-community)
-- [Bind9 - DNS - redirect de una zona a otra](https://help.sysarmy.com/discussion/4845/bind9-dns-redirect-de-una-zona-a-otra)
-- [DDwrt to Netgear R7000](https://help.sysarmy.com/discussion/4844/ddwrt-to-netgear-r7000)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
