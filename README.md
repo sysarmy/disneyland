@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [#CarrerasCortas en IT 🖥️  : Arrancá con todo 🏃‍♂️🏃‍♀️](https://www.youtube.com/watch?v=K2mOiN-Pxbk)
 - [🖥️ Supercomputadoras🚀 todo lo que siempre quisiste saber 🚄](https://www.youtube.com/watch?v=rkK-xERMeHk)
 - [Las noticias de Agosto, Docker 🚢, Facebook 😐, China 🇨🇳  y más!](https://www.youtube.com/watch?v=SWB51yR6oFQ)
 - [💡#Comunidades Técnicas📖, entre abrazos🦄 y un mundo de dolor🥃.](https://www.youtube.com/watch?v=nGwjMg_t5wc)
 - [Cloud Computing: ¿La nube, son los padres?](https://www.youtube.com/watch?v=gkbplCFKhBs)
-- [Las Noticias de Julio,  🚔Blizzard, 📥Emails, 🚀Dogecoin🐕](https://www.youtube.com/watch?v=xtw-jLuNN78)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
