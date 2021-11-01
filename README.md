@@ -37,11 +37,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [20 Cosas Que Aprendi en Mis 20 años Como Ingeniero de Software](https://sysarmy.com/blog/posts/20-cosas-que-aprendi-en-mis-20-years-como-software-engineer/)
 - [Más detalles sobre la falla del 4 de Octubre de Facebook.](https://sysarmy.com/blog/posts/facebook-outage-details-20211005/)
 - [Stack or not Stack? that is the question. Una comparativa breve sobre las tecnologías de desarrollo de aplicaciones web.](https://sysarmy.com/blog/posts/comparativa-web-stacks/)
 - [Bajando Hasta Los Cimientos De Las Computadoras Y Los Programas](https://sysarmy.com/blog/posts/bajando-hasta-los-cimientos/)
 - [Resultados de la Encuesta de sueldos 2021.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2021-2/)
-- [Como Ser Parte De Sysarmy](https://sysarmy.com/blog/posts/como-ser-parte-de-sysarmy/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
