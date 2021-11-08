@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Informes de facturación por mes en AWS](https://help.sysarmy.com/discussion/4853/informes-de-facturacion-por-mes-en-aws)
 - [Primer trabajo, testing](https://help.sysarmy.com/discussion/4852/primer-trabajo-testing)
 - [Como gestionar la depresion post evento?](https://help.sysarmy.com/discussion/4851/como-gestionar-la-depresion-post-evento)
 - [[Oportunidad laboral] Desarrollador Java Senior](https://help.sysarmy.com/discussion/4850/oportunidad-laboral-desarrollador-java-senior)
 - [[oportunidad laboral] Analista de soporte técnico](https://help.sysarmy.com/discussion/4849/oportunidad-laboral-analista-de-soporte-tecnico)
-- [Cuanto cobrar por boca de red?](https://help.sysarmy.com/discussion/4848/cuanto-cobrar-por-boca-de-red)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
