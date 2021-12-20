@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Documentación sobre excelencia operacional](https://help.sysarmy.com/discussion/4858/documentacion-sobre-excelencia-operacional)
+- [Recomendacion de router/firewall perimetral basica para Pyme de menos de 100 puestos](https://help.sysarmy.com/discussion/4857/recomendacion-de-router-firewall-perimetral-basica-para-pyme-de-menos-de-100-puestos)
+- [Ratio TI/Usuarios](https://help.sysarmy.com/discussion/4856/ratio-ti-usuarios)
 - [Recomendación silla gamer](https://help.sysarmy.com/discussion/4855/recomendacion-silla-gamer)
 - [Velocidad de copia de archivos entre servidores on-premise](https://help.sysarmy.com/discussion/4854/velocidad-de-copia-de-archivos-entre-servidores-on-premise)
-- [Informes de facturación por mes en AWS](https://help.sysarmy.com/discussion/4853/informes-de-facturacion-por-mes-en-aws)
-- [Primer trabajo, testing](https://help.sysarmy.com/discussion/4852/primer-trabajo-testing)
-- [Como gestionar la depresion post evento?](https://help.sysarmy.com/discussion/4851/como-gestionar-la-depresion-post-evento)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
