@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Messaging Queues 101 [Inglés]](https://www.youtube.com/watch?v=bIIdljNH7A8)
 - [Noticias navideñas](https://www.youtube.com/watch?v=ytYpGWDsoUU)
 - [Las noticias de Octubre](https://www.youtube.com/watch?v=P2wrUKC8Uf4)
 - [Las noticias de Septiembre: #Facebook glasses 😎 y distopia 🔥](https://www.youtube.com/watch?v=HR20B4RA6rM)
 - [#CarrerasCortas en IT 🖥️  : Arrancá con todo 🏃‍♂️🏃‍♀️](https://www.youtube.com/watch?v=K2mOiN-Pxbk)
-- [🖥️ Supercomputadoras🚀 todo lo que siempre quisiste saber 🚄](https://www.youtube.com/watch?v=rkK-xERMeHk)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
