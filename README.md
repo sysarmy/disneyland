@@ -47,7 +47,7 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
-- [Messaging Queues 101 [Inglés]](https://www.youtube.com/watch?v=bIIdljNH7A8)
+- [Messaging Queues 101 [Inglés] - MQTT](https://www.youtube.com/watch?v=bIIdljNH7A8)
 - [Noticias navideñas](https://www.youtube.com/watch?v=ytYpGWDsoUU)
 - [Las noticias de Octubre](https://www.youtube.com/watch?v=P2wrUKC8Uf4)
 - [Las noticias de Septiembre: #Facebook glasses 😎 y distopia 🔥](https://www.youtube.com/watch?v=HR20B4RA6rM)
