@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Haproxy no resuelve las rutas.](https://help.sysarmy.com/discussion/4860/haproxy-no-resuelve-las-rutas)
 - [Prometheus múltiple en un cluster](https://help.sysarmy.com/discussion/4859/prometheus-multiple-en-un-cluster)
 - [Documentación sobre excelencia operacional](https://help.sysarmy.com/discussion/4858/documentacion-sobre-excelencia-operacional)
 - [Recomendacion de router/firewall perimetral basica para Pyme de menos de 100 puestos](https://help.sysarmy.com/discussion/4857/recomendacion-de-router-firewall-perimetral-basica-para-pyme-de-menos-de-100-puestos)
 - [Ratio TI/Usuarios](https://help.sysarmy.com/discussion/4856/ratio-ti-usuarios)
-- [Recomendación silla gamer](https://help.sysarmy.com/discussion/4855/recomendacion-silla-gamer)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
