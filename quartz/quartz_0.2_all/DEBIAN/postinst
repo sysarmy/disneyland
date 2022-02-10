@@ -14,21 +14,21 @@ EOF
 }
 
 
-echo "$(tput setaf 2) Autoconfigurar JAVA_HOME path? si, no o [m]anual $(tput sgr 0)"
-valid=0
-while [ $valid == 0 ]; do
-read ans; case $ans in
-    [sS][iI]|[sS] )     echo Configurado automaticamente.
-			export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
-                        valid=1;;
-    [nN][oO]|[nN] )     echo Fuck it then
-                        valid=1;;
-    [mM] )		read -p "Ingresa la ruta a setear para JAVA_HOME: " java-manual
-			export JAVA_HOME=$java-manual
-			valid=1;;
-    * )                 echo Si, No o M para ingresar manualmente por favor;;
-    esac
-done
+#echo "$(tput setaf 2) Autoconfigurar JAVA_HOME path? si, no o [m]anual $(tput sgr 0)"
+#valid=0
+#while [ $valid == 0 ]; do
+#read ans; case $ans in
+#    [sS][iI]|[sS] )     echo Configurado automaticamente.
+#			export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
+#                        valid=1;;
+#    [nN][oO]|[nN] )     echo Fuck it then
+#                        valid=1;;
+#    [mM] )		read -p "Ingresa la ruta a setear para JAVA_HOME: " java-manual
+#			export JAVA_HOME=$java-manual
+#			valid=1;;
+#    * )                 echo Si, No o M para ingresar manualmente por favor;;
+#    esac
+#done
 
 #echo " NOTA: SE REQUIERE PYTHON 3.7 EN ADELANTE ANTES DE SEGUIR"
 echo "$(tput setaf 2) Configurar los parametros de Quartz?$(tput sgr 0)"
