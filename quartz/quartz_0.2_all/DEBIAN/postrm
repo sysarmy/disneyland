@@ -1,0 +1,3 @@
+#!/bin/bash
+[[ -f ~/.config/quartz.conf ]] && rm ~/.config/quartz.conf
+[[ -z "$(ls -A ~/.config)" ]] && rmdir ~/.config

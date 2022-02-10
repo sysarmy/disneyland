@@ -1,0 +1,8 @@
+To install: 
+sudo apt-get install -f ./quartz_0.1_all.deb
+
+To remove:
+sudo apt-get autoremove quartz
+
+** After removal the quartz.conf remains in /root/.config/
+** Postrm script return error when trying to delete ~/.config/quartz.conf, so it was deleted

@@ -1,0 +1,56 @@
+#!/bin/bash
+
+function setquartzdata {
+	echo Configurando Ripe Atlas
+	read -p "Ingresar la URL: " ripeurl
+	read -p "Ingresa el ISP: " ripeisp
+	read -p "Ingresa la API KEY: " ripekey
+	mkdir ~/.config/ && cat << EOF > ~/.config/quartz.conf
+[quartz]
+api_key = $ripekey
+url = $ripeurl
+isp = $ripeisp
+EOF
+}
+
+
+echo "$(tput setaf 2) Autoconfigurar JAVA_HOME path? si, no o [m]anual $(tput sgr 0)"
+valid=0
+while [ $valid == 0 ]; do
+read ans; case $ans in
+    [sS][iI]|[sS] )     echo Configurado automaticamente.
+			export JAVA_HOME=$(readlink -f /usr/bin/java | sed "s:bin/java::")
+                        valid=1;;
+    [nN][oO]|[nN] )     echo Fuck it then
+                        valid=1;;
+    [mM] )		read -p "Ingresa la ruta a setear para JAVA_HOME: " java-manual
+			export JAVA_HOME=$java-manual
+			valid=1;;
+    * )                 echo Si, No o M para ingresar manualmente por favor;;
+    esac
+done
+
+#echo " NOTA: SE REQUIERE PYTHON 3.7 EN ADELANTE ANTES DE SEGUIR"
+echo "$(tput setaf 2) Configurar los parametros de Quartz?$(tput sgr 0)"
+valid=0
+while [ $valid == 0 ]; do
+read ans; case $ans in
+    [sS][iI]|[sS] )     setquartzdata
+  			valid=1;;
+    [nN][oO]|[nN] )     echo Fuck it then
+                        valid=1;;
+    * )                 echo escribe Si o No por favor;;
+    esac
+done
+
+echo "$(tput setaf 2) Instalando dependencias de Python$(tput sgr 0)"
+pip3 install logging42 requests configparser argparse
+wait $!
+if [ $? != 0 ]; then echo "$(tput setaf 1) Hubo un error instalando dependencias de python necesarias (logging, requests, configparser, argparse)$(tput sgr 0)" && read -n 1 -r -s -p $'Presione una tecla para continuar\n'; fi
+
+#cd /tmp/icmplib-3.0.2/
+#pip3 install -e . 
+#wait $!
+#if [ $? != 0 ]; then echo "$(tput setaf 1) Hubo un error instalando icmplib-3.0.2, verificar/resolver manualmente$(tput sgr 0)" && read -n 1 -r -s -p $'Presione una tecla para continuar\n'; 
+#else wait $!  && 
+echo "$(tput setaf 2) Todo listo, ponele$(tput sgr 0)"
