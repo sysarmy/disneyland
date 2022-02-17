@@ -13,4 +13,4 @@ isp = ${QUARTZ_ISP:-Nombre del ISP (Fibertel, Telecentro, etc.)} \
 " > /root/.config/quartz.conf
 
 # Corremos el script y lo logueamos just in case
-/usr/local/bin/python /app/quartz.py | /usr/bin/tee -a /app/quartz.log
+/usr/local/bin/python /app/quartz.py >> /app/quartz.log 2>&1
