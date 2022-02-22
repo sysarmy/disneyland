@@ -65,6 +65,8 @@ def read_config():
         config['quartz']['isp'] == DEFAULT_ISP
         ):
             LOGGER.error(f'El archivo {CONFIG_FILE} tiene valores dummy.')
+            if os.environ.get('EXECUTION_ENV') == "DOCKER":
+                LOGGER.error(f'Revisá haber pasado las variables de entorno correctas al docker run.')
             sys.exit(1)
     except KeyError:
         LOGGER.error(f'El archivo {CONFIG_FILE} es inválido (está vacío?).')
