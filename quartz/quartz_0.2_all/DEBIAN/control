@@ -1,0 +1,7 @@
+Package: Quartz
+Version: 0.1
+Maintainer: https://github.com/sysarmy/disneyland  <root@sysarmy.com>
+Depends: python3 (>= 3.7.0), python3-pip
+Architecture: all
+Homepage: null
+Description: Ask Edux for details
