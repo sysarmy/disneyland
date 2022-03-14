@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /Var 2022  ANTIBAJÓN  🍻](https://www.youtube.com/watch?v=8WlaeS-VOdI)
 - [Volvió Polémica, los martes a las 22 hs](https://www.youtube.com/watch?v=wXBoys_CZio)
 - [Polémica en /Var 2022  🔥🔥  &lpar;PEORES QUE NUNCA&rpar;](https://www.youtube.com/watch?v=vUCfG4fWMX8)
 - [Messaging Queues 101 [Inglés] - MQTT](https://www.youtube.com/watch?v=bIIdljNH7A8)
 - [Noticias navideñas](https://www.youtube.com/watch?v=ytYpGWDsoUU)
-- [Las noticias de Octubre](https://www.youtube.com/watch?v=P2wrUKC8Uf4)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
