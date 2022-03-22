@@ -56,6 +56,7 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 
 ### Otros links relevantes
 - [Recursos para entrevistas](https://github.com/Olshansk/interview)
+- [Un chat log sobre devops y sre](https://github.com/sysarmy/disneyland/wiki/charla-sobre-DevOps-20220321-%23sysarmy-%23help)
 
 ### Conectate!
 
