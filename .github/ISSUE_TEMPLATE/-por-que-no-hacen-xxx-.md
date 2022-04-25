@@ -14,4 +14,4 @@ Una descripción clara de cuál es el problema. Ejemplo, no me puedo loguear en 
 Agregar descripción y links. 
 
 **Lo puedo hacer yo? o puedo colaborar?**
-La pala esta disponible para el que tenga ganas, en un disneyland se puede discutir la mejor forma de llevarlo a cabo y si se necesitan mas recursos, etc.
+La pala esta disponible para quien tenga ganas, en un disneyland se puede discutir la mejor forma de llevarlo a cabo y si se necesitan mas recursos, etc.
