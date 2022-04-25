@@ -37,11 +37,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guardias para empresas sin impresoras de dinero](https://sysarmy.com/blog/posts/oncall-sin-impresoras-de-dinero/)
 - [Sitios De Trabajo Remoto](https://sysarmy.com/blog/posts/sitios-de-trabajo-remoto/)
 - [¿Qué proyectos hago para crecer como programador/a?](https://sysarmy.com/blog/posts/proyectos-programadores/)
 - [Resultados de la Encuesta de sueldos 2022.1](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2022-1/)
 - [Cómo borrar tu disco por completo en Windows](https://sysarmy.com/blog/posts/borrando-tu-disco-en-windows/)
-- [¿Estás list@ para Vim? Una guía para principiantes](https://sysarmy.com/blog/posts/vim-para-principiantes/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
