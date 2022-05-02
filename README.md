@@ -27,11 +27,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Implementación de Tryton &lpar;ERP&rpar;  - Modulos AFIP](https://help.sysarmy.com/discussion/4866/implementacion-de-tryton-erp-modulos-afip)
+- [Conexión remota a una instancia RDS de AWS](https://help.sysarmy.com/discussion/4865/conexion-remota-a-una-instancia-rds-de-aws)
 - [proxy pass: apache2 -&gt; apache2 Authorization header.](https://help.sysarmy.com/discussion/4863/proxy-pass-apache2-apache2-authorization-header)
 - [¿Cuanto cobro por un freelo ?](https://help.sysarmy.com/discussion/4861/cuanto-cobro-por-un-freelo)
 - [Haproxy no resuelve las rutas.](https://help.sysarmy.com/discussion/4860/haproxy-no-resuelve-las-rutas)
-- [Prometheus múltiple en un cluster](https://help.sysarmy.com/discussion/4859/prometheus-multiple-en-un-cluster)
-- [Documentación sobre excelencia operacional](https://help.sysarmy.com/discussion/4858/documentacion-sobre-excelencia-operacional)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
