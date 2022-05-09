@@ -47,11 +47,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polemica en /VAR - LeMusk Revenge](https://www.youtube.com/watch?v=LfyeCEEUz6Y)
 - [Especial Flisol 2022](https://www.youtube.com/watch?v=pMeDec1B11I)
 - [Polémica en /Var - Noticias de Marzo](https://www.youtube.com/watch?v=h-ueoxDQv3w)
 - [Grand Opening: Nerdearla en #Valheim!](https://www.youtube.com/watch?v=7pjbeN0-wdA)
 - [Polémica en /Var 2022  ANTIBAJÓN  🍻](https://www.youtube.com/watch?v=8WlaeS-VOdI)
-- [Volvió Polémica, los martes a las 22 hs](https://www.youtube.com/watch?v=wXBoys_CZio)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
