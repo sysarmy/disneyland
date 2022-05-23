@@ -1,0 +1,50 @@
+---
+#
+#     _       _           _       _     _                _
+#    / \   __| |_ __ ___ (_)_ __ | |__ (_)_ __ _ __ __ _| |_ ___  _ __
+#   / _ \ / _` | '_ ` _ \| | '_ \| '_ \| | '__| '__/ _` | __/ _ \| '__|
+#  / ___ \ (_| | | | | | | | | | | |_) | | |  | | | (_| | || (_) | |
+# /_/   \_\__,_|_| |_| |_|_|_| |_|_.__/|_|_|  |_|  \__,_|\__\___/|_|
+#
+# F.A.Q.
+#
+# Q: ¿Cómo agrego un evento?
+# A: Copypasteá el último bloque, cambiale de nombre a la primer etiqueta
+#    con formato YYYYMMDD-{NOMBRE_IDENTIFICATORIO}, y ponele los valores
+#    que correspondan con el evento. Una vez hecho, commiteá tus cambios
+#    y manda una pull request.
+#
+# Q: ¿Hay que respetar algún formato?
+# A: Tratá de seguir los que ves en los eventos previos:
+#        - Fechas en formato "YYYY-MM-DD HH:MM"
+#        - Ubicaciones lo más completas posibles, con calle, altura,
+#          ciudad, y país.
+#
+# Q: ¿Pueden duplicarse los eventos?
+# A: Si hay un evento en Calendar ya creado con el mísmo título y el
+#    mismo día que un evento de la lista, se va a actualizar con la
+#    última versión de este archivo. Caso contrario, se crea uno nuevo.
+#
+# Editar debajo de esta línea:
+# ----------------------------
+
+20220607-Polemica:
+  titulo: "Polemica en /var - Noticias Mayo"
+  descripcion: "Noticias de mayo."
+  desde: "2022-06-07 22:00"
+  hasta: "2022-06-07 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=?"
+
+20220512-Adminbirras:
+  titulo: "#AdminBirras"
+  descripcion: "Mas detalles en https://www.meetup.com/sysarmy/events/285768129/"
+  desde: "2022-05-12 19:00"
+  hasta: "2022-05-12 21:00"
+  ubicacion: "José A. Cabrera 4354, C1414 CABA"
+
+20220504-Polemica:
+  titulo: "Polemica en /var - LeMusk Revenge"
+  descripcion: "Las noticias de este mes estan bien cargadas. Sale el nuevo Monkey Island, nuevo Ubuntu, nuevo reporte de incidente, nuevo ponzi....en fin."
+  desde: "2022-05-04 22:00"
+  hasta: "2022-05-04 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=LfyeCEEUz6Y"
