@@ -28,12 +28,26 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
-20220607-Polemica:
-  titulo: "Polemica en /var - Noticias Mayo"
-  descripcion: "Noticias de mayo."
-  desde: "2022-06-07 22:00"
-  hasta: "2022-06-07 23:00"
-  ubicacion: "https://www.youtube.com/watch?v=?"
+20220729-Adminfest:
+  titulo: "Adminfest!"
+  descripcion: "TBD"
+  desde: "2022-07-29 19:00"
+  hasta: "2022-07-29 23:00"
+  ubicacion: "TBD"
+
+20220608-Polemica:
+  titulo: "Polémica en /Var - Las noticias de Mayo"
+  descripcion: "Tenías plata en $luna? F. Tenías plata en Bitcoin? F. Tenías NFT? F. Repasamos las noticias del mes y qué pasó con #crypto que se fué todo al tacho."
+  desde: "2022-06-08 22:00"
+  hasta: "2022-06-08 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=NCBYK9GElHo"
+
+20220601-Polemica:
+  titulo: "Polémica en /var - Hola {candidato}"
+  descripcion: "En este episodio vamos a estar repasando algunos datos que nos muestra la verdad sobre no solo cómo aplicamos a posiciones laborales, sino como las empresas contratan ¿Cómo es la cocina del otro lado de reclutamiento?"
+  desde: "2022-06-01 22:00"
+  hasta: "2022-06-01 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=i-9w4ZRSH4c"
 
 20220512-Adminbirras:
   titulo: "#AdminBirras"
@@ -48,10 +62,3 @@
   desde: "2022-05-04 22:00"
   hasta: "2022-05-04 23:00"
   ubicacion: "https://www.youtube.com/watch?v=LfyeCEEUz6Y"
-  
-20220729-Adminfest:
-  titulo: "Adminfest!"
-  descripcion: "TBD"
-  desde: "2022-07-29 19:00"
-  hasta: "2022-07-29 23:00"
-  ubicacion: "TBD"
