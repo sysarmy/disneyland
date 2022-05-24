@@ -12,7 +12,6 @@ Con el correr de los años probamos diferentes plataformas, 💣 emails, 💩 sp
 
 ### ¿Ok, soy una persona del bien y quiero colaborar <img src="https://raw.githubusercontent.com/sysarmy/disneyland/master/misc/images/shovel.png" width="24">, cómo hago?
 
-
 Una de las 💡 centrales de la comunidad es que quien quiera colaborar pueda hacerlo. Como primer paso podes 🔎 chusmear la [lista de issues abiertos](https://github.com/sysarmy/disneyland/issues) para ver si alguno llama tu atención. Sirve mucho que si encontrás un issue mal definido o que no se entiende dejes una pregunta para que quien lo creó pueda expandir la definición de la idea. Si viste algo que te interesó y querés agarrarlo, simplemente deja un comentario en el issue y dale nomás.
 
 ### ¿Hay algún lugar para discutir la magia de Disney que no sean los issues?
@@ -23,6 +22,10 @@ Sí, podes sumarte a Slack [<img width="15px" src="https://cdn.jsdelivr.net/npm/
 ### ¿Puedo proponer cosas?
 
 Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin compromisos.
+
+### ¿Cuál es la url al calendario de eventos para sumarlo a mi google calendar?
+
+[Link al calendar](https://calendar.google.com/calendar/u/0/embed?src=c_ntsrg10qsjmfeshhgap8ane1ss@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires)
 
 ### 🆘 Últimas Preguntas en /help
 
