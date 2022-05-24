@@ -128,10 +128,16 @@ def get_calendar_future_events(api_service):
         # La idea general es crear eventos nuevos y updatear los ya existentes,
         # así que solo nos quedamos con los eventos futuros.
         for event in set_events["items"]:
-            event_start_date = dt.strptime(
-                event["start"]["dateTime"][:19],
-                "%Y-%m-%dT%H:%M:%S",
-            )
+            try:
+                event_start_date = dt.strptime(
+                    event["start"]["dateTime"][:19],
+                    "%Y-%m-%dT%H:%M:%S",
+                )
+            except KeyError:
+                event_start_date = dt.strptime(
+                    event["start"]["date"][:19],
+                    "%Y-%m-%d",
+                )
             if event_start_date > dt.now():
                 future_set_events.append(event)
 
