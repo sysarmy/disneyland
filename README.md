@@ -40,11 +40,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qué es realmente la observabilidad y por qué es importante](https://sysarmy.com/blog/posts/observabilidad/)
 - [Evitar y recuperarse del _burnout_ trabajando en sistemas](https://sysarmy.com/blog/posts/evitar-burnout-en-sistemas/)
 - [Guardias para empresas sin impresoras de dinero](https://sysarmy.com/blog/posts/oncall-sin-impresoras-de-dinero/)
 - [Sitios De Trabajo Remoto](https://sysarmy.com/blog/posts/sitios-de-trabajo-remoto/)
 - [¿Qué proyectos hago para crecer como programador/a?](https://sysarmy.com/blog/posts/proyectos-programadores/)
-- [Resultados de la Encuesta de sueldos 2022.1](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2022-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
