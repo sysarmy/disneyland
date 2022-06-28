@@ -35,6 +35,13 @@
   hasta: "2022-07-29 23:00"
   ubicacion: "TBD"
 
+20220629-Polemica:
+  titulo: "Polémica en /var - Shut up and hire me"
+  descripcion: "¿Qué contratan las empresas hoy? ¿Cómo viene el mercado de pases de talentos? Nos sentamos con invitados de Turing para repasar algunos números sobre como vienen las contrataciones en tecnología: que skills se piden, los puestos hot, y por qué odiamos LinkedIn (?)"
+  desde: "2022-06-29 22:00"
+  hasta: "2022-06-29 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=9h81p7rnsJo"
+
 20220608-Polemica:
   titulo: "Polémica en /Var - Las noticias de Mayo"
   descripcion: "Tenías plata en $luna? F. Tenías plata en Bitcoin? F. Tenías NFT? F. Repasamos las noticias del mes y qué pasó con #crypto que se fué todo al tacho."
