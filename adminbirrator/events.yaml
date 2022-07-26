@@ -34,7 +34,14 @@
   desde: "2022-07-29 19:00"
   hasta: "2022-07-29 23:00"
   ubicacion: "TBD"
-  
+
+20220727-Polemica10años:
+  titulo: "Polémica en /var - 10 años"
+  descripcion: "Festejamos el #SysAdminDay y 10 años de Sysarmy con el estreno del piloto inédito de Polémica en /var de 2013. No olviden traer una copa de su bebida favorita para brindar."
+  desde: "2022-07-27 22:00"
+  hasta: "2022-07-27 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=Htoca3PynFs"
+
 20220706-Polemica:
   titulo: "Polémica en /var - Las noticias de Junio"
   descripcion: "El advenimiento de Skynet, castores que cortan cables, gente mal paga, muere Internet explorer, Empleado borra todo sin backup. En fin...lo de siempre. Con ustedes, las noticias del mes que realmente importan."
