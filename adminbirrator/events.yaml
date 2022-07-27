@@ -915,11 +915,11 @@
   ubicacion: https://app.swapcard.com/event/nerdearla-101v2/planning/UGxhbm5pbmdfOTYxNTk2
 
 20220729-Adminfest:
-  titulo: "Adminfest!"
-  descripcion: "TBD"
+  titulo: "#AdminFest 🍻"
+  descripcion: "Nos juntamos nuevamente a celebrar el día del sysadmin y los 10 años de @sysarmy. Sysarmy invita la primera ronda!"
   desde: "2022-07-29 19:00"
-  hasta: "2022-07-29 23:00"
-  ubicacion: "TBD"
+  hasta: "2022-07-29 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
 
 20220727-Polemica10años:
   titulo: "Polémica en /var - 10 años"
