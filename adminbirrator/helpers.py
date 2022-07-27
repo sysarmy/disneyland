@@ -88,7 +88,7 @@ def get_calendar_format(raw_event):
     event_content = {
         "summary": raw_event["titulo"],
         "location": raw_event["ubicacion"],
-        "description": f"{raw_event['descripcion']}{adminbirrator_trail if 'nerdearla' not in raw_event['ubicacion'].lower() else ''}",
+        "description": f"{raw_event['descripcion']}{adminbirrator_trail if 'nerdearla' not in raw_event['ubicacion'].lower() else ''}" if raw_event['descripcion'] != "" else raw_event['titulo'],
         "start": {
             "dateTime": "T".join(raw_event["desde"].split()) + ":00-03:00",
             "timeZone": "America/Argentina/Buenos_Aires",
