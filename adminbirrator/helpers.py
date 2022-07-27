@@ -83,10 +83,12 @@ def get_calendar_format(raw_event):
         dict: diccionario formateado listo para mandar a la API.
     """
 
+    adminbirrator_trail = "\n\nEvento creado por <a href='https://github.com/sysarmy/disneyland/tree/master/adminbirrator'>Adminbirrator</a> 🍻"
+
     event_content = {
         "summary": raw_event["titulo"],
         "location": raw_event["ubicacion"],
-        "description": f"{raw_event['descripcion']}\n\nEvento creado por <a href='https://github.com/sysarmy/disneyland/tree/master/adminbirrator'>Adminbirrator</a> 🍻",
+        "description": f"{raw_event['descripcion']}{adminbirrator_trail if 'nerdearla' not in raw_event['ubicacion'].lower() else ''}",
         "start": {
             "dateTime": "T".join(raw_event["desde"].split()) + ":00-03:00",
             "timeZone": "America/Argentina/Buenos_Aires",
