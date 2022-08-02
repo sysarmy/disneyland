@@ -1,4 +1,4 @@
-# Películas y series para gente de sistemas
+# 🎥 Películas y series para gente de sistemas 🤓
 
 La idea es armar una lista comunitaria de películas y series que creemos que le podría gustar a gente nerd o de sistemas!
 
