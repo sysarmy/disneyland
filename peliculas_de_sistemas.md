@@ -27,3 +27,4 @@ Si considerás que falta alguna sugerencia copiá y modificá la última entrada
 | [Hackers](https://www.imdb.com/title/tt0113243/) (1995) | 6.2/10 | 68% | Se culpa a los piratas informáticos de crear un virus que hundirá cinco petroleros. | 👀 |
 | [The Social Network](https://www.imdb.com/title/tt1285016/) (2010) | 7.8/10 | 87% | Un estudiante de Harvard llamado Mark Zuckerberg crea un sitio de redes sociales conocido como Facebook, pero luego será demandado por dos hermanos que afirman que él robó su idea. | 👀 |
 | [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) (1999) | 7.2/10 | 92% | Los logros de los visionarios Steve Jobs y Bill Gates revolucionan el siglo XX. | 👀 |
+| [War Games](https://www.imdb.com/title/tt0086567/) (1983) | 7.1/10 | 76% | Un joven accede a un ordenador militar en el que confunde realidad con videojuego, arriesgando dar comienzo a la tercera guerra mundial. | 👀 |
