@@ -28,3 +28,8 @@ Si considerás que falta alguna sugerencia copiá y modificá la última entrada
 | [The Social Network](https://www.imdb.com/title/tt1285016/) (2010) | 7.8/10 | 87% | Un estudiante de Harvard llamado Mark Zuckerberg crea un sitio de redes sociales conocido como Facebook, pero luego será demandado por dos hermanos que afirman que él robó su idea. | 👀 |
 | [Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/) (1999) | 7.2/10 | 92% | Los logros de los visionarios Steve Jobs y Bill Gates revolucionan el siglo XX. | 👀 |
 | [War Games](https://www.imdb.com/title/tt0086567/) (1983) | 7.1/10 | 76% | Un joven accede a un ordenador militar en el que confunde realidad con videojuego, arriesgando dar comienzo a la tercera guerra mundial. | 👀 |
+| [TRON](https://www.imdb.com/title/tt0084827/) (1982) | 6.7/10 | 69% | Un hacker es secuestrado en el mundo digital y obligado a participar en juegos de gladiadores donde la ayuda de un programa de seguridad heroico es su única oportunidad de escapar. | 👀 |
+| [Electric Dreams](https://www.imdb.com/title/tt0087197/) (1984) | 6.4/10 | 71% | Un ordenador con inteligencia artificial y su dueño humano acaban rivalizando por el amor de una mujer. | 👀 |
+| [Ghost in the Shell (Kôkaku Kidôtai)](https://www.imdb.com/title/tt0113568/) (1995) | 7.9/10 | 89% | Una agente de policía ciborg y su compañero darán caza a un misterioso y poderoso pirata informático. | 👀 |
+
+
