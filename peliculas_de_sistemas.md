@@ -44,7 +44,7 @@ Si considerás que falta alguna sugerencia copiá y modificá la última entrada
 | [Source code](https://www.imdb.com/title/tt0945513/) (2011) | 7.5/10 | 82% | Un soldado se despierta en el cuerpo de otra persona y descubre que forma parte de un programa experimental para encontrar al bombardero de un tren. |![HBO Max](https://images.justwatch.com/icon/285237061/s40) |
 | [Antitrust](https://www.imdb.com/title/tt0218817/) (2001) | 6.1/10 | 50% | Un programador descubre que su sueño de trabajar para una prestigiosa firma de Portland es en realidad una pesadilla, pues su jefe tiene más secretos que escrúpulos. | [👀](https://goo.gl/maps/rBLuoYjxi6ep5JAYA) |
 | [PI](https://www.imdb.com/title/tt0138704/) (1998) | 7.3/10 | 85% | Un matemático paranoico busca un número clave que desbloquee los patrones universales que se encuentran en la naturaleza. | [👀](https://goo.gl/maps/rBLuoYjxi6ep5JAYA) |
-| [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/) (2001) | 7.2/10 | 64% | Un niño robot altamente avanzado desea ser "de verdad" para ganarse el amor de su madre humana. | [👀](https://goo.gl/maps/rBLuoYjxi6ep5JAYA) |
+| [A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/) (2001) | 7.2/10 | 64% | Un niño robot altamente avanzado desea ser "de verdad" para ganarse el amor de su madre humana. | ![Paramount Plus](https://www.justwatch.com/images/icon/242706661/s40) |
 | [Swordfish](https://www.imdb.com/title/tt0244244/) (2001) | 6.5/10 | 59% | Una unidad secreta llamada Black Cell, liderada por Gabriel Shear, requiere fondos para financiar su guerra contra el terrorismo. | [👀](https://goo.gl/maps/rBLuoYjxi6ep5JAYA) |
 
 
