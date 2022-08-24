@@ -33,13 +33,30 @@ Acá una captura de ejemplo:
 
 ![image](https://user-images.githubusercontent.com/38166071/186304510-892048a4-5020-4e7b-ad0b-90ccd43e8375.png)
 
+
+
 ## ¿Cuándo jugamos?
 
-TBC
+Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ningún día es 100% compatible para cada persona. Estamos abiertos a cambiar el schedule via voluntad popular :)
+
+1) A las 20hs, unite al canal de voz #gaming en Discord
+2) Charlamos, seteamos misiones / objetivos y compartimos la password para subirse al server
+
+## PRIMERA TEMPORADA
+
+Innaugurando la primera temporada el objetivo va a ser completar el juego (matar a los 5 jefes) entre todos, de forma colaborativa. Juntando recursos, armando una buena base para el equipo. Y lo que pinte también. Esta va a ser la primera temporada, y cuando la completemos, vamos a plantear challenges y misiones más divertidas como "building", mods, PVP, etc.
+
+Reglas y forma de jugar:
+
+1) Todos deben crearse un PJ nuevo - desde cero - para la temporada
+2) No se permite traer o llevarse ningún item o recurso del mapa del server. Apelamos al código de honor vikingo.
+3) Todo lo que hacemos es en consenso y en equipo durante nuestras sesiones. No se permite destruir estructuras o avanzar de forma individual
+4) Probablemente hagamos streaming de algunas de nuestras sesiones en Twitch. Vamos a cagarnos de risa pero a tratarnos de forma respetuosa. Si hay disputas de territorio / honor: hacemos PVP.
+
+## Consultas, sugerencias, etc.
+
+Todo lo que quieras saber sobre como unirte, como colaborar para hacer el server más divertido, sugerencias de mejora, y demases contactanos por el canal #gaming en Discord!
+
 
 ## TODO:
-- Completar la parte de cuando jugamos.
-- Reglas?
 - Revisión general de todo el contenido.
-- Aclarar que tiene password, ver cómo se comunicaría para no dejarla pública.
-- Aclarar que la idea es que creemos un pj nuevo?
