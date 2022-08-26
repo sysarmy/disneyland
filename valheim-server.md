@@ -1,9 +1,17 @@
-![Banner](https://user-images.githubusercontent.com/38166071/186303117-4c37836e-b5cc-4786-a5ce-af73d8c6802c.png)
+![Banner](https://user-images.githubusercontent.com/38166071/186810820-b29eaaa9-c6ae-4d92-b3a9-456b177c4a16.png)
 ---
 
 ¡Te damos la bienvenida al servidor de Valheim de la comunidad de **Sysarmy**!
 
 Porque a veces cerrar tickets y romper prod no dan suficiente adrenalina como jugar a ser vikingos cazadores de trolles gigantes.
+
+- **Tabla de Contenidos**
+  - [¿Qué es Valheim?](#qué-es-valheim)
+  - [Requisitos técnicos](#requisitos-técnicos)
+  - [Cómo unirme al server](#cómo-unirme-al-server)
+  - [¿Cuándo jugamos?](#cuándo-jugamos)
+    - [PRIMERA TEMPORADA](#primera-temporada)
+  - [Consultas y sugerencias](#consultas-sugerencias-etc)
 
 ## ¿Qué es Valheim?
 
@@ -11,7 +19,7 @@ Un tremendo juego de exploración y supervivencia para 1 a 10 jugadores, ambient
 
 El juego está disponible en Steam, una de las plataformas de distribución digital de videojuegos para PC más famosas, es muy barato, y [haciendo clic acá](https://store.steampowered.com/app/892970/Valheim/) podés ir directo a la página del juego.
 
-La forma más fácil de encontrarnos para jugar es en el canal de **#gaming👾** en nuestro [servidor de Discord](https://sysar.my/discord). 
+La forma más fácil de encontrarnos para jugar es en el canal de **#gaming👾** en nuestro [servidor de Discord](https://sysar.my/discord).
 
 ## Requisitos técnicos
 
@@ -33,8 +41,6 @@ Acá una captura de ejemplo:
 
 ![image](https://user-images.githubusercontent.com/38166071/186304510-892048a4-5020-4e7b-ad0b-90ccd43e8375.png)
 
-
-
 ## ¿Cuándo jugamos?
 
 Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ningún día es 100% compatible para cada persona. Estamos abiertos a cambiar el schedule via voluntad popular :)
@@ -44,7 +50,7 @@ Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ning
 
 ## PRIMERA TEMPORADA
 
-Innaugurando la primera temporada el objetivo va a ser completar el juego (matar a los 5 jefes) entre todos, de forma colaborativa. Juntando recursos, armando una buena base para el equipo. Y lo que pinte también. Esta va a ser la primera temporada, y cuando la completemos, vamos a plantear challenges y misiones más divertidas como "building", mods, PVP, etc.
+Inaugurando la primera temporada el objetivo va a ser completar el juego (matar a los 5 jefes) entre todos, de forma colaborativa. Juntando recursos, armando una buena base para el equipo. Y lo que pinte también. Esta va a ser la primera temporada, y cuando la completemos, vamos a plantear challenges y misiones más divertidas como "building", mods, PVP, etc.
 
 Reglas y forma de jugar:
 
@@ -55,8 +61,8 @@ Reglas y forma de jugar:
 
 ## Consultas, sugerencias, etc.
 
-Todo lo que quieras saber sobre como unirte, como colaborar para hacer el server más divertido, sugerencias de mejora, y demases contactanos por el canal #gaming en Discord!
+Todo lo que quieras saber sobre cómo unirte, como colaborar para hacer el server más divertido, sugerencias de mejora, y demases contactanos por el canal **#gaming👾** en [Discord](https://sysar.my/discord)!
 
-
-## TODO:
-- Revisión general de todo el contenido.
+<p align="center">
+  <img src="https://media.giphy.com/media/H7NpdsDFxjeY1wAdzJ/giphy.gif" />
+</p>
