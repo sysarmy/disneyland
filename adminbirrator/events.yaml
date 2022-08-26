@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20220902-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "Nos juntamos a jugar Valheim entre toda la comunidad! Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
+  desde: "2022-08-02 20:00"
+  hasta: "2022-08-02 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220829-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "Inauguramos la primera temporada de Valheim entre toda la comunidad! Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
+  desde: "2022-08-29 20:00"
+  hasta: "2022-08-29 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
 20220810-Polemica:
   titulo: "Polémica en /var - Las noticias de Julio"
   descripcion: "Repasamos #nerdearla101 y las noticias de Julio que vienen bastante picantes. Perdón por el thumbnail pero tenemos el conference blues."
