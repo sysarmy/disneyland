@@ -39,7 +39,7 @@ Valheim está disponible tanto para Windows como para Linux nativamente, lo buen
 
 Acá una captura de ejemplo:
 
-![image](https://user-images.githubusercontent.com/38166071/186304510-892048a4-5020-4e7b-ad0b-90ccd43e8375.png)
+![Captura de pantalla con el lobby del servidor](https://user-images.githubusercontent.com/38166071/187077951-ecf183ae-a011-44a1-99ed-372a5b3640b9.png)
 
 ## ¿Cuándo jugamos?
 
@@ -48,7 +48,11 @@ Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ning
 1) A las 20hs, unite al canal de voz #gaming en Discord
 2) Charlamos, seteamos misiones / objetivos y compartimos la password para subirse al server
 
+También podés [suscribirte a nuestro calendario de la comunidad](https://calendar.google.com/calendar/u/0/r?cid=c_ntsrg10qsjmfeshhgap8ane1ss@group.calendar.google.com), donde no solo vamos a crear eventos para cada juntada vikinga sino también el resto de los eventos de la comunidad de Sysarmy!
+
 ## PRIMERA TEMPORADA
+
+![Imagen en el juego con el logo de Sysarmy](https://user-images.githubusercontent.com/38166071/187077801-b165af85-39e4-4666-9841-86d4339e6e1d.png)
 
 Inaugurando la primera temporada el objetivo va a ser completar el juego (matar a los 5 jefes) entre todos, de forma colaborativa. Juntando recursos, armando una buena base para el equipo. Y lo que pinte también. Esta va a ser la primera temporada, y cuando la completemos, vamos a plantear challenges y misiones más divertidas como "building", mods, PVP, etc.
 
