@@ -43,7 +43,7 @@ def filter_events(events_file):
             dt.strptime(all_events[event]["hasta"], "%Y-%m-%d %H:%M")
 
             # Si tienen fecha futura los guardamos, sino se descartan.
-            if event_date > dt.now(pytz.timezone('America/Argentina/Buenos_Aires')):
+            if event_date.timestamp() > dt.now(pytz.timezone('America/Argentina/Buenos_Aires')).timestamp():
                 future_events[event] = get_calendar_format(all_events[event])
             else:
                 past_events += 1
