@@ -17,6 +17,7 @@ protobuf==3.20.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pyparsing==3.0.9
+pytz==2022.2.1
 PyYAML==6.0
 requests==2.27.1
 rsa==4.8
