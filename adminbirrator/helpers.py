@@ -2,6 +2,7 @@ import base64
 import json
 import sys
 import yaml
+import pytz
 
 from datetime import datetime as dt
 from google.oauth2 import service_account
@@ -42,7 +43,7 @@ def filter_events(events_file):
             dt.strptime(all_events[event]["hasta"], "%Y-%m-%d %H:%M")
 
             # Si tienen fecha futura los guardamos, sino se descartan.
-            if event_date > dt.now():
+            if event_date > dt.now(pytz.timezone('America/Argentina/Buenos_Aires')):
                 future_events[event] = get_calendar_format(all_events[event])
             else:
                 past_events += 1
