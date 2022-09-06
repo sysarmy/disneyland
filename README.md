@@ -51,11 +51,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /var - Las noticias de Agosto](https://www.youtube.com/watch?v=E7ZLxwyPd-g)
 - [Polémica en /var - Las noticias de Julio](https://www.youtube.com/watch?v=0IJBd3Wnyd8)
 - [Polémica en /var - 10 años](https://www.youtube.com/watch?v=Htoca3PynFs)
 - [Polémica en /var - Las noticias de Junio](https://www.youtube.com/watch?v=oY1BhKgrkFQ)
 - [Polémica en /var - Shut up and hire me](https://www.youtube.com/watch?v=9h81p7rnsJo)
-- [Polémica en /Var - Las noticias de Mayo](https://www.youtube.com/watch?v=NCBYK9GElHo)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
