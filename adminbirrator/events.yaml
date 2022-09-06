@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20220907-Polemica:
+  titulo: "Polémica en /var - Las noticias de Agosto"
+  descripcion: "Repasamos las noticias de Agosto."
+  desde: "2022-09-07 22:00"
+  hasta: "2022-09-07 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=TBD"
+
 20220909-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
   descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
