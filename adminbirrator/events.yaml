@@ -28,12 +28,6 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
-20220907-Polemica:
-  titulo: "Polémica en /var - Las noticias de Agosto"
-  descripcion: "Repasamos las noticias de Agosto, entre fibras ópticas caseras, layoffs masivos y curiosidades técnicas. Y obviamente Doom, mucho Doom."
-  desde: "2022-09-07 22:00"
-  hasta: "2022-09-07 23:00"
-  ubicacion: "https://www.youtube.com/watch?v=E7ZLxwyPd-g"
 
 20220909-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
@@ -41,6 +35,20 @@
   desde: "2022-09-09 20:00"
   hasta: "2022-09-09 22:00"
   ubicacion: "https://www.twitch.tv/maragunde"
+
+20220908-Metadata:
+  titulo: "#Metadata - Pergamino"
+  descripcion: "Evento de tecnología organizado por la comunidad de sistemas de Pergamino, totalmente gratuito. Más información en: https://scrollarmy.com.ar/event.html"
+  desde: "2022-09-08 18:00"
+  hasta: "2022-09-08 21:00"
+  ubicacion: "Echevarría 549, Pergamino, Provincia de Buenos Aires"
+
+20220907-Polemica:
+  titulo: "Polémica en /var - Las noticias de Agosto"
+  descripcion: "Repasamos las noticias de Agosto, entre fibras ópticas caseras, layoffs masivos y curiosidades técnicas. Y obviamente Doom, mucho Doom."
+  desde: "2022-09-07 22:00"
+  hasta: "2022-09-07 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=E7ZLxwyPd-g"
   
 20220905-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
