@@ -15,7 +15,8 @@ Si considerás que falta alguna sugerencia copiá y modificá la última entrada
 | [The IT Crowd](https://www.imdb.com/title/tt0487831/) (2006) | 8.5/10 | 89% | Las desventuras de Roy, Moss y su supervisora Jen, que forman un equipo de soporte técnico en una gran empresa. | ![Netflix](https://images.justwatch.com/icon/207360008/s40) |
 | [The Big Bang Theory](https://www.imdb.com/title/tt0898266/) (2007) | 8.2/10 | 82% | Una chica se muda a un apartamento frente al de unos físicos sumamente inteligentes pero socialmente raros y les demuestra lo poco que conocen de la vida fuera del laboratorio. | ![HBO Max](https://images.justwatch.com/icon/285237061/s40) |
 | [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) (2021) | 8/10 | 97% | En el Berlín de los años 90, un artista y un hacker inventan una nueva forma de ver el mundo. Y se reúnen para demandar a Google por infringir la patente de la misma. | ![Netflix](https://images.justwatch.com/icon/207360008/s40) |
-| [Devs](https://www.imdb.com/title/tt8134186/) (2020) | 7.7/10 | 78% | Una ingeniera informática investiga una división de desarrollo secreta en su compañía, la cual cree que está detrás de la desaparición de su novio. | ![Hulu](https://images.justwatch.com/icon/116305230/s40)|
+| [Devs](https://www.imdb.com/title/tt8134186/) (2020) | 7.7/10 | 78% | Una ingeniera informática investiga una división de desarrollo secreta en su compañía, la cual cree que está detrás de la desaparición de su novio. | ![Hulu](https://images.justwatch.com/icon/116305230/s40)
+[Black Mirror](https://www.imdb.com/title/tt2085059/) (2011) | 8.8/10 | 84% | La antológica serie explora un torcido y tecnológico mundo donde las más grandes innovaciones y oscuros instintos humanos colisionan. | ![👀](https://goo.gl/maps/rBLuoYjxi6ep5JAYA)$|
 
 ## Películas
 
