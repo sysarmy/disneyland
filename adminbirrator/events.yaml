@@ -28,6 +28,12 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20221006-Adminbirras:
+  titulo: "#AdminBirras Octubre 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen. Más detalles en https://www.meetup.com/es/sysarmy/events/288744666/"
+  desde: "2022-10-06 19:00"
+  hasta: "2022-10-06 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
 
 20220930-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
@@ -35,7 +41,6 @@
   desde: "2022-09-30 20:00"
   hasta: "2022-09-30 22:00"
   ubicacion: "https://www.twitch.tv/maragunde"
-  
 
 20220926-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
