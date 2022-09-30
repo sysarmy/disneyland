@@ -41,11 +41,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El peor día de mi vida &lpar;profesional&rpar;](https://sysarmy.com/blog/posts/el-peor-dia-de-mi-vida-profesional/)
 - [Compensación por guardias](https://sysarmy.com/blog/posts/compensacion-por-guardias/)
 - [Resultados de la Encuesta de sueldos 2022.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2022-2/)
 - [Escritura para ingenier@s](https://sysarmy.com/blog/posts/la-importancia-de-la-escritura/)
 - [Qué es realmente la observabilidad y por qué es importante](https://sysarmy.com/blog/posts/observabilidad/)
-- [Evitar y recuperarse del _burnout_ trabajando en sistemas](https://sysarmy.com/blog/posts/evitar-burnout-en-sistemas/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
