@@ -52,10 +52,10 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 
 <!-- YOUTUBE:START -->
 - [Valheim Community Server - Amor por Bash](https://www.youtube.com/watch?v=Gkuo9gzwmbE)
+- [Valheim Community Server - Capturamos un CTO](https://www.youtube.com/watch?v=mCQN4U53IA8)
 - [Valheim Community Server - Esto no escala](https://www.youtube.com/watch?v=NnZbQxGVfkk)
 - [#Metadata: 5 Charlas IT, organiza Scrollarmy](https://www.youtube.com/watch?v=ZEFHD2Knrf4)
 - [Polémica en /var - Las noticias de Agosto](https://www.youtube.com/watch?v=E7ZLxwyPd-g)
-- [Polémica en /var - Las noticias de Julio](https://www.youtube.com/watch?v=0IJBd3Wnyd8)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
