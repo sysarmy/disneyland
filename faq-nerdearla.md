@@ -6,10 +6,12 @@ Faltan muy pocos días para #nerdearla y te acercamos las preguntas más frecuen
   - [¿Cuándo? ¿Virtual o presencial?](#cuándo-es-va-a-ser-virtual-o-presencial)
   - [¿Cuándo y dónde accedo?](#desde-cuándo-y-dónde-puedo-acceder-al-evento-virtual)
     - [¿Qué son los Tracks en Swapcard?](#qué-son-los-tracks-que-aparecen-en-swapcard)
+    - [¿Cuándo suben las charlas?](#las-charlas-quedan-grabadas-cuándo-y-a-dónde-las-suben)
   - [¿A qué hora empieza? ¿Hay agenda?](#a-qué-hora-empiezan-las-charlas-dónde-veo-la-agenda)
   - [¿Hay evento presencial?](#puedo-ir-al-evento-presencial-dónde-es)
     - [Requisitos para ingreso presencial](#qué-necesito-para-el-ingreso-al-evento-presencial)
-  - [¿Cuándo suben las charlas?](#las-charlas-quedan-grabadas-cuándo-y-a-dónde-las-suben)
+
+  - 
 
 ## **¿Cuándo es? ¿Va a ser virtual o presencial?**
 
@@ -17,7 +19,7 @@ El evento será desde el miércoles 19 de octubre al sábado 22 de octubre, en *
 
 | Día | Presencial | Virtual |
 | --- | :--------: | :-----: |
-| **Miércoles 19/10** | **No.** | Evento **100% virtual** en [Swapcard](https://nerdear.live/). |
+| **Miércoles 19/10** | **No. ⛔️** | Evento **100% virtual** en [Swapcard](https://nerdear.live/). |
 | **Jueves 20/10** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
 | **Viernes 21/10** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
 | **Sábado 22/10** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
@@ -35,7 +37,6 @@ Hacé click acá para empezar: https://nerdear.live/
 Los Tracks son como "escenarios virtuales" donde vas a podes ver las charlas, diferenciadas por temática.
 
 Podés ver uno u otro cuando quieras, ya que muchas de las charlas van a ser en simultáneo. Si justo tenés charlas que te interesan en simultáneo, todas quedan grabadas así que la podes ver on-demand desde nuestro [canal de Youtube](https://www.youtube.com/c/nerdearla).
-
 
 ## **¿Las charlas quedan grabadas? ¿Cuándo y a dónde las suben?**
 Las charlas se graban y quedan subidas en el [canal de YouTube de Nerdearla](https://www.youtube.com/c/nerdearla). También vas a poder accederlas desde Swapcard ya que queda linkeado el video de YouTube.
