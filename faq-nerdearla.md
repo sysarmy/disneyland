@@ -38,7 +38,7 @@ Podés ver uno u otro cuando quieras, ya que muchas de las charlas van a ser en 
 
 
 ## **¿Las charlas quedan grabadas? ¿Cuándo y a dónde las suben?**
-Las charlas se graban y quedan subidas en el [canal de YouTube de Nerdearla](https://www.youtube.com/c/nerdearla). También vas a poder accederlas desde Swapcard ya que queda linkeado el video de YouTube. ¡No hay que esperar para volver a verlas, se suben en el momento!
+Las charlas se graban y quedan subidas en el [canal de YouTube de Nerdearla](https://www.youtube.com/c/nerdearla). También vas a poder accederlas desde Swapcard ya que queda linkeado el video de YouTube.
 
 ## **¿A qué hora empiezan las charlas? ¿Dónde veo la agenda?**
 
@@ -51,12 +51,15 @@ Sí! Este año nos reencontramos en el evento presencial en [Ciudad Cultural Kon
 A diferencia del [#nerdearla101](https://github.com/sysarmy/disneyland/blob/master/faq-101.md) pasado, NO hay cupos cupos presenciales limitados, solamente está limitado a la cantidad de personas que entren del predio. ¡Te esperamos allá!
 
 ### **¿Qué necesito para el ingreso al evento presencial?**
+
 Tu DNI/Pasaporte únicamente. No hace falta imprimir un mail, no hay un QR. **SOLO TU DNI/PASAPORTE**. Si vas con idea de ver alguna de las charlas presenciales, tené en cuenta que al inicio se puede armar una fila en la registración, así que tratá de calcular con tiempo.
 
 ### **No me registré para ir presencialmente, ¿puedo ir igual?**
+
 ¡Sí! Pero tenés que haberte [registrado previamente](https://registro.nerdear.la/), en ese caso te van a pedir tu DNI/Pasaporte en mesa de entrada.
 
 ### **¿Cuántas filas de registro va a haber?**
+
 Sobre Sarmiento habrá una fila, que luego en el espacio de registro se dividirá en tres, para agilizar el proceso:
 * Con laptop (se le pegará una etiqueta identificatoria igual a la de tu badge para controlar a la salida)
 * Sin laptop
@@ -64,6 +67,7 @@ Sobre Sarmiento habrá una fila, que luego en el espacio de registro se dividir�
 El personal de entrada te indicará por dónde registrarte al ingresar.
 
 ### **¿Qué debo llevar para aprovechar el evento al máximo?**
+
 * Laptop o dispositivo móvil si venís a participar del coworking
 * Auriculares por si querés ver alguna de las charlas online o tener alguna videollamada
 * Cargador, porque vas a estar muchas horas en el Konex ;)
@@ -71,9 +75,11 @@ El personal de entrada te indicará por dónde registrarte al ingresar.
 * **Nunca descuides tus pertenencias**
 
 ### **Voy con mi hijo/a menor de edad, ¿se tiene que registrar?**
+
 Menores de 15 años no necesitan registrarse.
 
 ### **¿Va a haber actividades infantiles?**
+
 ¡Sí! El sábado 22:
 * Espacio de RASTI para que jueguen a armar con sus bloques
 * Espacio Filgo para que dibujen/pinten
@@ -81,6 +87,7 @@ Menores de 15 años no necesitan registrarse.
 Del jueves al sábado funcionará dentro del predio un lactario/cambiador. Consultá con alguien de la organización si necesitás usarlo.
 
 ### **¿Se suspende por lluvia☔️?**
+
 **NO**, es un clásico de Nerdearla que llueva alguno de los días del evento así que abrigate, ¡traé paraguas/sobretodo y venite!
 
 #### 💡 ¿Tenés dudas, consultas o inquietudes que no estén en este F.A.Q? Escribinos a [`help@nerdear.la`](mailto:help@nerdear.la)
