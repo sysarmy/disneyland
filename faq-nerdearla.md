@@ -10,6 +10,13 @@ Faltan muy pocos días para #nerdearla y te acercamos las preguntas más frecuen
   - [¿A qué hora empieza? ¿Hay agenda?](#a-qué-hora-empiezan-las-charlas-dónde-veo-la-agenda)
   - [¿Hay evento presencial?](#puedo-ir-al-evento-presencial-dónde-es)
     - [Requisitos para ingreso presencial](#qué-necesito-para-el-ingreso-al-evento-presencial)
+    - [¿Puedo ir presencial si no marqué la opción?](#no-me-registré-para-ir-presencialmente-puedo-ir-igual)
+    - [¿Cuántas filas de registro van a haber?](#cuántas-filas-de-registro-va-a-haber)
+    - [¿Cómo hago si voy presencial y quiero ver una charla virtual?](#cómo-hago-si-voy-presencial-y-quiero-ver-una-charla-virtual)
+    - [Qué llevar para aprovechar el evento al máximo](#qué-debo-llevar-para-aprovechar-el-evento-al-máximo)
+    - [¿Se tienen que registrar menores de edad?](#voy-con-mi-hijoa-menor-de-edad-se-tiene-que-registrar)
+    - [¿Van a haber actividades infantiles?](#va-a-haber-actividades-infantiles)
+    - [¿Se suspende por lluvia?](#se-suspende-por-lluvia%EF%B8%8F)
 
 ## **¿Cuándo es? ¿Va a ser virtual o presencial?**
 
@@ -63,7 +70,12 @@ Sobre Sarmiento habrá una fila, que luego en el espacio de registro se dividir�
 * Con laptop (se le pegará una etiqueta identificatoria igual a la de tu badge para controlar a la salida)
 * Sin laptop
 * Speakers, Sponsors, Prensa
+
 El personal de entrada te indicará por dónde registrarte al ingresar.
+
+### **¿Cómo hago si voy presencial y quiero ver una charla virtual?**
+
+En el Konex vas a tener un espacio de coworking con conexión a Wi-Fi donde vas a poder sentarte con tu computadora, tablet o celular a disfrutar de todo el contenido virtual. ¡No te olvides tus auriculares!
 
 ### **¿Qué debo llevar para aprovechar el evento al máximo?**
 
@@ -83,6 +95,7 @@ Menores de 15 años no necesitan registrarse.
 * Espacio de RASTI para que jueguen a armar con sus bloques
 * Espacio Filgo para que dibujen/pinten
 * Geek Out con juegos de mesa
+
 Del jueves al sábado funcionará dentro del predio un lactario/cambiador. Consultá con alguien de la organización si necesitás usarlo.
 
 ### **¿Se suspende por lluvia☔️?**
