@@ -11,8 +11,6 @@ Faltan muy pocos días para #nerdearla y te acercamos las preguntas más frecuen
   - [¿Hay evento presencial?](#puedo-ir-al-evento-presencial-dónde-es)
     - [Requisitos para ingreso presencial](#qué-necesito-para-el-ingreso-al-evento-presencial)
 
-  - 
-
 ## **¿Cuándo es? ¿Va a ser virtual o presencial?**
 
 El evento será desde el miércoles 19 de octubre al sábado 22 de octubre, en **formato híbrido**:
