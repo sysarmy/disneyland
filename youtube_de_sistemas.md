@@ -34,6 +34,10 @@ Videos de la conferencia organizada por Sysarmy.
 Videos introductorios a Cloud computing, containers, certificaciones y buenas practicas en AWS 
 - [Damian Olguin AWS Hero](https://www.youtube.com/c/DamianOlguinAWSHERO/)
 
+### Hola Mundo
+Videos con cursos de programación y curiosidades
+- [Damian Olguin AWS Hero](https://www.youtube.com/c/HolaMundoDev/featured)
+
 
 ## English
 
@@ -65,19 +69,34 @@ On this channel, I discuss Python, Network Automation, Ethical Hacking, Networki
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
 
 ### Craft Computing
-
  Computer builds, tutorials, reviews, news and information, presented the only way I know how.
 
 - [Craft Computing](https://www.youtube.com/c/CraftComputing/about)
 
 ### Techno Tim
-
  I make videos that help people do awesome things with technology.
 
 - [Techno Tim](https://www.youtube.com/c/TechnoTimLive)
 
 ### Lawrence Systems / PC Pickup
-
 We discuss and create tutorials for firewalls, storage solutions, MSP tools, security tools and open source topics. 
 
 - [Lawrence Systems](https://www.youtube.com/user/TheTecknowledge/about)
+
+### Jeff Geerling
+K8s, Ansible, Raspberry Pi, photography, tech, DIY, tools, etc. Most anything has the potential for showing up on this channel. I might focus on one thing someday, but it's more fun to do ALL THE THINGS!
+
+- [Jeff Geerling](https://www.youtube.com/c/JeffGeerling/about)
+
+### Anais Urlichs
+Hey there, my name is Anais. I am an open source Developer Advocate at Aqua Security. I've made it my mission to share my entire learning journey across the DevOps space publicly! 
+What you can expect from this channel? -- I talk about platforms, tutorials, code examples, and everything in between.
+
+You Can Learn Anything -- with just the right resources and guidance, so let's get started!
+
+- [Anais Urlichs](https://www.youtube.com/c/AnaisUrlichs/about)
+
+### DistroTube 
+DistroTube (DT) is a YouTube channel started by me, Derek Taylor (also DT), in October 2017.  Topics include Linux distro reviews, news, opinion and tutorials.  Some of my favorite topics include the command line, tiling window managers, vim and emacs, free software and open source software.
+
+- [DistroTube ](https://www.youtube.com/c/DistroTube/about)S
