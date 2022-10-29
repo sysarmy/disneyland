@@ -51,11 +51,11 @@ Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Valheim Community Server - It&#39;s a peaceful life](https://www.youtube.com/watch?v=cwk7TC6ka6g)
 - [Polémica en /var - Las noticias de Septiembre](https://www.youtube.com/watch?v=GbZX5POy1Gs)
 - [Valheim Community Server - Amor por Bash](https://www.youtube.com/watch?v=Gkuo9gzwmbE)
 - [Valheim Community Server - Capturamos un CTO](https://www.youtube.com/watch?v=mCQN4U53IA8)
 - [Valheim Community Server - Esto no escala](https://www.youtube.com/watch?v=NnZbQxGVfkk)
-- [#Metadata: 5 Charlas IT, organiza Scrollarmy](https://www.youtube.com/watch?v=ZEFHD2Knrf4)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
