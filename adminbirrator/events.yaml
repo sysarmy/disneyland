@@ -28,12 +28,26 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20221104-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-04 20:00"
+  hasta: "2022-11-04 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
 20221103-Adminbirras:
   titulo: "#AdminBirras Noviembre 🍻"
   descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen. Más detalles en https://www.meetup.com/es-ES/sysarmy/events/289336148/"
   desde: "2022-11-03 19:00"
   hasta: "2022-11-03 22:00"
   ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
+20221031-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-10-31 20:00"
+  hasta: "2022-10-31 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
 
 20221028-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
