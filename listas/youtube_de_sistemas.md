@@ -1,6 +1,6 @@
 # 📹 Canales de YouTube  para la gente de sistemas 💻
 
-Lista de canales de Youtube que podrian guatar  a la gente nerd o de sistemas.
+Lista de canales de Youtube que podrian gustar a la gente nerd o de sistemas.
 
 Si consideras que falta alguna sugerencia no dudes en copiar y modificar la última entrada con los datos de tu canal favorito y [mandanos tu PR](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.es.md)!
 
