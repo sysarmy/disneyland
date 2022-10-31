@@ -24,9 +24,19 @@ Sí, podes sumarte a Slack [<img width="15px" src="https://cdn.jsdelivr.net/npm/
 
 Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin compromisos.
 
-### ¿Cuál es la url al calendario de eventos para sumarlo a mi google calendar?
+### ¿Cuál es la url al calendario de eventos para sumarlo a mi Google Calendar?
 
 [Link al calendar](https://calendar.google.com/calendar/u/0/embed?src=c_ntsrg10qsjmfeshhgap8ane1ss@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires)
+
+### :floppy_disk: Listas para gente de sistemas
+
+Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, contenidos, enlaces, etc. que creemos que le podrían gustar a gente nerd o de sistemas. ¡Sumá tu entrada!
+
+- :popcorn: [Películas y series](/listas/peliculas_de_sistemas.md)
+- :microphone: [Podcasts](/listas/podcasts_de_sistemas.md)
+- :space_invader: [Canales de Twitch](/listas/twitch_de_sistemas.md)
+- :video_camera: [Canales de YouTube](/listas/youtube_de_sistemas.md)
+
 
 ### 🆘 Últimas Preguntas en /help
 
