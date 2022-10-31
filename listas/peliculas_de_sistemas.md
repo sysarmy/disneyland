@@ -17,6 +17,7 @@ Si considerás que falta alguna sugerencia copiá y modificá la última entrada
 | [The Billion Dollar Code](https://www.imdb.com/title/tt15392100/) (2021) | 8/10 | 97% | En el Berlín de los años 90, un artista y un hacker inventan una nueva forma de ver el mundo. Y se reúnen para demandar a Google por infringir la patente de la misma. | ![Netflix](https://images.justwatch.com/icon/207360008/s40) |
 | [Devs](https://www.imdb.com/title/tt8134186/) (2020) | 7.7/10 | 78% | Una ingeniera informática investiga una división de desarrollo secreta en su compañía, la cual cree que está detrás de la desaparición de su novio. | ![Hulu](https://images.justwatch.com/icon/116305230/s40) |
 | [Black Mirror](https://www.imdb.com/title/tt2085059/) (2011) | 8.8/10 | 84% | La antológica serie explora un torcido y tecnológico mundo donde las más grandes innovaciones y oscuros instintos humanos colisionan. | ![Netflix](https://images.justwatch.com/icon/207360008/s40) |
+| [The playlist](https://www.imdb.com/title/tt11564258/) (2022) | 7.6/10 | 90% | En este relato ficticio, un emprendedor tecnológico sueco y sus socios se proponen revolucionar la industria de la música con una plataforma de streaming legal. | ![Netflix](https://images.justwatch.com/icon/207360008/s40) |
 
 ## Películas
 
