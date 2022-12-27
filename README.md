@@ -61,11 +61,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /var - Chau 2022](https://www.youtube.com/watch?v=J6vwodF1I9A)
 - [Valheim Community Server - Los pibes aguantan](https://www.youtube.com/watch?v=wPSmcUIjk-o)
 - [Polémica en /var - Las noticias de Octubre](https://www.youtube.com/watch?v=nQikyENPrjw)
 - [Valheim Community Server - Vicio](https://www.youtube.com/watch?v=rh9w4S4qLOg)
 - [Valheim Community Server - It&#39;s a peaceful life](https://www.youtube.com/watch?v=cwk7TC6ka6g)
-- [Polémica en /var - Las noticias de Septiembre](https://www.youtube.com/watch?v=GbZX5POy1Gs)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
