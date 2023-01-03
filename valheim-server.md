@@ -1,5 +1,6 @@
-![Banner](https://user-images.githubusercontent.com/38166071/186810820-b29eaaa9-c6ae-4d92-b3a9-456b177c4a16.png)
----
+![Banner](https://user-images.githubusercontent.com/21265443/210432658-8d6cd343-6c71-40d9-9372-4fa866c773f9.png)
+
+
 
 ¡Te damos la bienvenida al servidor de Valheim de la comunidad de **Sysarmy**!
 
@@ -57,6 +58,7 @@ Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ning
 También podés [suscribirte a nuestro calendario de la comunidad](https://calendar.google.com/calendar/u/0/r?cid=c_ntsrg10qsjmfeshhgap8ane1ss@group.calendar.google.com), donde no solo vamos a crear eventos para cada juntada vikinga sino también el resto de los eventos de la comunidad de Sysarmy!
 
 ## SEGUNDA TEMPORADA
+![2ndseasonbanner](https://user-images.githubusercontent.com/21265443/210432721-73ad2b22-7ca2-44a2-ac23-e353587d9ad4.png)
 
 En 2022 ya matamos a los primeros 5 jefes del juego (Yagluth siendo el último), y en esta segunda temporada nos vamos a estar adentrando en la nueva dinámica del juego que incluye magia. El objetivo es explorar y dominar "Mistlands", y finalmente vencer al jefe "The Queen"
 
