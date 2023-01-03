@@ -35,9 +35,8 @@ Acá una captura de ejemplo:
 
 ## SERVER HIGHLIGHTS
 
-¿Querés ver como nos divertimos el año pasado? Acá tenes un resumen con los mejores momentos de la primer temporada
+¿Querés ver como nos divertimos el año pasado? <a https://www.youtube.com/watch?v=wPSmcUIjk-o&list=PLPXjriojfnRUK61LK_oXpwkXstJBSqNtx&ab_channel=sysarmy">Acá</a> tenes un resumen con los mejores momentos de la primer temporada
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wPSmcUIjk-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Cuándo jugamos?
 
