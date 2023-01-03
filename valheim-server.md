@@ -39,7 +39,13 @@ Valheim está disponible tanto para Windows como para Linux nativamente, lo buen
 
 Acá una captura de ejemplo:
 
-![Captura de pantalla con el lobby del servidor](https://user-images.githubusercontent.com/38166071/187077951-ecf183ae-a011-44a1-99ed-372a5b3640b9.png)
+![image](https://user-images.githubusercontent.com/38166071/186304510-892048a4-5020-4e7b-ad0b-90ccd43e8375.png)
+
+## SERVER HIGHLIGHTS
+
+¿Querés ver como nos divertimos el año pasado? En el video de acá abajo tenés un resumen con los mejores momentos de la primer temporada:
+
+[![Video con highlights de la temporada 1](https://img.youtube.com/vi/wPSmcUIjk-o/0.jpg)](https://www.youtube.com/watch?v=wPSmcUIjk-o&list=PLPXjriojfnRUK61LK_oXpwkXstJBSqNtx&ab_channel=sysarmy)
 
 ## ¿Cuándo jugamos?
 
@@ -50,15 +56,13 @@ Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ning
 
 También podés [suscribirte a nuestro calendario de la comunidad](https://calendar.google.com/calendar/u/0/r?cid=c_ntsrg10qsjmfeshhgap8ane1ss@group.calendar.google.com), donde no solo vamos a crear eventos para cada juntada vikinga sino también el resto de los eventos de la comunidad de Sysarmy!
 
-## PRIMERA TEMPORADA
+## SEGUNDA TEMPORADA
 
-![Imagen en el juego con el logo de Sysarmy](https://user-images.githubusercontent.com/38166071/187077801-b165af85-39e4-4666-9841-86d4339e6e1d.png)
-
-Inaugurando la primera temporada el objetivo va a ser completar el juego (matar a los 5 jefes) entre todos, de forma colaborativa. Juntando recursos, armando una buena base para el equipo. Y lo que pinte también. Esta va a ser la primera temporada, y cuando la completemos, vamos a plantear challenges y misiones más divertidas como "building", mods, PVP, etc.
+En 2022 ya matamos a los primeros 5 jefes del juego (Yagluth siendo el último), y en esta segunda temporada nos vamos a estar adentrando en la nueva dinámica del juego que incluye magia. El objetivo es explorar y dominar "Mistlands", y finalmente vencer al jefe "The Queen"
 
 Reglas y forma de jugar:
 
-1) Todos deben crearse un PJ nuevo - desde cero - para la temporada
+1) Todos deben crearse un PJ nuevo - desde cero - para la temporada. Los usuarios que ya participaron en la primera temporada pueden seguir utilizando los mismos PJ.
 2) No se permite traer o llevarse ningún item o recurso del mapa del server. Apelamos al código de honor vikingo.
 3) Todo lo que hacemos es en consenso y en equipo durante nuestras sesiones. No se permite destruir estructuras o avanzar de forma individual
 4) Probablemente hagamos streaming de algunas de nuestras sesiones en Twitch. Vamos a cagarnos de risa pero a tratarnos de forma respetuosa. Si hay disputas de territorio / honor: hacemos PVP.
