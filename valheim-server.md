@@ -33,7 +33,11 @@ Acá una captura de ejemplo:
 
 ![image](https://user-images.githubusercontent.com/38166071/186304510-892048a4-5020-4e7b-ad0b-90ccd43e8375.png)
 
+## SERVER HIGHLIGHTS
 
+¿Querés ver como nos divertimos el año pasado? Acá tenes un resumen con los mejores momentos de la primer temporada
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wPSmcUIjk-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## ¿Cuándo jugamos?
 
@@ -42,13 +46,13 @@ Nos vamos a juntar todos los Lunes y Viernes a las 20:00 AR. Entendemos que ning
 1) A las 20hs, unite al canal de voz #gaming en Discord
 2) Charlamos, seteamos misiones / objetivos y compartimos la password para subirse al server
 
-## PRIMERA TEMPORADA
+## SEGUNDA TEMPORADA
 
-Innaugurando la primera temporada el objetivo va a ser completar el juego (matar a los 5 jefes) entre todos, de forma colaborativa. Juntando recursos, armando una buena base para el equipo. Y lo que pinte también. Esta va a ser la primera temporada, y cuando la completemos, vamos a plantear challenges y misiones más divertidas como "building", mods, PVP, etc.
+En 2022 ya matamos a los primeros 5 jefes del juego (Yagluth siendo el último), y en esta segunda temporada nos vamos a estar adentrando en la nueva dinámica del juego que incluye magia. El objetivo es explorar y dominar "Mistlands", y finalmente vencer al jefe "The Queen"
 
 Reglas y forma de jugar:
 
-1) Todos deben crearse un PJ nuevo - desde cero - para la temporada
+1) Todos deben crearse un PJ nuevo - desde cero - para la temporada. Los usuarios que ya participaron en la primera temporada pueden seguir utilizando los mismos PJ.
 2) No se permite traer o llevarse ningún item o recurso del mapa del server. Apelamos al código de honor vikingo.
 3) Todo lo que hacemos es en consenso y en equipo durante nuestras sesiones. No se permite destruir estructuras o avanzar de forma individual
 4) Probablemente hagamos streaming de algunas de nuestras sesiones en Twitch. Vamos a cagarnos de risa pero a tratarnos de forma respetuosa. Si hay disputas de territorio / honor: hacemos PVP.
