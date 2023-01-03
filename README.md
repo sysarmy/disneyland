@@ -24,38 +24,48 @@ Sí, podes sumarte a Slack [<img width="15px" src="https://cdn.jsdelivr.net/npm/
 
 Definitivamente, el espacio esta para darle rienda suelta a la imaginación sin compromisos.
 
-### ¿Cuál es la url al calendario de eventos para sumarlo a mi google calendar?
+### ¿Cuál es la url al calendario de eventos para sumarlo a mi Google Calendar?
 
 [Link al calendar](https://calendar.google.com/calendar/u/0/embed?src=c_ntsrg10qsjmfeshhgap8ane1ss@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires)
+
+### :floppy_disk: Listas para gente de sistemas
+
+Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, contenidos, enlaces, etc. que creemos que le podrían gustar a gente nerd o de sistemas. ¡Sumá tu entrada!
+
+- :popcorn: [Películas y series](/listas/peliculas_de_sistemas.md)
+- :microphone: [Podcasts](/listas/podcasts_de_sistemas.md)
+- :space_invader: [Canales de Twitch](/listas/twitch_de_sistemas.md)
+- :video_camera: [Canales de YouTube](/listas/youtube_de_sistemas.md)
+
 
 ### 🆘 Últimas Preguntas en /help
 
 <!-- HELP:START -->
+- [Test de performance de un router](https://help.sysarmy.com/discussion/4871/test-de-performance-de-un-router)
+- [Herramienta de Monitoreo de Apache Logs](https://help.sysarmy.com/discussion/4870/herramienta-de-monitoreo-de-apache-logs)
+- [Servidor para acumular temporalmente correos](https://help.sysarmy.com/discussion/4869/servidor-para-acumular-temporalmente-correos)
 - [¿Cómo puedo colaborar?](https://help.sysarmy.com/discussion/4868/como-puedo-colaborar)
 - [Implementación de Tryton &lpar;ERP&rpar;  - Modulos AFIP](https://help.sysarmy.com/discussion/4866/implementacion-de-tryton-erp-modulos-afip)
-- [Conexión remota a una instancia RDS de AWS](https://help.sysarmy.com/discussion/4865/conexion-remota-a-una-instancia-rds-de-aws)
-- [proxy pass: apache2 -&gt; apache2 Authorization header.](https://help.sysarmy.com/discussion/4863/proxy-pass-apache2-apache2-authorization-header)
-- [¿Cuanto cobro por un freelo ?](https://help.sysarmy.com/discussion/4861/cuanto-cobro-por-un-freelo)
 <!-- HELP:END -->
 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Escritura para ingenier@s](https://sysarmy.com/blog/posts/la-importancia-de-la-escritura/)
-- [Qué es realmente la observabilidad y por qué es importante](https://sysarmy.com/blog/posts/observabilidad/)
-- [Evitar y recuperarse del _burnout_ trabajando en sistemas](https://sysarmy.com/blog/posts/evitar-burnout-en-sistemas/)
-- [Guardias para empresas sin impresoras de dinero](https://sysarmy.com/blog/posts/oncall-sin-impresoras-de-dinero/)
-- [Sitios De Trabajo Remoto](https://sysarmy.com/blog/posts/sitios-de-trabajo-remoto/)
+- [Consejos para desarrolladores junior](https://sysarmy.com/blog/posts/consejos-junior-devs/)
+- [La Historia de la URL](https://sysarmy.com/blog/posts/historia-de-la-url/)
+- [¡Cómo terminar un proyecto con todo!](https://sysarmy.com/blog/posts/como-finalizar-proyecto/)
+- [El peor día de mi vida &lpar;profesional&rpar;](https://sysarmy.com/blog/posts/el-peor-dia-de-mi-vida-profesional/)
+- [Compensación por guardias](https://sysarmy.com/blog/posts/compensacion-por-guardias/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
-- [Polémica en /var - Las noticias de Julio](https://www.youtube.com/watch?v=0IJBd3Wnyd8)
-- [Polémica en /var - 10 años](https://www.youtube.com/watch?v=Htoca3PynFs)
-- [Polémica en /var - Las noticias de Junio](https://www.youtube.com/watch?v=oY1BhKgrkFQ)
-- [Polémica en /var - Shut up and hire me](https://www.youtube.com/watch?v=9h81p7rnsJo)
-- [Polémica en /Var - Las noticias de Mayo](https://www.youtube.com/watch?v=NCBYK9GElHo)
+- [Polémica en /var - Chau 2022](https://www.youtube.com/watch?v=J6vwodF1I9A)
+- [Valheim Community Server - Los pibes aguantan](https://www.youtube.com/watch?v=wPSmcUIjk-o)
+- [Polémica en /var - Las noticias de Octubre](https://www.youtube.com/watch?v=nQikyENPrjw)
+- [Valheim Community Server - Vicio](https://www.youtube.com/watch?v=rh9w4S4qLOg)
+- [Valheim Community Server - It&#39;s a peaceful life](https://www.youtube.com/watch?v=cwk7TC6ka6g)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes

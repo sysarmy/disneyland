@@ -28,6 +28,244 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20221228-Polemica:
+  titulo: "Polémica en /var - Chau 2022"
+  descripcion: "Las últimas noticias de un año que no fue para nada tranquilo: furor de #ChatGPT, Cosas de gaming, y la falopa de las grandes compañía de tecnología que tanto nos gusta."
+  desde: "2022-12-28 22:00"
+  hasta: "2022-12-28 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=J6vwodF1I9A"
+
+20221205-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-12-05 20:00"
+  hasta: "2022-12-05 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221202-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-12-02 20:00"
+  hasta: "2022-12-02 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221201-Adminbirras:
+  titulo: "#AdminBirras Diciembre 🍻"
+  descripcion: "¡Vení a despedir el año a las últimas #AdminBirras de 2022! ¡En esta edición vuelve la carrera de patchcords con premios, la ticketera emitiendo más que el BCRA, abundancia de stickers, y como siempre mucha buena onda!\n\nSeas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen.\n\nMás detalles en https://www.meetup.com/es-ES/sysarmy/events/289974925/"
+  desde: "2022-12-01 19:00"
+  hasta: "2022-12-01 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
+20221128-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-28 20:00"
+  hasta: "2022-11-28 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221125-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-25 20:00"
+  hasta: "2022-11-25 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221121-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-21 20:00"
+  hasta: "2022-11-21 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221118-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-18 20:00"
+  hasta: "2022-11-18 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221114-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-14 20:00"
+  hasta: "2022-11-14 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221111-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-11 20:00"
+  hasta: "2022-11-11 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+  
+20221109-Polemica:
+  titulo: "Polémica en /var - Las noticias de Octubre"
+  descripcion: "Se pincha la burbuja de IT? Elon rompe Twitter? Ya fue el metaverso? Y ahora en donde cazzo hicieron correr el Doom? Nos reimos de nosotros mismos mientras rapasamos las mejores noticias del mundo de sistemas."
+  desde: "2022-11-09 22:00"
+  hasta: "2022-11-09 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=nQikyENPrjw"
+
+20221107-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-07 20:00"
+  hasta: "2022-11-07 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221104-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-11-04 20:00"
+  hasta: "2022-11-04 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221103-Adminbirras:
+  titulo: "#AdminBirras Noviembre 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen. Más detalles en https://www.meetup.com/es-ES/sysarmy/events/289336148/"
+  desde: "2022-11-03 19:00"
+  hasta: "2022-11-03 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
+20221031-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-10-31 20:00"
+  hasta: "2022-10-31 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221028-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-10-28 20:00"
+  hasta: "2022-10-28 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221014-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-10-14 20:00"
+  hasta: "2022-10-14 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221007-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-10-07 20:00"
+  hasta: "2022-10-07 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20221006-Adminbirras:
+  titulo: "#AdminBirras Octubre 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen. Más detalles en https://www.meetup.com/es/sysarmy/events/288744666/"
+  desde: "2022-10-06 19:00"
+  hasta: "2022-10-06 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
+20221005-Polemica:
+  titulo: "Polémica en /var - Las noticias de Septiembre"
+  descripcion: "Dejamos un riñon por la nueva placa de #NVIDIA, se la pusieron a #Uber, sigue el novelon de Elon y #Twitter...y a todo esto el Voyager sigue andando."
+  desde: "2022-10-05 22:00"
+  hasta: "2022-10-05 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=GbZX5POy1Gs"
+  
+20221003-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-10-03 20:00"
+  hasta: "2022-10-03 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220930-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-09-30 20:00"
+  hasta: "2022-09-30 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220926-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-09-26 20:00"
+  hasta: "2022-09-26 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220923-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-09-23 20:00"
+  hasta: "2022-09-23 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220919-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! Vamos a tratar de matar a The Elder entre todos 😮 ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-09-19 20:00"
+  hasta: "2022-09-19 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220916-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-09-16 20:00"
+  hasta: "2022-09-16 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+  
+20220912-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2022-09-12 20:00"
+  hasta: "2022-09-12 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220909-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
+  desde: "2022-09-09 20:00"
+  hasta: "2022-09-09 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220908-Metadata:
+  titulo: "#Metadata - Pergamino"
+  descripcion: "Evento de tecnología organizado por la comunidad de sistemas de Pergamino, totalmente gratuito. Más información en: https://scrollarmy.com.ar/event.html"
+  desde: "2022-09-08 18:00"
+  hasta: "2022-09-08 21:00"
+  ubicacion: "Echevarría 549, Pergamino, Provincia de Buenos Aires"
+
+20220907-Polemica:
+  titulo: "Polémica en /var - Las noticias de Agosto"
+  descripcion: "Repasamos las noticias de Agosto, entre fibras ópticas caseras, layoffs masivos y curiosidades técnicas. Y obviamente Doom, mucho Doom."
+  desde: "2022-09-07 22:00"
+  hasta: "2022-09-07 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=E7ZLxwyPd-g"
+  
+20220905-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
+  desde: "2022-09-05 20:00"
+  hasta: "2022-09-05 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20220902-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "Nos juntamos a jugar Valheim entre toda la comunidad! Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
+  desde: "2022-09-02 20:00"
+  hasta: "2022-09-02 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+  
+20220901-Adminbirras:
+  titulo: "#AdminBirras Septiembre 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen. Más detalles en https://www.meetup.com/sysarmy/events/288145497/"
+  desde: "2022-09-01 19:00"
+  hasta: "2022-09-01 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
+20220829-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "Inauguramos la primera temporada de Valheim entre toda la comunidad! Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en Discord!"
+  desde: "2022-08-29 20:00"
+  hasta: "2022-08-29 22:00"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
 20220810-Polemica:
   titulo: "Polémica en /var - Las noticias de Julio"
   descripcion: "Repasamos #nerdearla101 y las noticias de Julio que vienen bastante picantes. Perdón por el thumbnail pero tenemos el conference blues."
