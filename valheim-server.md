@@ -10,7 +10,7 @@ Porque a veces cerrar tickets y romper prod no dan suficiente adrenalina como ju
   - [Requisitos técnicos](#requisitos-técnicos)
   - [Cómo unirme al server](#cómo-unirme-al-server)
   - [¿Cuándo jugamos?](#cuándo-jugamos)
-    - [PRIMERA TEMPORADA](#primera-temporada)
+    - [SEGUNDA TEMPORADA](#segunda-temporada)
   - [Consultas y sugerencias](#consultas-sugerencias-etc)
 
 ## ¿Qué es Valheim?
