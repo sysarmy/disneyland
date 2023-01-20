@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20230202-Adminbirras:
+  titulo: "#AdminBirras Febrero 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen.\n\nMás detalles en https://www.meetup.com/es-ES/sysarmy/events/291036207/"
+  desde: "2023-02-02 19:00"
+  hasta: "2023-02-02 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
 20221228-Polemica:
   titulo: "Polémica en /var - Chau 2022"
   descripcion: "Las últimas noticias de un año que no fue para nada tranquilo: furor de #ChatGPT, Cosas de gaming, y la falopa de las grandes compañía de tecnología que tanto nos gusta."
