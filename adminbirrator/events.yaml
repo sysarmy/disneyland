@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20230125-Polemica:
+  titulo: "Polémica en /var - Las noticias de Enero"
+  descripcion: "Arrancamos el año cuesta arriba. Enero fue de todo menos aburrido así que vamos a estar hablando de #IA, fraudes, problemas de seguridad, industria del porno... en fin, la cosa sana."
+  desde: "2023-01-25 22:00"
+  hasta: "2023-01-25 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=0O-uk-7fu74"
+
 20230202-Adminbirras:
   titulo: "#AdminBirras Febrero 🍻"
   descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen.\n\nMás detalles en https://www.meetup.com/es-ES/sysarmy/events/291036207/"
