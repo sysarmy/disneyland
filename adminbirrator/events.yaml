@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20230210-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-02-10 20:30"
+  hasta: "2023-02-10 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230206-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-02-06 20:30"
+  hasta: "2023-02-06 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
 20230125-Polemica:
   titulo: "Polémica en /var - Las noticias de Enero"
   descripcion: "Arrancamos el año cuesta arriba. Enero fue de todo menos aburrido así que vamos a estar hablando de #IA, fraudes, problemas de seguridad, industria del porno... en fin, la cosa sana."
