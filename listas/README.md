@@ -4,10 +4,10 @@
 Se trata de una colección de listas comunitarias que contienen diferentes ítems, contenidos, enlaces, etc. que creemos que le podrían gustar a gente nerd o de sistemas.
 
 ### Tabla de contenidos
-- 🍿 [Películas y series](https://github.com/sysarmy/disneyland/tree/master/listas/peliculas_de_sistemas.md)
-- 🎤 [Podcasts](https://github.com/sysarmy/disneyland/tree/master/listas/podcasts_de_sistemas.md)
-- 👾 [Canales de Twitch](https://github.com/sysarmy/disneyland/tree/master/listas/twitch_de_sistemas.md)
-- 📹 [Canales de YouTube](https://github.com/sysarmy/disneyland/tree/master/listas/youtube_de_sistemas.md)
+- 🍿 [Películas y series](peliculas_de_sistemas.md)
+- 🎤 [Podcasts](podcasts_de_sistemas.md)
+- 👾 [Canales de Twitch](twitch_de_sistemas.md)
+- 📹 [Canales de YouTube](youtube_de_sistemas.md)
 
 ### ¿Puedo agregar elementos a una lista?
 
