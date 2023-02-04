@@ -17,6 +17,8 @@ Si consideras que falta alguna sugerencia no dudes en copiar y modificar la últ
 | ![](https://yt3.ggpht.com/c8cUZCGiVJOSi-cPi4wRTE1tO4LzDc-ydmVFSp6x6icLtVE9eMJfXTTyItRPOzP1JS6G2Ip0=s176-c-k-c0x00ffffff-no-rj-mo) | **nerdearla** | Videos de la conferencia organizada por Sysarmy. | [Ver canal](https://www.youtube.com/c/nerdearla)|
 | ![](https://yt3.ggpht.com/DMbSPOPMiSC1mx96KXQtuOCOVpljifDWE7-la2FSFi4FXybNvev3FLq20vPeyOEUr64XJbQI=s176-c-k-c0x00ffffff-no-rj-mo) |**Damian Olguin [AWS Hero]** | Videos introductorios a Cloud computing, containers, certificaciones y buenas practicas en AWS| [Ver canal](https://www.youtube.com/c/DamianOlguinAWSHERO) |
 | ![](https://yt3.ggpht.com/Z69fhRL9_OaXsDz-XsCUe2sGIqU7G1F5Mwl0PwlBsx_ll13K0nLb47q7_RMen7NHvzMVDgd2=s176-c-k-c0x00ffffff-no-rj-mo) | **Hola Mundo** | Videos con cursos de programación y curiosidades | [Ver canal](https://www.youtube.com/c/HolaMundoDev)|
+| ![](https://yt3.googleusercontent.com/8AOr-i-KT3A4U46kAZKHHnshrV8Mr44DdoV6yzlb24PU3Pnmj6U1X9I44A6V-qRSW95wMyOu=s88-c-k-c0x00ffffff-no-rj) | **BettaTech** | Videos  cursos y reviews para aprender lenguajes de programación como Python, Javascript, TypeScript y además encontrarás tecnologías sorprendentes como Docker! | [Ver canal](https://www.youtube.com/@BettaTech)|
+
 
 ## English
 
