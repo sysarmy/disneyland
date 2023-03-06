@@ -28,6 +28,69 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20230406-Adminbirras:
+  titulo: "#AdminBirras Abril 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen.\n\nMás detalles en https://www.meetup.com/sysarmy/"
+  desde: "2023-04-06 19:00"
+  hasta: "2023-04-06 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+
+20230329-Polemica:
+  titulo: "Polémica en /var - Las noticias de Marzo"
+  descripcion: "Nos juntamos en una nueva edición de Polémica en /var a repasar los acontecimientos más picante del mundo IT del mes de marzo!"
+  desde: "2023-03-29 22:00"
+  hasta: "2023-03-29 23:00"
+  ubicacion: "https://www.youtube.com/@sysarmy"
+
+20230327-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-27 20:30"
+  hasta: "2023-03-27 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230324-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-24 20:30"
+  hasta: "2023-03-24 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230320-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-20 20:30"
+  hasta: "2023-03-20 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230317-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-17 20:30"
+  hasta: "2023-03-17 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230313-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-13 20:30"
+  hasta: "2023-03-13 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230310-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-10 20:30"
+  hasta: "2023-03-10 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
+20230306-Valheim:
+  titulo: "🎮 Valheim! 🛡️⚒️"
+  descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
+  desde: "2023-03-06 20:30"
+  hasta: "2023-03-06 22:30"
+  ubicacion: "https://www.twitch.tv/maragunde"
+
 20230303-Valheim:
   titulo: "🎮 Valheim! 🛡️⚒️"
   descripcion: "¡Nos juntamos a jugar Valheim entre toda la comunidad! ¡Sumate a jugar o a charlar en el chat! Para unirte, pasá por el canal de #gaming👾 en <a href='https://sysar.my/discord'>Discord</a>!\n\nMás información en <a href='valheim.sysar.my'>valheim.sysar.my</a>"
