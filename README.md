@@ -51,11 +51,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resultados de la Encuesta de sueldos 2023.1](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2023-1/)
 - [Señales de que estás en un ambiente laboral tóxico – y cómo sobrellevarlo](https://sysarmy.com/blog/posts/ambiente-laboral-toxico/)
 - [Consejos para desarrolladores junior](https://sysarmy.com/blog/posts/consejos-junior-devs/)
 - [La Historia de la URL](https://sysarmy.com/blog/posts/historia-de-la-url/)
 - [¡Cómo terminar un proyecto con todo!](https://sysarmy.com/blog/posts/como-finalizar-proyecto/)
-- [El peor día de mi vida &lpar;profesional&rpar;](https://sysarmy.com/blog/posts/el-peor-dia-de-mi-vida-profesional/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
