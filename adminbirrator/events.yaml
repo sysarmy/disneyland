@@ -27,6 +27,12 @@
 #
 # Editar debajo de esta línea:
 # ----------------------------
+20230419-Polemica:
+  titulo: "Polémica en /var - Las noticias de abril"
+  descripcion: "La starship de SpaceX explotó mientras que la voz un pibe que juega CSGO se filtra en el audio de la transmisión entonces mete en un ponzi crypto después de ser despedido del laburo y lo tuitea pero no aparece porque el algoritmo de Twitter está roto. Todo eso."
+  desde: "2023-04-26 22:00"
+  hasta: "2023-04-26 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=yOZRZjMwfRI"
 
 20230419-Polemica:
   titulo: "Polémica en /var - Desilusión en el trabajo"
