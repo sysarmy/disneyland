@@ -27,6 +27,16 @@
 #
 # Editar debajo de esta línea:
 # ----------------------------
+
+
+
+20230504-Adminbirras:
+  titulo: "#AdminBirras Mayo 🍻"
+  descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen.\n\nMás detalles en https://www.meetup.com/es-ES/sysarmy/events/293197194/"
+  desde: "2023-05-04 19:00"
+  hasta: "2023-05-04 22:00"
+  ubicacion: "Av. Cnel. Niceto Vega 5702, C1414 Buenos Aires"
+  
 20230426-Polemica:
   titulo: "Polémica en /var - Las noticias de abril"
   descripcion: "La starship de SpaceX explotó mientras que la voz un pibe que juega CSGO se filtra en el audio de la transmisión entonces mete en un ponzi crypto después de ser despedido del laburo y lo tuitea pero no aparece porque el algoritmo de Twitter está roto. Todo eso."
