@@ -28,7 +28,12 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
-
+20230601-Adminbirras:
+  titulo: "#AdminBirras Junio 🍻"
+  descripcion: "¡Vuelven las #AdminBirras, estrenando nuevo bar en CABA! ¡Nos encontramos en la terraza de El Galpón de Tacuara de Palermo con 2x1 hasta las 21:00hs para charlar de sistemas y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es/sysarmy/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
+  desde: "2023-06-01 19:00"
+  hasta: "2023-06-01 23:00"
+  ubicacion: "Honduras 5560, C1414 CABA"
 
 20230504-Adminbirras:
   titulo: "#AdminBirras Mayo 🍻"
