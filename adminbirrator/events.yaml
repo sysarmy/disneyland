@@ -35,6 +35,13 @@
   hasta: "2023-06-01 23:00"
   ubicacion: "Honduras 5560, C1414 CABA"
 
+20230530-Polemica:
+  titulo: "Polémica en /var - Las noticias de mayo"
+  descripcion: "Repasamos las noticias de tecnología de mayo!"
+  desde: "2023-05-30 22:00"
+  hasta: "2023-05-30 23:00"
+  ubicacion: "https://www.youtube.com/@sysarmy"
+
 20230504-Adminbirras:
   titulo: "#AdminBirras Mayo 🍻"
   descripcion: "Seas SysAdmin, Developer, DBA, InfoSec, Networking o de cualquier profesión ligada a sistemas. Incluso si te interesa este ámbito, las #AdminBirras son tu lugar. Hace ya varios años que nos juntamos a charlar y tomar algo en Palermo, arrancando a las 19 hasta que nos echen.\n\nMás detalles en https://www.meetup.com/es-ES/sysarmy/events/293197194/"
