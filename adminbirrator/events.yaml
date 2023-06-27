@@ -28,6 +28,27 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20230706-Adminbirras:
+  titulo: "#AdminBirras Julio 🍻"
+  descripcion: "¡Vuelven las #AdminBirras, estrenando nuevo bar en CABA! ¡Nos encontramos en la terraza de El Galpón de Tacuara de Palermo con 2x1 hasta las 21:00hs para charlar de sistemas y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es-ES/sysarmy/events/294271240/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
+  desde: "2023-07-06 19:00"
+  hasta: "2023-07-06 23:00"
+  ubicacion: "Honduras 5560, C1414 CABA"
+
+20230629-RedHat:
+  titulo: "Red Hat User Group Buenos Aires - Openshift Edition"
+  descripcion: "Meetup de automation y Kubernetes! Casos prácticos, demos en vivo y after!"
+  desde: "2023-06-29 19:00"
+  hasta: "2023-06-29 22:00"
+  ubicacion: "Ing. Enrique Butty 240 piso 14, C1001 CABA"
+
+20230628-Polemica:
+  titulo: "Polémica en /var - Las noticias de junio"
+  descripcion: "Las noticias del mes de Junio, GenZ, incidentes de seguridad, reddit, migrar un país a la nube, adquisiciones y noticias falopa."
+  desde: "2023-06-28 22:00"
+  hasta: "2023-06-28 23:00"
+  ubicacion: "https://www.youtube.com/watch?v=5sT-Y30mX1A"
+
 20230601-Adminbirras:
   titulo: "#AdminBirras Junio 🍻"
   descripcion: "¡Vuelven las #AdminBirras, estrenando nuevo bar en CABA! ¡Nos encontramos en la terraza de El Galpón de Tacuara de Palermo con 2x1 hasta las 21:00hs para charlar de sistemas y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es-ES/sysarmy/events/293766556/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
