@@ -61,11 +61,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Especial #AdminFest 2023](https://www.youtube.com/watch?v=ChA5qqdvnLA)
 - [Polémica en /var - Junio - Linkedination](https://www.youtube.com/watch?v=5sT-Y30mX1A)
 - [Polémica en /var - Las noticias de Mayo](https://www.youtube.com/watch?v=ruhy1nmw6DY)
 - [Recorriendo las calles en busca del evento de Septiembre.](https://www.youtube.com/watch?v=jl01n2FhcgA)
 - [Tips para certificarte de #AWS Solution Architect](https://www.youtube.com/watch?v=iIAw4VjMw3o)
-- [Polémica en /var - Las noticias de Abril](https://www.youtube.com/watch?v=yOZRZjMwfRI)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
