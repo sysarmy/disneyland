@@ -51,11 +51,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [No seas arrogantemente ignorante: no saltes como leche hervida](https://sysarmy.com/blog/posts/no-seas-arrogante/)
 - [Resultados de la Encuesta de sueldos 2023.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2023-2/)
 - [La Vida del Sysadmin](https://sysarmy.com/blog/posts/la-vida-del-sysadmin/)
 - [5 cosas que los fundadores, inversores y reclutadores deberían saber sobre el papel del CTO](https://sysarmy.com/blog/posts/5-cosas-que-los-fundadores-inversores-y-reclutadores-deberian-saber-sobre-el-papel-del-cto/)
 - [¿De dónde viene PING? ¿Cuál es su verdadera función? Yo te cuento.](https://sysarmy.com/blog/posts/ping-de-donde-viene-cual-es-su-verdadera-funcion/)
-- [Mi vida secreta como operador de BBS con 11 años](https://sysarmy.com/blog/posts/vida-secreta-operador-bbs/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
