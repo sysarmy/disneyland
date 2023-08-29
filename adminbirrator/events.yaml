@@ -28,6 +28,21 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+
+20230607-Adminbirras:
+  titulo: "#AdminBirras Septiembre 🍻"
+  descripcion: "¡Vuelven las #AdminBirras de Septiembre! ¡Nos encontramos en la terraza de El Galpón de Tacuara de Palermo para charlar de sistemas y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es/sysarmy/events/295750103/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
+  desde: "2023-09-07 19:00"
+  hasta: "2023-09-07 23:00"
+  ubicacion: "Honduras 5560, C1414 CABA"
+
+20230830-Polemica:
+  titulo: "Polémica en /var - Las noticias de agosto"
+  descripcion: "🚀 Explorando Agosto: Filtraciones, GenZ y Novedades del Open Source en la antesala de Nerdearla23 📰"
+  desde: "2023-08-30 22:00"
+  hasta: "2023-08-30 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=9Pw4oZBKVb0"
+
 20230823-Adminfest:
   titulo: "Polémica en /var - Las noticias de agosto"
   descripcion: "Las noticias de Agosto"
