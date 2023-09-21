@@ -28,6 +28,12 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20230921-Polemica:
+  titulo: "Polémica en /var - Especial Nerdearla 2023"
+  descripcion: "¡En una edición especial de Polémica nos juntamos a repasar la agenda y todo lo que se viene en Nerdearla 2023!"
+  desde: "2023-09-21 22:00"
+  hasta: "2023-09-21 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=Z-N7sSAGo4I"
 
 20230607-Adminbirras:
   titulo: "#AdminBirras Septiembre 🍻"
