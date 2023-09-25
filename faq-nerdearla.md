@@ -1,8 +1,10 @@
- # F.A.Q. Nerdearla 2022 🙋
+ # F.A.Q. Nerdearla 2023 🙋
 
-Faltan muy pocos días para #nerdearla y te acercamos las preguntas más frecuentes.
+Faltan muy pocos días para #Nerdearla y te acercamos las preguntas más frecuentes.
 
-- [Índice](#faq-nerdearla-2022-)
+Además, te acercamos nuestro [manual de attende](https://nerdear.live/attendeemanual) que contesta muchas de las preguntas que quizás tengas.
+
+- [Índice](#faq-nerdearla-2023-)
   - [¿Cuándo? ¿Virtual o presencial?](#cuándo-es-va-a-ser-virtual-o-presencial)
   - [¿Cuándo y dónde accedo?](#desde-cuándo-y-dónde-puedo-acceder-al-evento-virtual)
     - [¿Qué son los Tracks en Swapcard?](#qué-son-los-tracks-que-aparecen-en-swapcard)
@@ -12,7 +14,6 @@ Faltan muy pocos días para #nerdearla y te acercamos las preguntas más frecuen
     - [Requisitos para ingreso presencial](#qué-necesito-para-el-ingreso-al-evento-presencial)
     - [¿Puedo ir presencial si no marqué la opción?](#no-me-registré-para-ir-presencialmente-puedo-ir-igual)
     - [¿Cuántas filas de registro van a haber?](#cuántas-filas-de-registro-va-a-haber)
-    - [¿Cómo hago si voy presencial y quiero ver una charla virtual?](#cómo-hago-si-voy-presencial-y-quiero-ver-una-charla-virtual)
     - [Qué llevar para aprovechar el evento al máximo](#qué-debo-llevar-para-aprovechar-el-evento-al-máximo)
     - [¿Se tienen que registrar menores de edad?](#voy-con-mi-hijoa-menor-de-edad-se-tiene-que-registrar)
     - [¿Van a haber actividades infantiles?](#va-a-haber-actividades-infantiles)
@@ -20,14 +21,15 @@ Faltan muy pocos días para #nerdearla y te acercamos las preguntas más frecuen
 
 ## **¿Cuándo es? ¿Va a ser virtual o presencial?**
 
-El evento será desde el miércoles 19 de octubre al sábado 22 de octubre, en **formato híbrido**:
+El evento será desde el martes 26 de septiembre al sábado 30 de septiembre, en **formato híbrido**:
 
 | Día | Presencial | Virtual |
 | --- | :--------: | :-----: |
-| **Miércoles 19/10** | **No. ⛔️** | Evento **100% virtual** en [Swapcard](https://nerdear.live/). |
-| **Jueves 20/10** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
-| **Viernes 21/10** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
-| **Sábado 22/10** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
+| **Martes 26/09** | **No. ⛔️** | Evento **100% virtual** en [Swapcard](https://nerdear.live/). |
+| **Miércoles 27/09** | **No. ⛔️** | Evento **100% virtual** en [Swapcard](https://nerdear.live/). |
+| **Jueves 28/09** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
+| **Viernes 29/09** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
+| **Sábado 30/09** | Sí, en [Ciudad Cultural Konex](https://g.page/cckonex). | Sí, en [Swapcard](https://nerdear.live/). |
 
 > Todas las charlas van a estar disponibles para streamear en [Swapcard](https://nerdear.live/), independientemente de si son virtuales o presenciales.
 
@@ -52,9 +54,7 @@ Podés ver todos los detalles sobre las charlas y los horarios en https://nerdea
 
 ## **¿Puedo ir al evento presencial? ¿Dónde es?**
 
-Sí! Este año nos reencontramos en el evento presencial en [Ciudad Cultural Konex](https://g.page/cckonex) (Sarmiento 3131, C1196 CABA), los días **jueves, viernes y sábado** (¡recordá que el miércoles es 100% virtual!).
-
-A diferencia del [#nerdearla101](https://github.com/sysarmy/disneyland/blob/master/faq-101.md) pasado, NO hay cupos cupos presenciales limitados, solamente está limitado a la cantidad de personas que entren del predio. ¡Te esperamos allá!
+Sí! Este año nos reencontramos en el evento presencial en [Ciudad Cultural Konex](https://g.page/cckonex) (Sarmiento 3131, C1196 CABA), los días **jueves, viernes y sábado** (¡recordá que martes y miércoles es 100% virtual!).
 
 ### **¿Qué necesito para el ingreso al evento presencial?**
 
@@ -73,10 +73,6 @@ Sobre Sarmiento habrá una fila, que luego en el espacio de registro se dividir�
 
 El personal de entrada te indicará por dónde registrarte al ingresar.
 
-### **¿Cómo hago si voy presencial y quiero ver una charla virtual?**
-
-En el Konex vas a tener un espacio de coworking con conexión a Wi-Fi donde vas a poder sentarte con tu computadora, tablet o celular a disfrutar de todo el contenido virtual. ¡No te olvides tus auriculares!
-
 ### **¿Qué debo llevar para aprovechar el evento al máximo?**
 
 * Laptop o dispositivo móvil si venís a participar del coworking
@@ -89,17 +85,14 @@ En el Konex vas a tener un espacio de coworking con conexión a Wi-Fi donde vas 
 
 Menores de 15 años no necesitan registrarse.
 
-### **¿Va a haber actividades infantiles?**
+### **¿Van a haber actividades infantiles?**
 
-¡Sí! El sábado 22:
-* Espacio de RASTI para que jueguen a armar con sus bloques
-* Espacio Filgo para que dibujen/pinten
-* Geek Out con juegos de mesa
+¡Sí! Podés revisar
 
-Del jueves al sábado funcionará dentro del predio un lactario/cambiador. Consultá con alguien de la organización si necesitás usarlo.
+Tambié funcionará dentro del predio del Konex un lactario/cambiador. Consultá con alguien de la organización si necesitás usarlo.
 
 ### **¿Se suspende por lluvia☔️?**
 
-**NO**, es un clásico de Nerdearla que llueva alguno de los días del evento así que abrigate, ¡traé paraguas/sobretodo y venite!
+¡**NO**, no se suspende por lluvia!
 
 #### 💡 ¿Tenés dudas, consultas o inquietudes que no estén en este F.A.Q? Escribinos a [`help@nerdear.la`](mailto:help@nerdear.la)
