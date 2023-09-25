@@ -16,7 +16,7 @@ Además, te acercamos nuestro [manual de attende](https://nerdear.live/attendeem
     - [¿Cuántas filas de registro van a haber?](#cuántas-filas-de-registro-va-a-haber)
     - [Qué llevar para aprovechar el evento al máximo](#qué-debo-llevar-para-aprovechar-el-evento-al-máximo)
     - [¿Se tienen que registrar menores de edad?](#voy-con-mi-hijoa-menor-de-edad-se-tiene-que-registrar)
-    - [¿Van a haber actividades infantiles?](#va-a-haber-actividades-infantiles)
+    - [¿Van a haber actividades infantiles?](#van-a-haber-actividades-infantiles)
     - [¿Se suspende por lluvia?](#se-suspende-por-lluvia%EF%B8%8F)
 
 ## **¿Cuándo es? ¿Va a ser virtual o presencial?**
