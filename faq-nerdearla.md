@@ -87,9 +87,9 @@ Menores de 15 años no necesitan registrarse.
 
 ### **¿Van a haber actividades infantiles?**
 
-¡Sí! Podés revisar
+¡Sí! Podés revisar el [track KIDS](https://app.swapcard.com/event/nerdearla-2023/plannings/RXZlbnRWaWV3XzYzODcyMw==) para ver todas las actividades infantiles.
 
-Tambié funcionará dentro del predio del Konex un lactario/cambiador. Consultá con alguien de la organización si necesitás usarlo.
+También funcionará dentro del predio del Konex un lactario/cambiador. Consultá con alguien de la organización si necesitás usarlo.
 
 ### **¿Se suspende por lluvia☔️?**
 
