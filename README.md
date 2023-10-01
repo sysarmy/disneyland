@@ -61,11 +61,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Nerdearla CCTV + vivo](https://www.youtube.com/watch?v=buxn5UNik7A)
+- [Nerdearla CCTV + vivo](https://www.youtube.com/watch?v=ExY1D_FfzZs)
 - [Especial Nerdearla 2023](https://www.youtube.com/watch?v=Z-N7sSAGo4I)
 - [🚀 Explorando Agosto: Filtraciones, GenZ y Novedades del Open Source en la antesala de Nerdearla23 📰](https://www.youtube.com/watch?v=9Pw4oZBKVb0)
 - [Especial Devops #AdminFest 2023](https://www.youtube.com/watch?v=ChA5qqdvnLA)
-- [Polémica en /var - Junio - Linkedination](https://www.youtube.com/watch?v=5sT-Y30mX1A)
-- [Polémica en /var - Las noticias de Mayo](https://www.youtube.com/watch?v=ruhy1nmw6DY)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
