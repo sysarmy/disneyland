@@ -41,4 +41,6 @@ run.sh
 ci.sh
 upgrade-all.sh
 restart_tomcat.sh
+setup.sh
+up.ps1
 ```
