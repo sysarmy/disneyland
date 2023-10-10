@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20231011-Polemica:
+  titulo: "Polémica en /var - Las noticias de septiembre"
+  descripcion: "¡Las noticias, lo que pasó en Nerdearla y lo que falta de 2023!"
+  desde: "2023-10-11 22:00"
+  hasta: "2023-10-11 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=woCaypCrwhk"
+
 20231005-Adminbirras:
   titulo: "#AdminBirras Octubre 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar del detrás de escena de #Nerdearla 2023, cómo se vivió el evento mas grande tech de LATAM y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es/sysarmy/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
