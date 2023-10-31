@@ -35,6 +35,13 @@
   hasta: "2023-11-02 23:00"
   ubicacion: "Honduras 5560, C1414 CABA"
 
+20231101-Polemica:
+  titulo: "Polémica en /var - Las noticias de octubre"
+  descripcion: "Repasamos las noticias del mundo tech de octubre"
+  desde: "2023-11-01 22:00"
+  hasta: "2023-11-01 23:30"
+  ubicacion: "https://www.youtube.com/@sysarmy"
+
 20231011-Polemica:
   titulo: "Polémica en /var - Las noticias de septiembre"
   descripcion: "¡Las noticias, lo que pasó en Nerdearla y lo que falta de 2023!"
