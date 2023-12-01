@@ -35,6 +35,13 @@
   hasta: "2023-12-07 23:00"
   ubicacion: "Honduras 5560, C1414 CABA"
 
+20231206-Polemica:
+  titulo: "Polémica en /var - Las noticias de noviembre"
+  descripcion: "Repasamos las noticias del mundo tech de noviembre"
+  desde: "2023-12-06 22:00"
+  hasta: "2023-12-06 23:30"
+  ubicacion: "https://www.youtube.com/@sysarmy"
+
 20231102-Adminbirras:
   titulo: "#AdminBirras Noviembre 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/296857893'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
