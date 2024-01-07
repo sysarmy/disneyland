@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20249110-Polemica:
+  titulo: "Polémica en /var - Las noticias de diciembre"
+  descripcion: "DevOps, passwords que dejan mucho que desear, GTA y gaming, inteligencia artificial, y más en el primer episodio de 2024."
+  desde: "2024-01-10 22:00"
+  hasta: "2024-01-10 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=OpDoh9ZrnYA"
+
 20240104-Adminbirras:
   titulo: "#AdminBirras Enero 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es/sysarmy/events/298146952/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
