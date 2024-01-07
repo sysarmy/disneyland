@@ -61,11 +61,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /var - Las noticias de diciembre](https://www.youtube.com/watch?v=OpDoh9ZrnYA)
 - [Polémica en /var - Las noticias de noviembre](https://www.youtube.com/watch?v=-iCsIt1kGy4)
 - [Polémica en /var - Las noticias de octubre](https://www.youtube.com/watch?v=A0iIw0xXp1w)
 - [El leak más abarcativo de todos - Polémica en /var](https://www.youtube.com/watch?v=GetB4wjW14Y)
 - [Secuestrado por su empleador - Polémica en /var](https://www.youtube.com/watch?v=pXjg1bFul1c)
-- [Ransomware en escala - Polémica en /var](https://www.youtube.com/watch?v=LvYOYfI1enI)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
