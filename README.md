@@ -51,11 +51,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [¿Por qué el lenguaje de programación C es relevante en el 2024? ... Y lo seguirá siendo.](https://sysarmy.com/blog/posts/por-que-c-es-relevante-en-el-2024/)
 - [Sugerencias para desarrolladores que recién empiezan y que ya leyeron todas las otras sugerencias](https://sysarmy.com/blog/posts/sugerencias-para-desarrolladores-que-recien-empiezan/)
 - [Crónicas de Compliance: Cómo el SysAdmin dejó la ansiedad y la preocupación](https://sysarmy.com/blog/posts/cronicas-de-compliance/)
 - [Cómo sentirme cómodo en producción](https://sysarmy.com/blog/posts/sentirme-comodo-produccion/)
 - [No seas arrogantemente ignorante: no saltes como leche hervida](https://sysarmy.com/blog/posts/no-seas-arrogante/)
-- [Resultados de la Encuesta de sueldos 2023.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2023-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
