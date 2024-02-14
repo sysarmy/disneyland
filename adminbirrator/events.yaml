@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20240214-Polemica:
+  titulo: "Polémica en /var - Las noticias de enero"
+  descripcion: "Nos juntamos a repasar las noticias del mundo de tecnología durante enero, en el día que vuelan flechas y corazones por doquier."
+  desde: "2024-02-14 22:00"
+  hasta: "2024-02-14 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=jLU8QDccRf8"
+
 20240201-Adminbirras:
   titulo: "#AdminBirras Febrero 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es/sysarmy/events/298803841/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
