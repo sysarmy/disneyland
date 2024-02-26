@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20240228-Polemica:
+  titulo: "Polémica en /var - Estimar tareas rompió Agile, ¿qué hacemos ahora?"
+  descripcion: "¿Story points? ¿Esfuerzo? ¿Talles de remera? ¿Activos de Marcos Paz? Independientemente de la unidad de medida que uses, en este episodio on-prem de Polémica en /var vamos a hablar de cómo ha afectado la estimación de tareas a Agile como herramienta, y qué podemos hacer para mitigar los problemas que ésto pueda ocasionar."
+  desde: "2024-02-28 12:30"
+  hasta: "2024-02-28 13:00"
+  ubicacion: "https://www.youtube.com/watch?v=FHmpIxOw7IY"
+
 20240214-Polemica:
   titulo: "Polémica en /var - Las noticias de enero"
   descripcion: "Nos juntamos a repasar las noticias del mundo de tecnología durante enero, en el día que vuelan flechas y corazones por doquier."
