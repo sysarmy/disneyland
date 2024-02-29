@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20240307-Adminbirras:
+  titulo: "#AdminBirras Marzo 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/es/sysarmy/events/299499701'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
+  desde: "2024-03-07 19:00"
+  hasta: "2024-03-07 23:00"
+  ubicacion: "Honduras 5560, C1414 CABA"
+
 20240228-Polemica:
   titulo: "Polémica en /var - Estimar tareas rompió Agile, ¿qué hacemos ahora?"
   descripcion: "¿Story points? ¿Esfuerzo? ¿Talles de remera? ¿Activos de Marcos Paz? Independientemente de la unidad de medida que uses, en este episodio on-prem de Polémica en /var vamos a hablar de cómo ha afectado la estimación de tareas a Agile como herramienta, y qué podemos hacer para mitigar los problemas que ésto pueda ocasionar."
