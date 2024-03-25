@@ -61,11 +61,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /var - Trabajo remoto en 2024](https://www.youtube.com/watch?v=-3QQT7WZ4X4)
 - [Polémica en /var - Estimar tareas rompió Agile, ¿qué hacemos ahora?](https://www.youtube.com/watch?v=FHmpIxOw7IY)
 - [Polémica en /var - Las noticias de enero](https://www.youtube.com/watch?v=jLU8QDccRf8)
 - [Polémica en /var - Low-Context DevOps](https://www.youtube.com/watch?v=ZhPtuTgzZWE)
 - [Polémica en /var - Las noticias de diciembre](https://www.youtube.com/watch?v=OpDoh9ZrnYA)
-- [Polémica en /var - Las noticias de noviembre](https://www.youtube.com/watch?v=-iCsIt1kGy4)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
