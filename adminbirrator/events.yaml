@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20240509-Adminbirras:
+  titulo: "#AdminBirras Mayo 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/300541016/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
+  desde: "2024-05-09 19:00"
+  hasta: "2024-05-09 23:00"
+  ubicacion: "Honduras 5560, C1414 CABA"
+
+20240424-Polemica:
+  titulo: "Polémica en /var - Las noticias de $month"
+  descripcion: "¿Dónde se puede jugar DOOM ahora? ¿Qué empresa vendió su alma? ¿A quién pwnearon? Nos juntamos a repasar las últimas noticias del mundo de tecnología!"
+  desde: "2024-04-24 22:00"
+  hasta: "2024-04-24 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=_mF6d8Z_iQQ"
+
 20240404-Adminbirras:
   titulo: "#AdminBirras Abril 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/300113498/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
