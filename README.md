@@ -62,10 +62,10 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 
 <!-- YOUTUBE:START -->
 - [Polémica en /var - Las noticias de $month](https://www.youtube.com/watch?v=_mF6d8Z_iQQ)
+- [Jugamos al panqueque 🥞 con el Profe Matías! Nuevo episodio de Polémica en /var! #linux](https://www.youtube.com/watch?v=rpWj49NFBIc)
 - [Por qué ir a FLISoL?](https://www.youtube.com/watch?v=2ZNgRmfdqAQ)
 - [Polémica en /var - Trabajo remoto en 2024](https://www.youtube.com/watch?v=-3QQT7WZ4X4)
 - [Polémica en /var - Estimar tareas rompió Agile, ¿qué hacemos ahora?](https://www.youtube.com/watch?v=FHmpIxOw7IY)
-- [Polémica en /var - Las noticias de enero](https://www.youtube.com/watch?v=jLU8QDccRf8)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
