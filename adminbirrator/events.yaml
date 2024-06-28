@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20240704-Adminbirras:
+  titulo: "#AdminBirras Julio 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/301913305/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
+  desde: "2024-07-04 19:00"
+  hasta: "2024-07-04 23:00"
+  ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
+
+20240628-Polemica:
+  titulo: "Polémica en /var - Story time++"
+  descripcion: " VHS? Floppy disk? SIAp? Qué es todo eso? Y cómo que no había Wi-Fi? Acompañanos en este read only friday en un viaje en el tiempo que invita a rememorar lo mucho que avanzó la tecnología en estos últimos años 👴"
+  desde: "2024-06-28 12:30"
+  hasta: "2024-06-28 13:30"
+  ubicacion: "https://www.youtube.com/watch?v=o0SpqQPizrU"
+
 20240606-Adminbirras:
   titulo: "#AdminBirras Junio 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/301273845/'>acá</a>. Cómo llegar al bar <a href='https://goo.gl/maps/SpUVrYp9mkbdai9RA'>acá</a>."
