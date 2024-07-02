@@ -35,6 +35,13 @@
   hasta: "2024-07-04 23:00"
   ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
 
+20240703-Polemica:
+  titulo: "Polémica en /var - Las noticias de junio"
+  descripcion: "Data breaches en todos lados, consejos de carrera, y un monton de noticias que ocurrieron durante el mes que sobre todas las cosas nos hacen recordar que la la nube son los padres 🎅"
+  desde: "2024-07-03 22:00"
+  hasta: "2024-07-03 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=7hBITwo0wdY"
+
 20240628-Polemica:
   titulo: "Polémica en /var - Story time++"
   descripcion: " VHS? Floppy disk? SIAp? Qué es todo eso? Y cómo que no había Wi-Fi? Acompañanos en este read only friday en un viaje en el tiempo que invita a rememorar lo mucho que avanzó la tecnología en estos últimos años 👴"
