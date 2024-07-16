@@ -35,6 +35,13 @@
   hasta: "2024-07-26 23:59"
   ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
 
+20240717-Polemica:
+  titulo: "Polémica en /var - Encuesta de sueldos"
+  descripcion: "Nos juntamos a repasar los resultados de la encuesta de sueldos de Openqube 2024.01 en Argentina, qué datita salieron de las respuestas, y qué podemos esperar del futuro cercano"
+  desde: "2024-07-17 22:00"
+  hasta: "2024-07-17 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=1IcMzjdZNLY"
+
 20240704-Adminbirras:
   titulo: "#AdminBirras Julio 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/301913305/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
