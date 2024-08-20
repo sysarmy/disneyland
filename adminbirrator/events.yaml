@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20240905-Adminbirras:
+  titulo: "#AdminBirras Septiembre 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/302934502/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
+  desde: "2024-09-05 19:00"
+  hasta: "2024-09-05 23:00"
+  ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
+
+20240821-Polemica:
+  titulo: "Polémica en /var - Performance web"
+  descripcion: "La vida era más fácil cuando era todo HTML plano? Si. Pero esto es 2024. 🎙️ Hoy hablamos sobre mejores prácticas en rendimiento web 🖥️ Discutimos las etapas clave para optimizar tu sitio, desde lo básico hasta técnicas avanzadas."
+  desde: "2024-08-21 22:00"
+  hasta: "2024-08-21 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=ln7MxYzxvYA"
+
 20240807-Polemica:
   titulo: "Polémica en /var - FinOps 2024"
   descripcion: "Manejar una cuenta de un proveedor de servicios en la nube es muy complejo. ¿Y qué pasa cuando son 10? ¿Y si son 100? En este episodio especial vamos a analizar el estado del arte de FinOps, la práctica organizacional que busca traer un poco de orden al caos de los cloud providers, y veremos si podemos aprender algo de los grandes jugadores del mercado 🎅"
