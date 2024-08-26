@@ -61,11 +61,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Polémica en /var - Performance web](https://www.youtube.com/watch?v=ln7MxYzxvYA)
 - [Polémica en /var - FinOps 2024](https://www.youtube.com/watch?v=3GBliyZP_NE)
 - [Polémica en /var - Encuesta de sueldos 2024.01](https://www.youtube.com/watch?v=1IcMzjdZNLY)
 - [Polémica en /var - Las noticias de junio](https://www.youtube.com/watch?v=7hBITwo0wdY)
 - [Polémica en /var - Story time++](https://www.youtube.com/watch?v=o0SpqQPizrU)
-- [Polémica en /var - Las noticias de mayo](https://www.youtube.com/watch?v=6fuFmynEVvQ)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
