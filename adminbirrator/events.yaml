@@ -27,6 +27,19 @@
 #
 # Editar debajo de esta línea:
 # ----------------------------
+20241031-Adminbirras:
+  titulo: "#AdminBirras Noviembre 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/303924156/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
+  desde: "2024-10-31 19:00"
+  hasta: "2024-10-31 23:00"
+  ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
+
+20241009-Polemica:
+  titulo: "Polémica en /var - Las noticias de octubre"
+  descripcion: "Después de Nerdearla 2024, repasamos las últimas novedades del mundo tech y tiramos un par de tips útiles para mantener la productividad en lo que resta del año."
+  desde: "2024-10-09 22:00"
+  hasta: "2024-10-09 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=QoGHHSXE_NM"
 
 20241003-Adminbirras:
   titulo: "#AdminBirras Octubre 🍻"
