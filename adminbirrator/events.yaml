@@ -27,6 +27,14 @@
 #
 # Editar debajo de esta línea:
 # ----------------------------
+
+20241217-Polemica:
+  titulo: "Polémica en /var - Chau 2024"
+  descripcion: "En este año tuvimos 3 (sí, 3) Nerdearlas, 12 #AdminBirras, 1 #AdminFest y decenas de eventos de tecnología por todos lados. Cerramos el año con un episodio de noticias con war flashbacks y lo que se viene para 2025."
+  desde: "2024-12-17 22:00"
+  hasta: "2024-12-17 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=gV3crljv1vg"
+
 20241206-Adminbirras:
   titulo: "#AdminBirras Fin de Año 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/304666909/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
