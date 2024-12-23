@@ -61,7 +61,7 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
-- [Polémica en /var - Chau 2024](https://www.youtube.com/watch?v=gV3crljv1vg)
+- [Polémica en /var - Chau 2024](https://www.youtube.com/watch?v=Fe5auHAIo5w)
 - [Polémica en /var - Las noticias octubre](https://www.youtube.com/watch?v=QoGHHSXE_NM)
 - [Polémica en /var - Performance web](https://www.youtube.com/watch?v=ln7MxYzxvYA)
 - [Polémica en /var - FinOps 2024](https://www.youtube.com/watch?v=3GBliyZP_NE)
