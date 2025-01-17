@@ -37,17 +37,6 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 - :space_invader: [Canales de Twitch](/listas/twitch_de_sistemas.md)
 - :video_camera: [Canales de YouTube](/listas/youtube_de_sistemas.md)
 
-
-### 🆘 Últimas Preguntas en /help
-
-<!-- HELP:START -->
-- [CONFIGURACION MIKROTIK RB750Gr3](https://help.sysarmy.com/discussion/4875/configuracion-mikrotik-rb750gr3)
-- [consulta sobre formacion](https://help.sysarmy.com/discussion/4874/consulta-sobre-formacion)
-- [Snapd: ¿vale la pena?](https://help.sysarmy.com/discussion/4873/snapd-vale-la-pena)
-- [Certificados para sitios web de una intranet](https://help.sysarmy.com/discussion/4872/certificados-para-sitios-web-de-una-intranet)
-- [Test de performance de un router](https://help.sysarmy.com/discussion/4871/test-de-performance-de-un-router)
-<!-- HELP:END -->
-
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -94,5 +83,5 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 [spotify]: https://sysar.my/spotify
 [instagram]: https://www.instagram.com/sysarmy/
 [linkedin]: https://www.linkedin.com/groups/4736196
-[irc]: https://webchat.freenode.net/?channels=#sysarmy
+[irc]: https://web.libera.chat/?channels=#sysarmy
 [icons]: https://simpleicons.org
