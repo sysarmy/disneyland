@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20250605-Adminbirras:
+  titulo: "#AdminBirras Junio 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/307979756/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
+  desde: "2025-06-05 19:00"
+  hasta: "2025-06-05 23:00"
+  ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
+
+20250528-NoHayBackup:
+  titulo: "No hay backup 🔥"
+  descripcion: "¿Quién es la persona o el equipo encargado de generar urgencia en un ámbito corporativo? ¿Es la persona haciendo el trabajo? ¿Es el cliente? En este mini episodio de No Hay Backup discutimos respecto a ritmos y urgencias en el día a día laboral."
+  desde: "2025-05-28 22:00"
+  hasta: "2025-05-28 22:30"
+  ubicacion: "https://www.youtube.com/watch?v=p_97E4IpxqY"
+
 20250508-Adminbirras:
   titulo: "#AdminBirras Mayo 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/307428538/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
