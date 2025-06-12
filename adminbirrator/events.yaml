@@ -28,6 +28,20 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20250725-Adminfest:
+  titulo: "#AdminFest 2025 🍻"
+  descripcion: "#AdminFest es un evento que nació en 2009, en la Ciudad de Buenos Aires, para festejar el día del SysAdmin.\n\nAdministradores de sistemas, sysadmins, el chico de TI o la chica de TI... Tenemos muchos nombres, y siempre estamos ahí, actualizando antivirus, peleando por vos con la impresora, hablando con la nube, o tirando queries.\n\nSeas sysadmin, developer, de profesiones relacionadas o no a sistemas, sumate el último viernes de julio a brindar con tus sysadmins favoritos por los tickets cerrados, las guardias sobrevividas y la satisfacción de un trabajo bien realizado.\n\nMás info en https://adminfest.com/"
+  desde: "2025-07-25 19:00"
+  hasta: "2025-07-25 23:59"
+  ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
+
+20250703-Adminbirras:
+  titulo: "#AdminBirras Julio 🍻"
+  descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/307979756/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
+  desde: "2025-07-03 19:00"
+  hasta: "2025-07-03 23:00"
+  ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
+
 20250605-Adminbirras:
   titulo: "#AdminBirras Junio 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/307979756/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
