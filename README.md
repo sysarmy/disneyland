@@ -51,10 +51,10 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 
 <!-- YOUTUBE:START -->
 - [Sobre la urgencia](https://www.youtube.com/watch?v=p_97E4IpxqY)
+- [Equipos de producto](https://www.youtube.com/watch?v=nAfJ-ESWupU)
 - [High Performance Teams](https://www.youtube.com/watch?v=JN6WkZE_bIk)
 - [A**holes: tácticas para sobrevivir en el trabajo](https://www.youtube.com/watch?v=fEwMfS9dd7A)
 - [Polémica en /var - Chau 2024](https://www.youtube.com/watch?v=Fe5auHAIo5w)
-- [Polémica en /var - Las noticias octubre](https://www.youtube.com/watch?v=QoGHHSXE_NM)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
