@@ -42,6 +42,13 @@
   hasta: "2025-07-03 23:00"
   ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
 
+20250625-NoHayBackup:
+  titulo: "No hay backup 🔥"
+  descripcion: "¿Qué lleva a una persona de bien a convertirse en una persona de producto? ¿De qué sirven los product managers? Vamos a tratar de descifrar cómo ve el mundo corporativo con nuestros invitados especiales, Euge y Fede, dos personas de producto. ¿Se necesitan más o mejores devs? ¿El cliente siempre sabe lo que quiere? ¿Se puede mantener un roadmap con objetivos de corto, mediano y largo plazo? Todo esto más en este super episodio de No Hay Backup"
+  desde: "2025-06-25 22:00"
+  hasta: "2025-06-25 23:30"
+  ubicacion: "https://www.youtube.com/watch?v=nAfJ-ESWupU"
+
 20250605-Adminbirras:
   titulo: "#AdminBirras Junio 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/307979756/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
