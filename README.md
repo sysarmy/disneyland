@@ -50,8 +50,8 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
-- [Sobre la urgencia](https://www.youtube.com/watch?v=p_97E4IpxqY)
 - [Equipos de producto](https://www.youtube.com/watch?v=nAfJ-ESWupU)
+- [Sobre la urgencia](https://www.youtube.com/watch?v=p_97E4IpxqY)
 - [High Performance Teams](https://www.youtube.com/watch?v=JN6WkZE_bIk)
 - [A**holes: tácticas para sobrevivir en el trabajo](https://www.youtube.com/watch?v=fEwMfS9dd7A)
 - [Polémica en /var - Chau 2024](https://www.youtube.com/watch?v=Fe5auHAIo5w)
