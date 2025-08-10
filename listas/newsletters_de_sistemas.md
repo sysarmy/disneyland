@@ -10,6 +10,9 @@
 - [SRE Weekly](https://sreweekly.com/)
 - [Devops Weekly](https://www.devopsweekly.com/)
 - [Rex Woodbury](https://substack.com/@digitalnative)
+- [C# Digest](https://csharpdigest.net/)
+- [.NET Saturday](https://juliocasal.com/blog)
+- [ASP.NET Core News](https://aspnetcore.news/)
 
 ## 💧 Lágrimas de Manager
 
@@ -18,3 +21,4 @@
 - [OnlyCFO](https://substack.com/@onlycfo): Only if you are into business metrics, numbers and CFO stuff +1
 - [IT Revolution](https://itrevolution.com/)
 - [Amazing CTO](https://www.amazingcto.com/cto-newsletter/)
+- [Engineering Leadership Newsletter](https://newsletter.eng-leadership.com/)
