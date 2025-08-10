@@ -8,6 +8,7 @@ Se trata de una colección de listas comunitarias que contienen diferentes ítem
 - 🎤 [Podcasts](podcasts_de_sistemas.md)
 - 👾 [Canales de Twitch](twitch_de_sistemas.md)
 - 📹 [Canales de YouTube](youtube_de_sistemas.md)
+- 📬 [Newsletters](newsletters_de_sistemas.md)
 
 ### ¿Puedo agregar elementos a una lista?
 
