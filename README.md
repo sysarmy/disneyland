@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [#NoHayBackup - Palpitando #Nerdearla 2025](https://www.youtube.com/watch?v=3RAghZM5KIg)
 - [Construyendo arquitecturas evolutivas](https://www.youtube.com/watch?v=-9rAoJuCn7U)
 - [A agarrar la pala](https://www.youtube.com/watch?v=ACv3eEvpUcY)
 - [Equipos de producto](https://www.youtube.com/watch?v=nAfJ-ESWupU)
 - [Sobre la urgencia](https://www.youtube.com/watch?v=p_97E4IpxqY)
-- [High Performance Teams](https://www.youtube.com/watch?v=JN6WkZE_bIk)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
