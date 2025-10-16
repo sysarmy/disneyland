@@ -28,6 +28,13 @@
 # Editar debajo de esta línea:
 # ----------------------------
 
+20251022-NoHayBackup:
+  titulo: "No hay backup 🔥"
+  descripcion: "¿Es por las daily? ¿Es por las 1:1? ¿Demasiado micromanagement? En este episodio de #NoHayBackup vamos a tratar de entender qué es lo que hace que un manager sea odiado, y cómo evitar caer en las trampas más comunes cuando te toca liderar equipos."
+  desde: "2025-10-22 22:00"
+  hasta: "2025-10-22 22:30"
+  ubicacion: "https://www.youtube.com/watch?v=8Iz1XUPheBY"
+
 20251009-Adminbirras:
   titulo: "#AdminBirras Octubre 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/311063523/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
