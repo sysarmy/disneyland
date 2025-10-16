@@ -52,9 +52,9 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 <!-- YOUTUBE:START -->
 - [#NoHayBackup - Palpitando #Nerdearla 2025](https://www.youtube.com/watch?v=3RAghZM5KIg)
 - [Construyendo arquitecturas evolutivas](https://www.youtube.com/watch?v=-9rAoJuCn7U)
+- [Managers odiosos](https://www.youtube.com/watch?v=8Iz1XUPheBY)
 - [A agarrar la pala](https://www.youtube.com/watch?v=ACv3eEvpUcY)
 - [Equipos de producto](https://www.youtube.com/watch?v=nAfJ-ESWupU)
-- [Sobre la urgencia](https://www.youtube.com/watch?v=p_97E4IpxqY)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
