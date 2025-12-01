@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Managers odiosos](https://www.youtube.com/watch?v=8Iz1XUPheBY)
 - [AdminFest 2012 - Plaza [resubido]](https://www.youtube.com/watch?v=u1su7z5BfNY)
 - [AdminFest 2012 - Llanto [resubido]](https://www.youtube.com/watch?v=oTJd9On06yU)
 - [????? ??? ?????????](https://www.youtube.com/watch?v=x3mVhKCkfLQ)
 - [#NoHayBackup - Palpitando #Nerdearla 2025](https://www.youtube.com/watch?v=3RAghZM5KIg)
-- [Construyendo arquitecturas evolutivas](https://www.youtube.com/watch?v=-9rAoJuCn7U)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
