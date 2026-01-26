@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [De junior pragmático a senior tóxico](https://www.youtube.com/watch?v=FE49a-9RCUk)
 - [AI-powered chaos](https://www.youtube.com/watch?v=jjIyYhT6Xmk)
 - [Managers odiosos](https://www.youtube.com/watch?v=8Iz1XUPheBY)
 - [AdminFest 2012 - Plaza [resubido]](https://www.youtube.com/watch?v=u1su7z5BfNY)
 - [AdminFest 2012 - Llanto [resubido]](https://www.youtube.com/watch?v=oTJd9On06yU)
-- [????? ??? ?????????](https://www.youtube.com/watch?v=x3mVhKCkfLQ)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
