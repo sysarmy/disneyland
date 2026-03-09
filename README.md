@@ -40,11 +40,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Resultados de la Encuesta de sueldos 2026.1](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2026-1/)
 - [50 herramientas y comandos CLI que no vas a poder dejar de usar](https://sysarmy.com/blog/posts/50-herramientas-cli-no-vas-a-poder-dejar-de-usar/)
 - [Agenda de nerdear.la 2025](https://sysarmy.com/blog/posts/agenda-de-nerdearla-2025/)
 - [Resultados del pulso de sueldos 2025.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2025-2/)
 - [PostScript: Una imprenta digital](https://sysarmy.com/blog/posts/historia-postscript/)
-- [Cómo dar una gran charla en una conferencia](https://sysarmy.com/blog/posts/como-dar-una-gran-charla-en-una-conferencia/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
