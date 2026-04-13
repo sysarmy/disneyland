@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Networking en eventos de tecnología](https://www.youtube.com/watch?v=o_2FxrFxTME)
 - [AI is going great](https://www.youtube.com/watch?v=565Istq-GoY)
 - [De junior pragmático a senior tóxico](https://www.youtube.com/watch?v=FE49a-9RCUk)
 - [AI-powered chaos](https://www.youtube.com/watch?v=jjIyYhT6Xmk)
 - [Managers odiosos](https://www.youtube.com/watch?v=8Iz1XUPheBY)
-- [AdminFest 2012 - Plaza [resubido]](https://www.youtube.com/watch?v=u1su7z5BfNY)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
