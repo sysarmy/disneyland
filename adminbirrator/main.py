@@ -262,7 +262,7 @@ if __name__ == "__main__":
     LOGGER = getLogger("main")
 
     LOGGER.info(
-        """Comenzando ejecución...
+        r"""Comenzando ejecución...
         
          _       _           _       _     _                _
         / \   __| |_ __ ___ (_)_ __ | |__ (_)_ __ _ __ __ _| |_ ___  _ __
@@ -313,8 +313,8 @@ if __name__ == "__main__":
     clean_orphans(yaml_future_events, SERVICE)
 
     LOGGER.info(
-        """Ejecución finalizada.
-    
+        r"""Ejecución finalizada.
+
     🤖 My job here is done ¯\_(ツ)_/¯
     🤖 Owner root@sysarmy.com
     """
