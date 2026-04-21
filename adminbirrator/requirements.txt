@@ -13,7 +13,7 @@ idna==3.7
 mypy-extensions==0.4.3
 pathspec==0.9.0
 platformdirs==2.5.2
-protobuf==3.20.2
+protobuf==5.29.6
 pyasn1==0.6.3
 pyasn1-modules==0.4.2
 pyparsing==3.0.9
