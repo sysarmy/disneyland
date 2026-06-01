@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Cómo hacer para que aprueben mi charla en Nerdearla](https://www.youtube.com/watch?v=9vlOsg4tkE8)
 - [El efecto de la IA en la economía](https://www.youtube.com/watch?v=y0ApweV4_S4)
 - [Networking en eventos de tecnología](https://www.youtube.com/watch?v=o_2FxrFxTME)
 - [AI is going great](https://www.youtube.com/watch?v=565Istq-GoY)
 - [De junior pragmático a senior tóxico](https://www.youtube.com/watch?v=FE49a-9RCUk)
-- [AI-powered chaos](https://www.youtube.com/watch?v=jjIyYhT6Xmk)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
