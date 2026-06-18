@@ -35,6 +35,13 @@
   hasta: "2026-07-31 23:59"
   ubicacion: "Av. Juan B Justo 2441, C1414 CABA"
 
+20260703-DBADAY:
+  titulo: "DBA Appreciation Day 💾"
+  descripcion: "Como todos los años, el primer viernes del mes de julio celebramos el Día de Apreciación del DBA. Saludá a tu administrador/a de bases de datos más cercano, y agradecele por esas querys interminables y esa latencia inexistente de todos los días."
+  desde: "2026-07-03 10:00"
+  hasta: "2026-07-03 12:00"
+  ubicacion: "https://dbaday.org/"
+
 20260702-Adminbirras:
   titulo: "#AdminBirras Julio 🍻"
   descripcion: "Nos juntamos en las #AdminBirras de Sysarmy a tomar algo y charlar de tecnología y hacer comunidad! ¡Te esperamos! Mas info sobre el evento <a href='https://www.meetup.com/sysarmy/events/315297840/'>acá</a>. Cómo llegar al bar <a href='https://maps.app.goo.gl/KLPcxKcnNSHMoCCt7'>acá</a>."
