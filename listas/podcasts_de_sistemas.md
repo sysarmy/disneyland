@@ -2,9 +2,9 @@ La idea es compilar una lista de podcasts de sistemas y afines.
 
 ## Español
 
-### Polémica en /var
+### No Hay Backup
 El café informativo de sysarmy. Noticias del mundo Linux, Administración de sistemas y DevOps, mezclado con novedades sobre eventos, IPOs falopas, etc.
-- [Spotify](https://open.spotify.com/show/4aSX6qCCbNLmOUX4fftc5M?si=6CUV-BvyQg6M0HmcbxnIrg)
+- [Youtube](https://www.youtube.com/channel/UCPE3EUzO58EBHzrJp2Fv7_A)
 
 ### Dominio Digital
 Dominio Digital es un programa que habla de tecnología siempre con una mirada diferente,analítica y crítica. Es conducido por Claudio Regis y acompañado por Daniel "El Chacal" Sentinelli, Alejandro Ponicke y Daniela Gastaminza.
@@ -135,6 +135,18 @@ Un podcast que fusiona elementos fantásticos como hechicería y aventura con pr
 Programa de Radio emitido por FM la Colectiva los Viernes de 19Hs a 21Hs, Derecho Informático, Internet, Tecnología, hacktivismo, entrevistas, con una mirada social. Conduce el Dr Rodrigo Iglesias
 
 - [Lo Demas es Silencio](https://open.spotify.com/show/68H8AAva8xHk2ifFUm9yuZ?si=cX-tL0_VRtSwunAQWTyqiA)
+
+### Builders OFF the record
+
+Conversaciones honestas con founders y builders e indiehackers sobre startups, inteligencia Artificial, presente y futuro de Internet.
+
+- [Builders OFF the record](https://www.youtube.com/@BuildersOFFtherecord)
+
+### SLATV
+
+Siguiendo los acontecimientos. El medio de comunicación sobre tecnología y start ups en español.
+
+-[](https://www.youtube.com/@SLA-TEVE)
 
 
 ## Portugués
