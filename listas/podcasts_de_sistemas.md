@@ -146,7 +146,7 @@ Conversaciones honestas con founders y builders e indiehackers sobre startups, i
 
 Siguiendo los acontecimientos. El medio de comunicación sobre tecnología y start ups en español.
 
--[](https://www.youtube.com/@SLA-TEVE)
+-[SLATV](https://www.youtube.com/@SLA-TEVE)
 
 
 ## Portugués
