@@ -8,6 +8,7 @@ Si consideras que falta alguna sugerencia no dudes en copiar y modificar la últ
 
 | **Imagen del canal** | **Nombre** | **Descripción** | **Enlace** |
 |:--------:| :---------: | :----------: | :--------:|
+|  ![](https://yt3.googleusercontent.com/hOljSYKeqrlBItthfhT8pBDE6moEPPj3rRxm4P6EP7iaYhIjTRDnR5y1A_85BzZJNAhiwujKXA=s160-c-k-c0x00ffffff-no-rj) |**Pocho Labs**| Soy Ezequiel pero me dicen Pocho, comparto contenido sobre domótica, impresión 3D, cositas self-hosted y más, para que todos puedan meterse en este mundo maravilloso! | [Ver canal](https://www.youtube.com/channel/UCQajn-WAfcvKo9I4TNamTtA) |
 |  ![](https://yt3.ggpht.com/ytc/AMLnZu_CnBzlZFN_IHe9wkA8WGojJbcTahR28xFVUY0F=s176-c-k-c0x00ffffff-no-rj-mo) |**PyAr - Python Argentina**| Conferencias y videos de Python Argentina | [Ver canal](https://www.youtube.com/channel/UCjYLIv07fw21w0uIAtUMnNA/) |
 | ![Alan](https://yt3.ggpht.com/ytc/AMLnZu9fEFPTwTjFOrzWy0lt9iKFcnP8flZJ3OT0N4OSKA=s176-c-k-c0x00ffffff-no-rj-mo) |**Alan Levy** | Canal dedicado a contenido sobre Seguridad de la Información - "Hacking Nights". Entrevistas, #bugbounty #hacking herramientas consejos y mucho mucho más. | [Ver canal](https://www.youtube.com/c/AlanLevy-ElMago)|
 | ![](https://yt3.ggpht.com/ytc/AMLnZu_zUka2HwUNd62HwrFWebH9yzFKCvmTiqoNYjU=s88-c-k-c0x00ffffff-no-rj) | **Old Guy at The Terminal** |  ¿Un jovato usando una terminal, qué podés esperar? | [Ver canal](https://www.youtube.com/c/OldGuyatTheTerminal) | 
