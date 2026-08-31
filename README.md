@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [La startup que engañó a Silicon Valley](https://www.youtube.com/watch?v=WjykF1A6KhI)
 - [Enamorados de la máquina](https://www.youtube.com/watch?v=noePU5a5iAk)
 - [La decadencia es total](https://www.youtube.com/watch?v=lNMh46MKvqo)
 - [Cómo hacer para que aprueben mi charla en Nerdearla](https://www.youtube.com/watch?v=9vlOsg4tkE8)
 - [El efecto de la IA en la economía](https://www.youtube.com/watch?v=y0ApweV4_S4)
-- [Networking en eventos de tecnología](https://www.youtube.com/watch?v=o_2FxrFxTME)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
