@@ -40,11 +40,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📕 Últimos Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sistema IoT para monitoreo ambiental en Nerdearla: arquitectura, hardware y aprendizajes](https://sysarmy.com/blog/posts/iot-nerdearla-monitoreo-ambiental/)
 - [Resultados de la Encuesta de sueldos 2026.1](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2026-1/)
 - [50 herramientas y comandos CLI que no vas a poder dejar de usar](https://sysarmy.com/blog/posts/50-herramientas-cli-no-vas-a-poder-dejar-de-usar/)
 - [Agenda de nerdear.la 2025](https://sysarmy.com/blog/posts/agenda-de-nerdearla-2025/)
 - [Resultados del pulso de sueldos 2025.2](https://sysarmy.com/blog/posts/resultados-de-la-encuesta-de-sueldos-2025-2/)
-- [PostScript: Una imprenta digital](https://sysarmy.com/blog/posts/historia-postscript/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Últimos posts en Youtube
