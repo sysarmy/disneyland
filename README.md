@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [¿Meta te deja solo ante los errores de su IA? ⚖️😬 #Meta #IA](https://www.youtube.com/shorts/lj99P48FMBU)
+- [#NoHayBackup en vivo](https://www.youtube.com/watch?v=E30UqFy3XCw)
+- [¿8200 juegos y casi todo copia de copia? 🎮🤖 #Indie #Juegos](https://www.youtube.com/shorts/Bc6vQD8DoTM)
 - [Como seducir a los developers?  #nohaybackup #podcast](https://www.youtube.com/shorts/zYguCWWsOvY)
 - [Platform Engineering](https://www.youtube.com/watch?v=UnmSX8u7ams)
-- [La startup que engañó a Silicon Valley](https://www.youtube.com/watch?v=WjykF1A6KhI)
-- [Enamorados de la máquina](https://www.youtube.com/watch?v=noePU5a5iAk)
-- [La decadencia es total](https://www.youtube.com/watch?v=lNMh46MKvqo)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
