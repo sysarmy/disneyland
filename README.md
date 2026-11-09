@@ -50,11 +50,11 @@ Armamos una [colección de listas comunitarias](/listas) con diferentes ítems, 
 ### 📺 Últimos posts en Youtube
 
 <!-- YOUTUBE:START -->
+- [Ansiedad social? Qué hacer con las manos?  #nohaybackup #podcast](https://www.youtube.com/shorts/-lOLAzlpt2E)
 - [Controlling Ass***** en las reuniones y como managers.  #nohaybackup #podcast](https://www.youtube.com/shorts/6F535yYveps)
 - [¿alguno de ustedes tiene alguno de estos seniors tóxicos en el equipo? #nohaybackup #podcast](https://www.youtube.com/shorts/srvd0PYwTDY)
 - [El código no se auto-documenta.  #nohaybackup #ia #podcast](https://www.youtube.com/shorts/nJ9fgfzHWOA)
 - [¿Meta te deja solo ante los errores de su IA? ⚖️😬 #Meta #IA](https://www.youtube.com/shorts/lj99P48FMBU)
-- [#NoHayBackup en vivo](https://www.youtube.com/watch?v=E30UqFy3XCw)
 <!-- YOUTUBE:END -->
 
 ### Otros links relevantes
